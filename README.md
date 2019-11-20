@@ -9,3 +9,17 @@ It is maintained by the Mayrose Lab (Plant Evolution, bioinformatics and compara
 - The plant C-value database, which can be found here:
 https://cvalues.science.kew.org/search/
 Leitch IJ, Johnston E, Pellicer J, Hidalgo O, Bennett MD. 2019. Plant DNA C-values database (release 7.1, Apr 2019)
+
+## Aims
+
+The aims of this repository is to automate data extraction from websites. The idea is not new, but hopefully I have implemented some pretty simple python scripts to do this. Packages such as os, Selenium and BeautifulSoup make extraction much less painful.
+
+The scripts need a few packages to work, you will need to download these, using apt-get, or pip:
+- pandas
+- csv
+- ssl 
+- Selenium
+- BeautifulSoup
+- os
+
+In particular, Selenium can be used to automate clicking, checking and scrolling actions on a browser. HTML files can then be downloaded on each iteration of search, for example.

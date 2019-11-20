@@ -52,7 +52,7 @@ while i < 109:
 		# get the current html
 	html = browser.page_source
 		# create the save path
-	save_path = '/Users/mbrown/OneDrive - University of Edinburgh/Cross_ploidy/Downloads_csv/selenium_html_output'
+	save_path = './selenium_html_output'
 		# name the html
 	completeName = os.path.join(save_path, "cvalues_kew_" + str(i) + ".html") 
 		# make the file

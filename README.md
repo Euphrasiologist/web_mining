@@ -23,3 +23,8 @@ The scripts need a few packages to work, you will need to download these, using 
 - os
 
 In particular, Selenium can be used to automate clicking, checking and scrolling actions on a browser. HTML files can then be downloaded on each iteration of search, for example.
+
+## Data
+
+Feel free to take and edit as you like, but if you are using the websites above (or any other website that holds data!) please cite them in any work that you produce from them down the line.
+

@@ -35,7 +35,7 @@ for i in range(1, 109):
 		rows.append([val.text.encode('utf8') for val in row.find_all('td')])
 
 
-	with open('/Users/mbrown/OneDrive - University of Edinburgh/Cross_ploidy/Downloads_csv/html_csv_outputs' + "cvalues_kew_" + str(i) + '.csv', 'w') as f:
+	with open('./html_csv_outputs' + "cvalues_kew_" + str(i) + '.csv', 'w') as f:
 		writer = csv.writer(f)
 		writer.writerow(headers)
 		writer.writerows(row for row in rows if row)

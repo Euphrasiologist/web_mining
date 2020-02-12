@@ -1,0 +1,2628 @@
+Gall_sp,Status,Parasitoid,Total_number,Per_country
+Andricus alniensis,bisexual,Synergus facialis,,FR
+Andricus alniensis,bisexual,Synergus thaumacerus,,FR
+Andricus alniensis,bisexual,Ormyrus pomaceus,,FR
+Andricus alniensis,bisexual,Mesopolobus tibialis,,FR
+Andricus amblycerus,asexual,Ceroptres clavicornis,7,"AT 2,HU 5,PL"
+Andricus amblycerus,asexual,Synergus apicalis,,"AT,HU"
+Andricus amblycerus,asexual,Synergus facialis,1,HU 1
+Andricus amblycerus,asexual,Synergus pallipes,1,"AT,HU 1"
+Andricus amblycerus,asexual,Synergus umbraculus,,"AT,PL"
+Andricus amblycerus,asexual,Eurytoma setigera,1,AT 1
+Andricus amblycerus,asexual,Sycophila biguttata,4,HU 4
+Andricus amblycerus,asexual,Sycophila flavicollis,1,HU 1
+Andricus amblycerus,asexual,Sycophila variegata,1,HU 1
+Andricus amblycerus,asexual,Ormyrus nitidulus,,"RO,AT 6,HU 25"
+Andricus amblycerus,asexual,Caenacis lauta,1,HU 1
+Andricus amblycerus,asexual,Eupelmus urozonus,4,HU 4
+Andricus amenti,bisexual,Mesopolobus amaenus,,AT
+Andricus amenti,bisexual,Mesopolobus tibialis,,AT
+Andricus amenti,bisexual,Mesopolobus xanthocerus,12,"AT,FR 12"
+Andricus amenti,bisexual,Eupelmus urozonus,,AT
+Andricus amenti,bisexual,Aulogymnus gallarum,5,"AT,FR 5"
+Andricus amenti,bisexual,Aprostocetus aethiops,3,FR 3
+Andricus amenti,bisexual,Aprostocetus sp.,1,FR 1
+Andricus amenti,bisexual,Andricus amenti,,NA
+Andricus amenti,bisexual,Synergus pallipes,,DE
+Andricus amenti,bisexual,Eurytoma brunniventris,1,HU 1
+Andricus amenti,bisexual,Mesopolobus fasciiventris,2,HU 2
+Andricus amenti,bisexual,Eupelmus urozonus,2,HU 2
+Andricus aries,asexual,Ceroptres clavicornis,6,"GB 2,HU 4"
+Andricus aries,asexual,Synergus facialis,16,GB 16
+Andricus aries,asexual,Synergus hayneanus,4,HU 4
+Andricus aries,asexual,Synergus pallipes,1,GB 1
+Andricus aries,asexual,Synergus reinhardi,15,GB 15
+Andricus aries,asexual,Synergus tibialis,2,GB 2
+Andricus aries,asexual,Synergus umbraculus,16,HU 16
+Andricus aries,asexual,Eurytoma adleriae,2,HU 2
+Andricus aries,asexual,Eurytoma brunniventris,5,"AT,GB 4,HU 1"
+Andricus aries,asexual,Sycophila biguttata,6,"GB 5,HU 1"
+Andricus aries,asexual,Sycophila flavicollis,3,GB 3
+Andricus aries,asexual,Megastigmus dorsalis,6,GB 6
+Andricus aries,asexual,Megastigmus ?stigmatizans,1,GB 1
+Andricus aries,asexual,Ormyrus nitidulus,6,AT 6
+Andricus aries,asexual,Ormyrus pomaceus,16,"AT 10,HU 2,UA 4"
+Andricus aries,asexual,Caenacis lauta,,AT
+Andricus aries,asexual,Eupelmus spongipartus,,AT
+Andricus aries,asexual,Eupelmus urozonus,,AT
+Andricus askewi,asexual,Synergus sp.,4,TR 4
+Andricus askewi,asexual,Eurytoma brunniventris,3,TR 3
+Andricus askewi,asexual,Sycophila biguttata,8,TR 8
+Andricus askewi,asexual,Megastigmus dorsalis,1,TR 1
+Andricus askewi,asexual,Ormyrus nitidulus,4,TR 4
+Andricus askewi,asexual,Cecidostiba fungosa,2,TR 2
+Andricus askewi,asexual,(Ichneumonidae sp.),1,TR 1
+Andricus burgundus,bisexual [see also Synophrus politus],Ceroptres cerri,41,"AT 8,HU 33"
+Andricus burgundus,bisexual [see also Synophrus politus],Synophrus politus,,ES
+Andricus burgundus,bisexual [see also Synophrus politus],Eurytoma brunniventris,1,"HU 1,ES 1,HU 2"
+Andricus burgundus,bisexual [see also Synophrus politus],Sycophila variegata,1,ES 1
+Andricus burgundus,bisexual [see also Synophrus politus],Megastigmus dorsalis,1,HU 1
+Andricus burgundus,bisexual [see also Synophrus politus],Torymus auratus,,ES
+Andricus burgundus,bisexual [see also Synophrus politus],Ormyrus pomaceus,1,ES 1
+Andricus burgundus,bisexual [see also Synophrus politus],Ormocerus vernalis,14,ES 14
+Andricus burgundus,bisexual [see also Synophrus politus],Cecidostiba fungosa,53,HU 53
+Andricus burgundus,bisexual [see also Synophrus politus],Cecidostiba saportai,21,HU 21
+Andricus burgundus,bisexual [see also Synophrus politus],Cecidostiba semifascia,2,HU 2
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus albitarsus,11,FR 11
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus amaenus,8,"HU 7,IT"
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus dubius,,ES
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus fasciiventris,1,HU 1
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus fuscipes,27,HU 27
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus lichtensteini,3,"ES 2,IT"
+Andricus burgundus,bisexual [see also Synophrus politus],(Pujade-Villar 2005),,NA
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus mediterraneus,2,ES 2
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus tarsatus,4,ES 4
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus tibialis,3,"ES 1,HU 2"
+Andricus burgundus,bisexual [see also Synophrus politus],Mesopolobus xanthocerus,189,"ES 70,FR 12,HU 107"
+Andricus burgundus,bisexual [see also Synophrus politus],Eupelmus urozonus,22,HU 22
+Andricus burgundus,bisexual [see also Synophrus politus],Eupelmus vesicularis,,ES
+Andricus burgundus,bisexual [see also Synophrus politus],Aulogymnus gallarum,32,"ES 5,HU 27"
+Andricus burgundus,bisexual [see also Synophrus politus],Aulogymnus testaceoviridis,150,"ES 63,FR 68,HU 19"
+Andricus burgundus,bisexual [see also Synophrus politus],Aprostocetus aethiops,3,HU 3
+Andricus burgundus,bisexual [see also Synophrus politus],Aprostocetus cerricola,4,HU 4
+Andricus burgundus,bisexual [see also Synophrus politus],Aprostocetus sp.,,ES
+Andricus burgundus,bisexual [see also Synophrus politus],(Aprostocetus sp. lycidas gp),1,FR 1
+Andricus burgundus,bisexual [see also Synophrus politus],Baryscapus ?pallidae,5,HU 5
+Andricus burgundus,bisexual [see also Synophrus politus],Pediobius rotundatus,11,ES 11
+Andricus caliciformis,asexual,Ceroptres clavicornis,,AT
+Andricus caliciformis,asexual,Synergus facialis,11,HU 11
+Andricus caliciformis,asexual,Synergus hayneanus,2,HU 2
+Andricus caliciformis,asexual,Synergus pallicornis,1,HU 1
+Andricus caliciformis,asexual,Synergus pallipes,7,"AT,HU 7"
+Andricus caliciformis,asexual,Synergus reinhardi,,"AT,HU,UA"
+Andricus caliciformis,asexual,Synergus umbraculus,20,"AT,HU 20"
+Andricus caliciformis,asexual,(Diakontschuk & Melika 1994),,NA
+Andricus caliciformis,asexual,Eurytoma adleriae,1,SK 1
+Andricus caliciformis,asexual,Eurytoma brunniventris,30,"AT,BG 1,HU 29,RO"
+Andricus caliciformis,asexual,Eurytoma setigera,,HU
+Andricus caliciformis,asexual,Sycophila biguttata,,HU
+Andricus caliciformis,asexual,Megastigmus dorsalis,6,"HU 6,RO"
+Andricus caliciformis,asexual,Ormyrus nitidulus,5,"AT 4,HU 1"
+Andricus caliciformis,asexual,Ormyrus pomaceus,3,HU 3
+Andricus caliciformis,asexual,Caenacis lauta,1,HU 1
+Andricus caliciformis,asexual,Cecidostiba fungosa,8,"HU 8,HU 20"
+Andricus caliciformis,asexual,Aulogymnus sp.,3,HU 3
+Andricus callidoma,bisexual,Torymus flavipes,1,FI 1
+Andricus callidoma,bisexual,Mesopolobus fasciiventris,1,FI 1
+Andricus callidoma,bisexual,Mesopolobus ?fuscipes,1,GB 1
+Andricus callidoma,bisexual,Mesopolobus tibialis,4,"FI 4,NL"
+Andricus callidoma,bisexual,Mesopolobus xanthocerus,13,"FI 11,GB 2"
+Andricus callidoma,bisexual,(Pteromalus chrysos & P. spp.),3,FI 3
+Andricus callidoma,bisexual,Eupelmus urozonus,2,FI 2
+Andricus callidoma,bisexual,Aulogymnus gallarum,18,"FI 16,GB 2"
+Andricus callidoma,bisexual,Aprostocetus aethiops,13,FI 13
+Andricus callidoma,bisexual,Andricus callidoma,,NA
+Andricus callidoma,bisexual,Ceroptres clavicornis,,AD
+Andricus callidoma,bisexual,Synergus facialis,19,"AT,DE 3,ES 6"
+Andricus callidoma,bisexual,pyrenaica,,"FR 1,GB(9 Q,NL,PL,RU,UA"
+Andricus callidoma,bisexual,Synergus pallipes,,"AT,NL,PL,UA"
+Andricus callidoma,bisexual,Synergus radiatus,,"AT,DE,DK,NL,PL,UA"
+Andricus callidoma,bisexual,Synergus thaumacerus,,AT
+Andricus callidoma,bisexual,Eurytoma brunniventris,6,"AT,FI 1,FR 4,GB 1"
+Andricus callidoma,bisexual,Ormyrus pomaceus,2,"AT 1,ES 1"
+Andricus callidoma,bisexual,Caenacis lauta,,AT
+Andricus callidoma,bisexual,Mesopolobus fasciiventris,4,"AT 3,GB 1"
+Andricus callidoma,bisexual,Mesopolobus sericeus,1,"AD,GB 1"
+Andricus callidoma,bisexual,(Pteromalus chrysos),1,FI 1
+Andricus callidoma,bisexual,Eupelmus spongipartus,1,FR 1
+Andricus callidoma,bisexual,Eupelmus urozonus,,RO
+Andricus caputmedusae,asexual,Ceroptres clavicornis,1,HU 1
+Andricus caputmedusae,asexual,Synergus crassicornis,1,HU 1
+Andricus caputmedusae,asexual,Synergus facialis,141,"AT,HU 141"
+Andricus caputmedusae,asexual,Synergus hayneanus,62,HU 62
+Andricus caputmedusae,asexual,Synergus pallicornis,28,"AT,HU 28,RO"
+Andricus caputmedusae,asexual,Synergus pallidipennis,2,HU 2
+Andricus caputmedusae,asexual,Synergus pallipes,41,"AT,HU 40,RO,TR 1"
+Andricus caputmedusae,asexual,Synergus reinhardi,,AT
+Andricus caputmedusae,asexual,Synergus umbraculus,38,"AT,HU 33,PL,TR 5"
+Andricus caputmedusae,asexual,Eurytoma adleriae,1,HU 1
+Andricus caputmedusae,asexual,Eurytoma brunniventris,48,"AT,BG 1,HU 47"
+Andricus caputmedusae,asexual,Eurytoma setigera,8,"AT 1,HU 7"
+Andricus caputmedusae,asexual,Eurytoma sp.(1),,"TR 1,AT 47,BG 4,HU 41,RO,TR 1"
+Andricus caputmedusae,asexual,Sycophila variegata,3,HU 3
+Andricus caputmedusae,asexual,Megastigmus dorsalis,13,"AT,HU 10,TR 3"
+Andricus caputmedusae,asexual,Megastigmus stigmatizans,21,"AT,BG 3,HU 17,TR 1"
+Andricus caputmedusae,asexual,Ormyrus nitidulus,20,"BG 3,HU 15,TR 2"
+Andricus caputmedusae,asexual,Ormyrus pomaceus,4,"AT 2,HU 2"
+Andricus caputmedusae,asexual,Caenacis lauta,2,HU 2
+Andricus caputmedusae,asexual,Cecidostiba fungosa,254,"AT,HU 245,TR 9"
+Andricus caputmedusae,asexual,Hobbya stenonota,4,HU 4
+Andricus caputmedusae,asexual,Eupelmus ?cerris,,RO
+Andricus caputmedusae,asexual,Eupelmus spongipartus,15,"AT,HU 15"
+Andricus caputmedusae,asexual,Eupelmus urozonus,14,"AT,HU 14"
+Andricus caputmedusae,asexual,Eupelmus vesicularis,1,HU 1
+Andricus caputmedusae,asexual,Aulogymnus gallarum,1,HU 1
+Andricus caputmedusae,asexual,Aulogymnus trilineatus,38,"BG 1,HU 29,RO,TR 8"
+Andricus caputmedusae,asexual,Baryscapus berhidanus,11,"BG 1,HU 9,TR 1"
+Andricus caputmedusae,asexual,Baryscapus ?diaphantus,13,HU 13
+Andricus caputmedusae,asexual,Baryscapus ?pallidae,19,HU 19
+Andricus caputmedusae,asexual,Pediobius pyrgo,7,HU 7
+Andricus caputmedusae,asexual,Pediobius saulius,1,TR 1
+Andricus caputmedusae,asexual,(Gelinae sp.),3,HU 3
+Andricus caputmedusae,asexual,(Ichneumonidae sp.),2,HU 2
+Andricus cecconii,bisexual,Ceroptres cerri,3,JO 3
+Andricus cecconii,bisexual,Eurytoma brunniventris,,GR
+Andricus cecconii,bisexual,Ormyrus pomaceus,,GR
+Andricus cecconii,bisexual,Aulogymnus gallarum,,GR
+Andricus cecconii,bisexual,(Perilampus sp. nr tristis),7,JO 7
+Andricus clementinae,may be the same as A. inflator,Synergus facialis,,AT
+Andricus clementinae,may be the same as A. inflator,Synergus pallipes,,AT
+Andricus clementinae,may be the same as A. inflator,Synergus umbraculus,,"AT,PL"
+Andricus clementinae,may be the same as A. inflator,Sycophila biguttata,4,AT 4
+Andricus conglomeratus,asexual,Ceroptres clavicornis,3,"AT,FR 2,HU 1,UA"
+Andricus conglomeratus,asexual,Synergus apicalis,,"AT,HU,UA"
+Andricus conglomeratus,asexual,Synergus facialis,122,"AT,HU 122"
+Andricus conglomeratus,asexual,Synergus hayneanus,10,"AT,HU 10,RO,UA"
+Andricus conglomeratus,asexual,Synergus pallicornis,15,"AT 1,HU 14,IT,RO,UA"
+Andricus conglomeratus,asexual,Synergus pallidipennis,,HU
+Andricus conglomeratus,asexual,Synergus pallipes,122,"AT,HU 122"
+Andricus conglomeratus,asexual,Synergus umbraculus,94,"AT 6,HU 88,PL,UA"
+Andricus conglomeratus,asexual,Eurytoma adleriae,6,"GR 4,HU 1,SK 1,UA"
+Andricus conglomeratus,asexual,Eurytoma brunniventris,235,"AT 4,BG 21,GR 4,HU 203,RO 3"
+Andricus conglomeratus,asexual,Eurytoma setigera,8,"AT,HR,HU 8,RO"
+Andricus conglomeratus,asexual,Sycophila biguttata,25,"AT 13,BG 5,HU 6,RO 1"
+Andricus conglomeratus,asexual,Sycophila flavicollis,3,"BG 2,HU,RO 1"
+Andricus conglomeratus,asexual,Sycophila variegata,7,"AT 5,HU 2,RO"
+Andricus conglomeratus,asexual,Megastigmus dorsalis,26,"AT 3,BG 12,HU 8,RO,UA 3"
+Andricus conglomeratus,asexual,Torymus affinis,1,HU 1
+Andricus conglomeratus,asexual,Torymus auratus,2,"BG 1,HU,RO,UA 1"
+Andricus conglomeratus,asexual,Torymus flavipes,2,BG 2
+Andricus conglomeratus,asexual,Ormyrus nitidulus,47,"AT 7,BG 4,GR 1,HU 32,RO 2,UA 1"
+Andricus conglomeratus,asexual,Ormyrus pomaceus,13,"AT 6,HU 7,RO"
+Andricus conglomeratus,asexual,Ormyrus nitidulus or O. pomaceus,8,HU 8
+Andricus conglomeratus,asexual,Cyrtoptyx robustus,2,GR 2
+Andricus conglomeratus,asexual,Caenacis lauta,38,"AT,HU 35,RO 3"
+Andricus conglomeratus,asexual,Cecidostiba fungosa,34,"AT,HU 34"
+Andricus conglomeratus,asexual,Cecidostiba semifascia,2,HU 2
+Andricus conglomeratus,asexual,Hobbya stenonota,,"HU,RO"
+Andricus conglomeratus,asexual,Mesopolobus fasciiventris,3,"HU 3,RO"
+Andricus conglomeratus,asexual,Mesopolobus sericeus,1,"HR 1,HU"
+Andricus conglomeratus,asexual,Eupelmus spongipartus,42,"AT,HU 42,RO"
+Andricus conglomeratus,asexual,Eupelmus urozonus,4,"AT,HU 4,RO"
+Andricus conglomeratus,asexual,Eupelmus vesicularis,6,"HU 5,RO 1"
+Andricus conglomeratus,asexual,Aulogymnus arsames,1,HU 1
+Andricus conglomeratus,asexual,Aulogymnus gallarum,2,HU 2
+Andricus conglomeratus,asexual,Aulogymnus trilineatus,1,"HU,RO 1"
+Andricus conglomeratus,asexual,(Ichneumonidae sp(p).),6,HU 6
+Andricus conificus,asexual,Synergus diaphanus,175,HU 175
+Andricus conificus,asexual,Synergus facialis,27,"AT,GR 5,HU 22"
+Andricus conificus,asexual,Synergus hayneanus,8,HU 8
+Andricus conificus,asexual,Synergus pallidipennis,42,"AT,HU 42"
+Andricus conificus,asexual,Synergus pallipes,17,HU 17
+Andricus conificus,asexual,Synergus umbraculus,43,"AT,HU 43"
+Andricus conificus,asexual,Eurytoma brunniventris,37,"AT 2,GR 1,HU 33,IT 1,RO"
+Andricus conificus,asexual,Eurytoma setigera,1,HU 1
+Andricus conificus,asexual,Torymus flavipes,1,HU 1
+Andricus conificus,asexual,Ormyrus nitidulus,7,"BG 1,HU 6,RO"
+Andricus conificus,asexual,Ormyrus pomaceus,1,"GR 1,HU 9"
+Andricus conificus,asexual,Eupelmus urozonus,1,"HU 1,RO"
+Andricus conificus,asexual,Baryscapus ?pallidae,1,HU 1
+Andricus coriarius,asexual,Ceroptres clavicornis,15,"ES 2,HU 13"
+Andricus coriarius,asexual,Synergus crassicornis,,HU
+Andricus coriarius,asexual,Synergus facialis,273,"ES 25,HU 245,IT,TR 3"
+Andricus coriarius,asexual,Synergus hayneanus,546,"ES 514,HU 32,UA"
+Andricus coriarius,asexual,Synergus incrassatus,,"HU,UA"
+Andricus coriarius,asexual,Synergus pallicornis,58,"AT,ES 44,FR,HU 14,UA"
+Andricus coriarius,asexual,Synergus pallidipennis,125,"AT,ES 91,HU 34,UA"
+Andricus coriarius,asexual,Synergus pallipes,238,"AT,HU 238,UA"
+Andricus coriarius,asexual,Synergus radiatus,,"FR,UA"
+Andricus coriarius,asexual,Synergus tibialis,1,HU 1
+Andricus coriarius,asexual,Synergus umbraculus,584,"AT,ES 100"
+Andricus coriarius,asexual,Pujade-Villar 1985; Pujade-Villar 1992d),,"HR,HU 476,TR 8,UA"
+Andricus coriarius,asexual,Eurytoma adleriae,12,"ES 3,GR 2,HR 1,HU 1,IT 2,SK 1,TR 2"
+Andricus coriarius,asexual,Eurytoma brunniventris,523,"AT,DE 3,ES 89,GR 3,HU 387,IT,LB 3,RO 2,TR 35"
+Andricus coriarius,asexual,Eurytoma setigera,39,"HU 37,TR 2"
+Andricus coriarius,asexual,Eurytoma querceticola,7,BG 7
+Andricus coriarius,asexual,Sycophila biguttata,792,"AT 32,DE 4,ES 61,GR 17,HU 612,IT 1,RO,TR 65"
+Andricus coriarius,asexual,Sycophila flavicollis,1,"ES 1,HU"
+Andricus coriarius,asexual,Sycophila iracemae,47,"ES 10,GR 18,HU,TR 19"
+Andricus coriarius,asexual,Sycophila iracemae or S. biguttata,4,TR 4
+Andricus coriarius,asexual,Sycophila variegata,93,"AT 1,ES 4,GR 48,HR,HU 32,TR 8"
+Andricus coriarius,asexual,Megastigmus dorsalis,1364,"AT,ES 861,GR 9,HU 489,IT,TR 5"
+Andricus coriarius,asexual,Megastigmus stigmatizans,5,"ES 2,FR,HU 1,IT,UA 2"
+Andricus coriarius,asexual,Torymus ?cyaneus,,HU
+Andricus coriarius,asexual,Torymus sp.,5,TR 5
+Andricus coriarius,asexual,Ormyrus nitidulus,132,"AT 29,ES 2,FR,HU 61,IT 1,TR 38,UA 1"
+Andricus coriarius,asexual,Ormyrus pomaceus,118,"AT 3,DE 7,ES 28,GR 4,HU 74,TR 2"
+Andricus coriarius,asexual,Ormyrus nitidulus or O. pomaceus,128,"BG 1,ES 1,HU 126"
+Andricus coriarius,asexual,Caenacis lauta,25,"ES 10,HU 15"
+Andricus coriarius,asexual,Cecidostiba fungosa,389,"AT,ES 26,GR 1,HR 3,HU 353,TR 6"
+Andricus coriarius,asexual,Cecidostiba saportai,6,"FR 6,HU"
+Andricus coriarius,asexual,Cyrtoptyx robustus,64,"ES 1,GR 16,HR,HU,IT 3,IT,TR 29"
+Andricus coriarius,asexual,(Eumacepolus obscurior),1,ES 1
+Andricus coriarius,asexual,Hobbya stenonota,71,"AT,ES 69,HU 2"
+Andricus coriarius,asexual,Mesopolobus amaenus,5,"ES 4,HU,TR 1"
+Andricus coriarius,asexual,Mesopolobus fasciiventris,3,HU 3
+Andricus coriarius,asexual,Eupelmus spongipartus,50,"AT,ES 32"
+Andricus coriarius,asexual,Pujade-Villar 1989a),,"FR 2,HU 13,TR 3"
+Andricus coriarius,asexual,Eupelmus urozonus,44,"AT,DE 1,ES 25,HU 16,TR 2"
+Andricus coriarius,asexual,Eupelmus vesicularis,2,"ES 2,HU"
+Andricus coriarius,asexual,Reikosiella rostrata,,"AT,HU"
+Andricus coriarius,asexual,Aulogymnus gallarum,116,HU 116
+Andricus coriarius,asexual,Aulogymnus skianeuros,6,"HU 6,IT"
+Andricus coriarius,asexual,Aulogymnus trilineatus,265,"ES 62,GR 53,HR 8,HU 123,TR 19"
+Andricus coriarius,asexual,Aulogymnus trilineatus or A. gallarum,18,TR 18
+Andricus coriarius,asexual,Pediobius lysis,,HU
+Andricus coriarius,asexual,(Scambus elegans),2,HU 2
+Andricus coriarius,asexual,(Ichneumonidae sp.),1,GR 1
+Andricus coronatus,asexual,Ceroptres clavicornis,,AT
+Andricus coronatus,asexual,Synergus facialis,14,"HU 14,IT"
+Andricus coronatus,asexual,Synergus hayneanus,5,"HU 5,IT,RO"
+Andricus coronatus,asexual,Synergus incrassatus,,HU
+Andricus coronatus,asexual,Synergus pallidipennis,10,"GR 8,HU 2"
+Andricus coronatus,asexual,Synergus pallipes,15,HU 15
+Andricus coronatus,asexual,Synergus radiatus,,IT
+Andricus coronatus,asexual,Synergus umbraculus,47,"HU 46,IT(1"
+Andricus coronatus,asexual,Eurytoma adleriae,1,GR 1
+Andricus coronatus,asexual,Eurytoma brunniventris,59,"BG 1,GR 2,HU(56"
+Andricus coronatus,asexual,Sycophila biguttata,21,"GR 1,HR 1,HU 19,RO"
+Andricus coronatus,asexual,Megastigmus dorsalis,15,"AT,GR 1,HR 1,HU 11,TR 2"
+Andricus coronatus,asexual,Megastigmus stigmatizans,1,HU 1
+Andricus coronatus,asexual,Torymus auratus,40,"GR 1,HU 39"
+Andricus coronatus,asexual,Torymus cyaneus,1,HU 1
+Andricus coronatus,asexual,Ormyrus nitidulus,21,"BG 5,GR 1,HU 14,RO,TR 1"
+Andricus coronatus,asexual,Ormyrus pomaceus,14,"AT 1,HR 1,HU 12,RO"
+Andricus coronatus,asexual,Cecidostiba fungosa,15,"GR 3,HU 11,IT 1"
+Andricus coronatus,asexual,Mesopolobus sericeus,7,"GR 1,HR 1,HU 5"
+Andricus coronatus,asexual,Eupelmus spongipartus,2,HU 2
+Andricus coronatus,asexual,Eupelmus urozonus,5,GR 5
+Andricus coronatus,asexual,Aulogymnus ?skianeuros,,IT
+Andricus coronatus,asexual,Aulogymnus trilineatus,2,"HU 1,TR 1"
+Andricus coronatus,asexual,(Scambus elegans),1,GR 1
+Andricus corruptrix,bisexual,Mesopolobus dubius,4,GB 4
+Andricus corruptrix,bisexual,Mesopolobus fuscipes,18,GB 18
+Andricus corruptrix,bisexual,Mesopolobus xanthocerus,1,GB 1
+Andricus corruptrix,bisexual,Andricus corruptrix,,NA
+Andricus corruptrix,bisexual,Ceroptres clavicornis,3,"DE,HU 3"
+Andricus corruptrix,bisexual,Synergus apicalis,1,DE 1
+Andricus corruptrix,bisexual,Synergus facialis,5,"DE,GB 2,HU 3,NL"
+Andricus corruptrix,bisexual,Synergus pallicornis,8,"DE,NL"
+Andricus corruptrix,bisexual,Synergus pallipes,5,"HU 5,NL"
+Andricus corruptrix,bisexual,Synergus radiatus,,NL
+Andricus corruptrix,bisexual,Synergus reinhardi,6,GB 6
+Andricus corruptrix,bisexual,Synergus tibialis,,"HU,NL"
+Andricus corruptrix,bisexual,Eurytoma brunniventris,16,"BG 1,GB 8,GR 1,HU 5,RO,UA 1"
+Andricus corruptrix,bisexual,Eurytoma setigera,1,HU 1
+Andricus corruptrix,bisexual,Sycophila biguttata,6,"GB 3,HU 3"
+Andricus corruptrix,bisexual,Sycophila variegata,1,GB 1
+Andricus corruptrix,bisexual,Megastigmus dorsalis,7,"GB 7,NL"
+Andricus corruptrix,bisexual,Torymus flavipes,2,GB 2
+Andricus corruptrix,bisexual,Ormyrus nitidulus,3,HU 3
+Andricus corruptrix,bisexual,Ormyrus pomaceus,12,"AT 1,DE,GB 2,HU 9,NL"
+Andricus corruptrix,bisexual,Ormyrus nitidulus or O. pomaceus,2,GR 2
+Andricus corruptrix,bisexual,Ormocerus latus,1,HU 1
+Andricus corruptrix,bisexual,Caenacis lauta,1,HU 1
+Andricus corruptrix,bisexual,Cecidostiba fungosa,1,GB 1
+Andricus corruptrix,bisexual,Mesopolobus amaenus,59,"FR 5,GB 54,NL"
+Andricus corruptrix,bisexual,Mesopolobus fasciiventris,2,GB 2
+Andricus corruptrix,bisexual,Mesopolobus sericeus,7,GB 7
+Andricus corruptrix,bisexual,Mesopolobus tibialis,,NL rob
+Andricus corruptrix,bisexual,Eupelmus spongipartus,1,HU 1
+Andricus corruptrix,bisexual,Eupelmus urozonus,2,"GB 2,NL"
+Andricus crispator,bisexual,Ceroptres cerri,,AT
+Andricus crispator,bisexual,Eurytoma brunniventris,5,HU 5
+Andricus crispator,bisexual,Sycophila biguttata,3,AT 3
+Andricus crispator,bisexual,Torymus sp.,1,HU 1
+Andricus crispator,bisexual,Ormyrus sp.,1,ES 1
+Andricus crispator,bisexual,Ormocerus latus,1,HU 1
+Andricus crispator,bisexual,Cecidostiba fungosa,5,HU 5
+Andricus crispator,bisexual,Mesopolobus amaenus,2,"AT 1,HU 1"
+Andricus crispator,bisexual,Mesopolobus fuscipes,3,HU 3
+Andricus crispator,bisexual,Mesopolobus tibialis,63,"AT,HU 63"
+Andricus crispator,bisexual,Mesopolobus xanthocerus,6,HU 6
+Andricus crispator,bisexual,Eupelmus vesicularis,3,HU 3
+Andricus crispator,bisexual,Aulogymnus arsames,277,"AT,HU 277"
+Andricus crispator,bisexual,Aulogymnus gallarum,18,HU 18
+Andricus crispator,bisexual,Aulogymnus ?obscuripes,1,HU 1
+Andricus crispator,bisexual,Aulogymnus skianeuros,21,HU 21
+Andricus crispator,bisexual,Aulogymnus testaceoviridis,26,HU 26
+Andricus crispator,bisexual,(Cirrospilus sp.),1,HU 1
+Andricus crispator,bisexual,Aprostocetus aethiops,1,HU 1
+Andricus crispator,bisexual,Aprostocetus cerricola,2,HU 2
+Andricus curtisii,asexual,Eurytoma brunniventris,1,TR 1
+Andricus curtisii,asexual,Ormyrus nitidulus,1,GR 1
+Andricus curtisii,asexual,Ormyrus ?pomaceus,1,TR 1
+Andricus curtisii,asexual,Cecidostiba fungosa,1,TR 1
+Andricus curtisii,asexual,Eupelmus urozonus,5,TR 5
+Andricus curvator,bisexual,Ceroptres clavicornis,1,AT 1
+Andricus curvator,bisexual,Saphonecrus connatus,7,ES 7
+Andricus curvator,bisexual,Synergus apicalis,,PL
+Andricus curvator,bisexual,Synergus crassicornis,1,"GB 1,NL,PT"
+Andricus curvator,bisexual,Synergus facialis,47,"AT,ES 20,GB 20,HU 7"
+Andricus curvator,bisexual,"petraea, Q. robur",,"NL,PL,UA"
+Andricus curvator,bisexual,Synergus incrasatus,,AZ
+Andricus curvator,bisexual,Synergus pallicornis,,NL
+Andricus curvator,bisexual,Synergus pallipes,64,"AT,DE,ES 39,FR 1,GB 21,HU 3,NL,PL,UA"
+Andricus curvator,bisexual,Synergus radiatus,,"AT,ES,FR,GB,IT,NL,PL,UA"
+Andricus curvator,bisexual,Synergus ruficornis,,PL
+Andricus curvator,bisexual,Synergus thaumacerus,,"PL,PT"
+Andricus curvator,bisexual,Synergus tibialis,15,"AT,ES 14,GB 1,HU,UA"
+Andricus curvator,bisexual,Synergus umbraculus,,"AT,ES"
+Andricus curvator,bisexual,Eurytoma brunniventris,133,"AT,BG 3,DE,ES 59,FI 1,FR 3,GB 41,HU 26,RO"
+Andricus curvator,bisexual,Eurytoma setigera,1,AT 1
+Andricus curvator,bisexual,Sycophila biguttata,104,"AT 76,DE,ES 18,HU 8,PL,RO 2"
+Andricus curvator,bisexual,Sycophila variegata,1,ES 1
+Andricus curvator,bisexual,Megastigmus dorsalis,3,"FR 2,GB 1"
+Andricus curvator,bisexual,Torymus ?affinis,4,HU 4
+Andricus curvator,bisexual,Torymus auratus,2,HU 2
+Andricus curvator,bisexual,Torymus flavipes,120,"AD,AT,DE,ES 22,FI 10,FR 4,GB 23,HU 40,IT,PL,RO,UA 21"
+Andricus curvator,bisexual,Torymus geranii,28,"AD 2,DE 1,ES 9,FI(2,FR 1,GB 2,HU 4,PL,RO,UA 7"
+Andricus curvator,bisexual,Torymus notatus,89,"DE 1,ES 11,GB 40,HU 6,IE 1,UA 30"
+Andricus curvator,bisexual,Ormyrus nitidulus,2,BG 2
+Andricus curvator,bisexual,Ormyrus pomaceus,27,"AT 4,BG 1,DE,ES 7,HU 15"
+Andricus curvator,bisexual,Pteromalus sp. A,1,FI 1
+Andricus curvator,bisexual,Cecidostiba fungosa,1,ES 1
+Andricus curvator,bisexual,Hobbya stenonota,3,HU 3
+Andricus curvator,bisexual,Mesopolobus albitarsus,5,"DE 1,GB 3,UA 1"
+Andricus curvator,bisexual,Mesopolobus amaenus,4,"ES 2,GB 1,HU 1"
+Andricus curvator,bisexual,Mesopolobus dubius,1,UA 1
+Andricus curvator,bisexual,Mesopolobus fasciiventris,57,"AT,DE 1,ES 17,GB 10,HU 19,IT,PL,SE öl,UA 10"
+Andricus curvator,bisexual,Mesopolobus fuscipes,1,"AT,FR,GB 1,PL"
+Andricus curvator,bisexual,Mesopolobus sericeus,20,"AT,ES 1,GB(19"
+Andricus curvator,bisexual,Mesopolobus tarsatus,2,ES 2
+Andricus curvator,bisexual,Mesopolobus tibialis,117,"DE,ES 57,FI 2,FR 4,GB 5,HU 49"
+Andricus curvator,bisexual,Mesopolobus xanthocerus,8,HU 8
+Andricus curvator,bisexual,Eupelmus spongipartus,,AT
+Andricus curvator,bisexual,Eupelmus urozonus,34,"AD 1,AT,DE,ES 3,FI 10,FR(2,GB 7,HU 3,RO,UA 8"
+Andricus curvator,bisexual,Eupelmus vesicularis,2,"ES 1,HU 1"
+Andricus curvator,bisexual,Aulogymnus arsames,124,"AD 1,ES 36,FI 12,FR 1,GB 50,HU 5,RO,SI 1,TR 2,UA 16"
+Andricus curvator,bisexual,Aulogymnus gallarum,13,"ES 1,FI(2,GB 2,HU 8"
+Andricus curvator,bisexual,Aulogymnus skianeuros,12,"DE,HU 12"
+Andricus curvator,bisexual,Aprostocetus aethiops,7,"HU 1,UA 6"
+Andricus curvator,bisexual,Andricus curvator,,NA
+Andricus curvator,bisexual,Synergus facialis,2,"AT,ES 2,GB,NL,PT,UA"
+Andricus curvator,bisexual,Synergus incrassatus,,"HU,UA"
+Andricus curvator,bisexual,Synergus pallicornis,,NL
+Andricus curvator,bisexual,Synergus pallipes,,"AT,DE,DK,GB,NL,UA"
+Andricus curvator,bisexual,Synergus radiatus,,"AT,DE,GB,NL,UA"
+Andricus curvator,bisexual,Synergus ruficornis,,"HU,UA"
+Andricus curvator,bisexual,Synergus tibialis,,"DE,UA"
+Andricus curvator,bisexual,Ormyrus pomaceus,1,ES 1
+Andricus curvator,bisexual,Mesopolobus amaenus,2,GB 2
+Andricus curvator,bisexual,Mesopolobus fasciiventris,1,GB 1
+Andricus curvator,bisexual,Mesopolobus sericeus,1,ES 1
+Andricus cydoniae,bisexual,Ceroptres cerri,1,HU 1
+Andricus cydoniae,bisexual,Synergus facialis,1,HU 1
+Andricus cydoniae,bisexual,Synergus thaumacerus,46,"AT,HU 46"
+Andricus cydoniae,bisexual,Eurytoma brunniventris,3,"AT 1,HU 2"
+Andricus cydoniae,bisexual,Eurytoma setigera,1,HU 1
+Andricus cydoniae,bisexual,Sycophila biguttata,13,HU 13
+Andricus cydoniae,bisexual,Megastigmus dorsalis,15,"AT,HU 15"
+Andricus cydoniae,bisexual,Torymus sp.,1,HU 1
+Andricus cydoniae,bisexual,Ormyrus pomaceus,2,BG 2
+Andricus cydoniae,bisexual,Ormyrus sp.,2,HU 2
+Andricus cydoniae,bisexual,Cecidostiba fungosa,12,"AT,HU 12"
+Andricus cydoniae,bisexual,Hobbya stenonota,,AT
+Andricus cydoniae,bisexual,Mesopolobus amaenus,1,"AT,HU 1"
+Andricus cydoniae,bisexual,Mesopolobus fasciiventris,1,HU 1
+Andricus cydoniae,bisexual,Mesopolobus fuscipes,1,"AT,HU 1"
+Andricus cydoniae,bisexual,Mesopolobus tibialis,2,HU 2
+Andricus cydoniae,bisexual,Mesopolobus xanthocerus,6,HU 6
+Andricus cydoniae,bisexual,Eupelmus spongipartus,9,HU 9
+Andricus cydoniae,bisexual,Eupelmus urozonus,4,"AT,HU 4"
+Andricus cydoniae,bisexual,Aulogymnus arsames,2,HU 2
+Andricus cydoniae,bisexual,Aulogymnus gallarum,9,HU 9
+Andricus cydoniae,bisexual,Aulogymnus skianeuros,7,HU 7
+Andricus cydoniae,bisexual,Aulogymnus testaceoviridis,24,HU 24
+Andricus cydoniae,bisexual,Aprostocetus aethiops,3,HU 3
+Andricus cydoniae,bisexual,Baryscapus ?pallidae,1,HU 1
+Andricus dentimitratus,asexual,Synergus crassicornis,1,"ES 1,HU,IT"
+Andricus dentimitratus,asexual,Synergus facialis,1,HU 1
+Andricus dentimitratus,asexual,Synergus hayneanus,30,"ES 30,FR"
+Andricus dentimitratus,asexual,Synergus pallidipennis,2,"ES 2,HU"
+Andricus dentimitratus,asexual,Synergus reinhardi,,ES 45
+Andricus dentimitratus,asexual,Synergus umbraculus,18,"ES 18,FR,IT"
+Andricus dentimitratus,asexual,Sycophila biguttata,27,"ES 26,IT,TR 1"
+Andricus dentimitratus,asexual,Megastigmus dorsalis,8,TR 8
+Andricus dentimitratus,asexual,Megastigmus stigmatizans,33,"ES 32,FR,IT,TR 1"
+Andricus dentimitratus,asexual,Torymus auratus,2,TR 2
+Andricus dentimitratus,asexual,Ormyrus nitidulus,20,TR 20
+Andricus dentimitratus,asexual,Ormyrus pomaceus,1,ES 1
+Andricus dentimitratus,asexual,Cecidostiba fungosa,5,TR 5
+Andricus dentimitratus,asexual,Mesopolobus sericeus,9,ES 9
+Andricus dentimitratus,asexual,Aulogymnus ?skianeuros,,IT
+Andricus dentimitratus,asexual,Aulogymnus trilineatus,6,TR 6
+Andricus fecundatrix,bisexual [often misspelt fecundator],Mesopolobus fuscipes,1,FR 1
+Andricus fecundatrix,bisexual [often misspelt fecundator],Mesopolobus tibialis,,"AD,NL"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Mesopolobus xanthocerus,9,"FR 7,GB 2"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Aprostocetus aethiops,3,"FR 3,NL"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Andricus fecundatrix,,NA
+Andricus fecundatrix,bisexual [often misspelt fecundator],Synergus apicalis,18,"AT,DE,DK,GB 18,HU,UA"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Synergus crassicornis,22,"AD,AT,DE,ES 2,FR 11,GB 7,HU 2,PL,UA"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Synergus facialis,21,"AD,AT,DE,DK,ES 14,FR 1,GB 6,NL,UA"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Synergus hayneanus,1,HU 1
+Andricus fecundatrix,bisexual [often misspelt fecundator],Synergus pallipes,,"AT,RO"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Synergus radiatus,,"AD,RO"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Synergus ruficornis,,UA
+Andricus fecundatrix,bisexual [often misspelt fecundator],Synergus umbraculus,,"AT,UA"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Eurytoma brunniventris,4,"FR 2,GB 1,HU 1,NL"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Eurytoma setigera,2,DE 2
+Andricus fecundatrix,bisexual [often misspelt fecundator],Sycophila biguttata,4,"FR 1,GB 3"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Sycophila iracemae,1,IT 1
+Andricus fecundatrix,bisexual [often misspelt fecundator],Sycophila variegata,2,CH 2
+Andricus fecundatrix,bisexual [often misspelt fecundator],Megastigmus dorsalis,28,"AD,DE 3,GB 19,HU 6"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Torymus auratus,3,"DE 1,GB 2,HU"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Torymus geranii,,NL
+Andricus fecundatrix,bisexual [often misspelt fecundator],Ormyrus nitidulus,17,"AD 1,DE 7,GB 5,HU 3,SI 1"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Ormyrus pomaceus,6,"AD 1,DE 2,ES 2,HU 1"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Caenacis lauta,,GB
+Andricus fecundatrix,bisexual [often misspelt fecundator],Cecidostiba fungosa,1,GB 1
+Andricus fecundatrix,bisexual [often misspelt fecundator],Mesopolobus ?fasciiventris,,DE
+Andricus fecundatrix,bisexual [often misspelt fecundator],Mesopolobus sericeus,,AD
+Andricus fecundatrix,bisexual [often misspelt fecundator],Eupelmus spongipartus,4,"AT,DE 1,FR 2,HU 1"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Eupelmus urozonus,4,"AD,DE 1,GB 1,IT 2"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Aulogymnus ?arsames,1,DE 1
+Andricus fecundatrix,bisexual [often misspelt fecundator],Aulogymnus trilineatus,15,"ES 2,FR 1,GB 12"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Aprostocetus aethiops,4,"GB,HU 4"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Tetrastichinae sp(p).,31,"CH 3,DE 7,FR 18,GB 2,HU 1"
+Andricus fecundatrix,bisexual [often misspelt fecundator],Pediobius sp.,1,HU 1
+Andricus floridus,bisexual,Sycophila biguttata,4,ES 4
+Andricus floridus,bisexual,Ormyrus pomaceus,1,AD 1
+Andricus floridus,bisexual,Ormocerus latus,4,ES 4
+Andricus floridus,bisexual,Cecidostiba ilicina,2,ES 2
+Andricus floridus,bisexual,Cecidostiba ?ilicina,10,IT
+Andricus floridus,bisexual,Mesopolobus lichtensteini,1,ES 1
+Andricus floridus,bisexual,Mesopolobus mediterraneus,9,ES 9
+Andricus floridus,bisexual,Mesopolobus tibialis,3,ES 3
+Andricus floridus,bisexual,Mesopolobus xanthocerus,6,"AD 1,ES 5"
+Andricus floridus,bisexual,Tetrastichinae sp.,5,AD 5
+Andricus galeatus,asexual,Ceroptres clavicornis,6,"AT,HU 6"
+Andricus galeatus,asexual,Synergus facialis,3,"AT,HU 3"
+Andricus galeatus,asexual,Synergus hayneanus,120,"HU 115,IT 5"
+Andricus galeatus,asexual,Synergus pallidipennis,2,HU 2
+Andricus galeatus,asexual,Synergus pallipes,9,"FR,IT 8"
+Andricus galeatus,asexual,Synergus umbraculus,313,"HU 313,IT"
+Andricus galeatus,asexual,Eurytoma brunniventris,19,"AT 2,HU 15,IT 2"
+Andricus galeatus,asexual,Sycophila biguttata,45,"AT 41,HU 4"
+Andricus galeatus,asexual,Ormyrus nitidulus,16,"AT 4,HU 11,IT"
+Andricus galeatus,asexual,Ormyrus pomaceus,9,"AT 4,HU 4,IT 1"
+Andricus galeatus,asexual,Cecidostiba fungosa,1,HU 1
+Andricus galeatus,asexual,Eupelmus spongipartus,1,"AT,HU 1"
+Andricus galeatus,asexual,Eupelmus urozonus,3,"AT,HU 1,IT 2"
+Andricus galeatus,asexual,Aulogymnus gallarum,1,HU 1
+Andricus gallaeurnaeformis,bisexual,Synergus thaumacerus,,IT
+Andricus gallaeurnaeformis,bisexual,Mesopolobus amaenus,1,ES 1
+Andricus gallaeurnaeformis,bisexual,Mesopolobus lichtensteini,3,ES 3
+Andricus gallaeurnaeformis,bisexual,Eupelmus urozonus,1,AD 1
+Andricus gallaeurnaeformis,bisexual,Aulogymnus gallarum,7,ES 7
+Andricus gallaeurnaeformis,bisexual,Tetrastichinae sp.,7,AD 7
+Andricus gallaeurnaeformis,bisexual,Andricus gallaeurnaeformis,,NA
+Andricus gallaeurnaeformis,bisexual,Ceroptres clavicornis,1,AT 1
+Andricus gallaeurnaeformis,bisexual,Synergus facialis,22,"AT,DE,ES 10,FR 11,HU 1,SE öl"
+Andricus gallaeurnaeformis,bisexual,Synergus incrassatus,1,ES 1
+Andricus gallaeurnaeformis,bisexual,Synergus pallipes,12,"AT,DE,ES,FR 12"
+Andricus gallaeurnaeformis,bisexual,Synergus tibialis,,DE
+Andricus gallaeurnaeformis,bisexual,Eurytoma brunniventris,115,"AT,FR 98,HU 17"
+Andricus gallaeurnaeformis,bisexual,Eurytoma setigera,6,"ES 4,FR 2"
+Andricus gallaeurnaeformis,bisexual,Sycophila biguttata,1,AT 1
+Andricus gallaeurnaeformis,bisexual,Torymus ?affinis,,SE öl
+Andricus gallaeurnaeformis,bisexual,Torymus ?notatus,1,ES 1
+Andricus gallaeurnaeformis,bisexual,Ormyrus pomaceus,69,"AT 10,ES 2,FR 56,HU 1"
+Andricus gallaeurnaeformis,bisexual,Caenacis lauta,,AT
+Andricus gallaeurnaeformis,bisexual,Cecidostiba fungosa,2,HU 2
+Andricus gallaeurnaeformis,bisexual,Mesopolobus fasciiventris,,AT
+Andricus gallaeurnaeformis,bisexual,Eupelmus spongipartus,5,"AT,FR 5"
+Andricus gallaeurnaeformis,bisexual,Eupelmus urozonus,,AT
+Andricus gallaeurnaeformis,bisexual,Aulogymnus gallarum,10,"ES 1,FR 9,SE öl"
+Andricus gallaeurnaeformis,bisexual,Aprostocetus sp.,1,FR 1
+Andricus gemmeus,asexual,Ceroptres clavicornis,20,"AT 19,HU 1,PL"
+Andricus gemmeus,asexual,Synergus facialis,,"AT,CH,DE"
+Andricus gemmeus,asexual,Eurytoma brunniventris,8,"AT 3,ES 3,HU 2"
+Andricus gemmeus,asexual,Sycophila biguttata,5,"ES 1,HU 4"
+Andricus gemmeus,asexual,Ormyrus nitidulus,3,AT 3
+Andricus gemmeus,asexual,Ormyrus pomaceus,5,"ES 3,HU 2,RO"
+Andricus gemmeus,asexual,Mesopolobus fasciiventris,,AT
+Andricus gemmeus,asexual,Eupelmus urozonus,3,ES 3
+Andricus glandulae,bisexual,Eurytoma brunniventris,2,AD 2
+Andricus glandulae,bisexual,Torymus flavipes,2,FI 2
+Andricus glandulae,bisexual,Mesopolobus tibialis,4,FI 4
+Andricus glandulae,bisexual,Mesoplobus xanthocerus,4,FI 4
+Andricus glandulae,bisexual,Pteromalus sp. A,2,FI 2
+Andricus glandulae,bisexual,Aprostocetus aethiops,2,FI 2
+Andricus glandulae,bisexual,Andricus glandulae,,NA
+Andricus glandulae,bisexual,Ceroptres clavicornis,3,"ES 2,HU 1"
+Andricus glandulae,bisexual,Saphonecrus connatus,,AT
+Andricus glandulae,bisexual,Synergus facialis,2,"DE,FR,GB 2,NL"
+Andricus glandulae,bisexual,Synergus pallipes,,GB
+Andricus glandulae,bisexual,Synergus radiatus,,GB
+Andricus glandulae,bisexual,Eurytoma brunniventris,,AT
+Andricus glandulae,bisexual,Sycophila biguttata,1,HU 1
+Andricus glandulae,bisexual,Ormyrus pomaceus,1,HU 1
+Andricus glutinosus,asexual,Ceroptres clavicornis,1,"AT,HU 1"
+Andricus glutinosus,asexual,Synergus facialis,101,"AT,HU 101"
+Andricus glutinosus,asexual,Synergus hayneanus,54,HU 54
+Andricus glutinosus,asexual,Synergus pallicornis,3,"AT,HU 3,UA"
+Andricus glutinosus,asexual,Synergus pallidipennis,15,HU 15
+Andricus glutinosus,asexual,Synergus pallipes,18,"AT,HU 18"
+Andricus glutinosus,asexual,Synergus reinhardi,3,"AT,HU 3,IT,SE öl,UA"
+Andricus glutinosus,asexual,Synergus umbraculus,27,"AT,HU 27,UA"
+Andricus glutinosus,asexual,Eurytoma brunniventris,56,"AT,BG 3,HU 50,SI 1,UA 2"
+Andricus glutinosus,asexual,Sycophila biguttata,108,"AT 50,HU 57,SI 1"
+Andricus glutinosus,asexual,Megastigmus dorsalis,7,"AT,HU 7"
+Andricus glutinosus,asexual,Megastigmus stigmatizans,,"AT,FR"
+Andricus glutinosus,asexual,Megastigmus ?synophri,,AT
+Andricus glutinosus,asexual,Torymus auratus,2,"AT,HU 2"
+Andricus glutinosus,asexual,Torymus geranii,,AT
+Andricus glutinosus,asexual,Ormyrus nitidulus,148,"AT 50,BG 3,DE,HU 93,SI 2"
+Andricus glutinosus,asexual,Ormyrus pomaceus,14,"AT 3,HU 11"
+Andricus glutinosus,asexual,Caenacis lauta,8,HU 8
+Andricus glutinosus,asexual,Cecidostiba fungosa,,"AT,HU 9"
+Andricus glutinosus,asexual,Cecidostiba semifascia,,HU
+Andricus glutinosus,asexual,Eumacepolus obscurior,1,HU 1
+Andricus glutinosus,asexual,Hobbya stenonota,1,HU 1
+Andricus glutinosus,asexual,Eupelmus spongipartus,14,"AT,HU 14"
+Andricus glutinosus,asexual,Eupelmus urozonus,10,"AT,HU 10"
+Andricus glutinosus,asexual,Aulogymnus trilineatus,1,HU 1
+Andricus glutinosus,asexual,Baryscapus berhidanus,,HU ö
+Andricus glutinosus,asexual,(Scambus sp.),2,HU 2
+Andricus glutinosus,asexual,(Ichneumonidae sp.),1,HU 1
+Andricus grossulariae,bisexual,Ceroptres cerri,5,"AT 1,ES,HU 1,JO 3,PL"
+Andricus grossulariae,bisexual,Saphonecrus haimi,2,HU 2
+Andricus grossulariae,bisexual,Saphonecrus undulatus,358,JO 358
+Andricus grossulariae,bisexual,Synergus consobrinus,347,"AT,HU 345,IT"
+Andricus grossulariae,bisexual,Synergus facialis,5,"GB 2,JO 3"
+Andricus grossulariae,bisexual,Synergus thaumacerus,4,HU 4
+Andricus grossulariae,bisexual,Synergus variabilis,,"AT,HU,IT"
+Andricus grossulariae,bisexual,Synergus ?variabilis,75,JO 75
+Andricus grossulariae,bisexual,Eurytoma adleriae,4,HU 4
+Andricus grossulariae,bisexual,Eurytoma brunniventris,38,"AT 2,GB 2,HU 34"
+Andricus grossulariae,bisexual,Eurytoma setigera,26,"AT,HU 23,UA 3"
+Andricus grossulariae,bisexual,Sycophila biguttata,323,"AT 221,ES 51,GB 3,HU 32,IT"
+Andricus grossulariae,bisexual,(Pujade-Villar 2005),,JO 4
+Andricus grossulariae,bisexual,Sycophila flavicollis,2,"ES 1,GB 1"
+Andricus grossulariae,bisexual,Sycophila variegata,70,"AT 15,ES,FR,GB 14,HU 15,JO 26"
+Andricus grossulariae,bisexual,Megastigmus dorsalis,140,"AT,ES,GB 82,HU 40,JO 18"
+Andricus grossulariae,bisexual,Torymus auratus,,ES
+Andricus grossulariae,bisexual,Torymus flavipes,8,GB 8
+Andricus grossulariae,bisexual,Torymus geranii,2,JO 2
+Andricus grossulariae,bisexual,Torymus sp.,1,HU 1
+Andricus grossulariae,bisexual,Ormyrus nitidulus,9,"AT 7,GB 1,HU 1,RO"
+Andricus grossulariae,bisexual,Ormyrus pomaceus,96,"AT 43,ES,GB 9,HU 38,JO 5,IT"
+Andricus grossulariae,bisexual,Ormocerus latus,3,"ES 3,HU"
+Andricus grossulariae,bisexual,Cyrtoptyx robustus,1,JO 1
+Andricus grossulariae,bisexual,Cecidostiba fungosa,38,"AT 2,GB 8,HU 19,JO 9"
+Andricus grossulariae,bisexual,Cecidostiba semifascia,1,HU 1
+Andricus grossulariae,bisexual,Hobbya stenonota,1,HU 1
+Andricus grossulariae,bisexual,Mesopolobus amaenus,42,"AT,GB 20,HU 19,JO 3"
+Andricus grossulariae,bisexual,Mesopolobus fasciiventris,4,HU 4
+Andricus grossulariae,bisexual,Mesopolobus fuscipes,6,"GB 1,HU 5"
+Andricus grossulariae,bisexual,Mesopolobus lichtensteini,1,"ES 1,HU"
+Andricus grossulariae,bisexual,Mesopolobus sericeus,1,GB 1
+Andricus grossulariae,bisexual,Mesopolobus tibialis,6,"GB 1,HU 4,IT"
+Andricus grossulariae,bisexual,Mesopolobus xanthocerus,8,"AT,ES,GB 1,HU 7"
+Andricus grossulariae,bisexual,Eupelmus spongipartus,3,"AT,HU 3"
+Andricus grossulariae,bisexual,Eupelmus urozonus,12,"AT,GB 3,HU 5,UA 4"
+Andricus grossulariae,bisexual,Aulogymnus gallarum,30,"AT 1,ES 17,HU 12,AT,CZ,HU"
+Andricus grossulariae,bisexual,Aulogymnus skianeuros,3,HU 3
+Andricus grossulariae,bisexual,Aulogymnus testaceoviridis,10,JO 10
+Andricus grossulariae,bisexual,Aulogymnus trilineatus,8,ES 8
+Andricus grossulariae,bisexual,Aprostocetus aethiops,6,HU 6
+Andricus grossulariae,bisexual,Aprostocetus cerricola,7,HU 7
+Andricus grossulariae,bisexual,Aprostocetus domenichinii,1,"FR 1,HU"
+Andricus grossulariae,bisexual,Pediobius rotundatus,1,JO 1
+Andricus grossulariae,bisexual,(Scambus planatus),1,GB 1
+Andricus grossulariae,bisexual,Andricus grossulariae,,NA
+Andricus grossulariae,bisexual,Synergus crassicornis,,"HU,IT,UA"
+Andricus grossulariae,bisexual,Synergus facialis,4,"GB 1,HU 3"
+Andricus grossulariae,bisexual,Synergus hayneanus,25,"HU 25,UA"
+Andricus grossulariae,bisexual,Synergus pallicornis,1,ES 1
+Andricus grossulariae,bisexual,Synergus pallidipennis,6,"ES 1,HU 5"
+Andricus grossulariae,bisexual,Synergus pallipes,5,"GB 1,HU 4"
+Andricus grossulariae,bisexual,Synergus umbraculus,186,"ES 108,GB 1,HU 77,IT"
+Andricus grossulariae,bisexual,Synergus sp.,2,TR 2
+Andricus grossulariae,bisexual,Eurytoma adleriae,10,"HR 1,HU 4,IT 1,MA 1,TR 3"
+Andricus grossulariae,bisexual,Eurytoma brunniventris,82,"ES 5,GB 16,HU 55,IT 1,TR 4,UA 1"
+Andricus grossulariae,bisexual,Eurytoma setigera,4,HU 4
+Andricus grossulariae,bisexual,Sycophila biguttata,850,"ES 242,FR 2,GB 2,HU 583,IT,RO,TR 21"
+Andricus grossulariae,bisexual,Megastigmus dorsalis,341,"ES 48,GB 1,HU 259,IT 3,RO,TR 30"
+Andricus grossulariae,bisexual,Megastigmus stigmatizans,,IT
+Andricus grossulariae,bisexual,Torymus auratus,1,UA 1
+Andricus grossulariae,bisexual,Ormyrus nitidulus,17,"ES 3,GB 2,GR 1,HU 3,IT 4,TR 4"
+Andricus grossulariae,bisexual,Ormyrus pomaceus,290,"ES 26,HU 250,IT,TR 13,UA 1"
+Andricus grossulariae,bisexual,Ormyrus nitidulus or O. pomaceus,62,HU 62
+Andricus grossulariae,bisexual,Caenacis lauta,5,HU 5
+Andricus grossulariae,bisexual,Cecidostiba fungosa,130,"ES 14,GB 3,HU 95,RO,TR 18"
+Andricus grossulariae,bisexual,Cecidostiba semifascia,,HU 1
+Andricus grossulariae,bisexual,Cyrtoptyx robustus,2,ES 2
+Andricus grossulariae,bisexual,Hobbya stenonota,,ES 14
+Andricus grossulariae,bisexual,Mesopolobus amaenus,1,TR 1
+Andricus grossulariae,bisexual,Mesopolobus sericeus,5,"ES 3,GB 2"
+Andricus grossulariae,bisexual,Mesopolobus xanthocerus,2,"GB 1,HU 1"
+Andricus grossulariae,bisexual,Eupelmus spongipartus,38,"ES 36,HU 2,ES 1,GB 1,HU 11,IT"
+Andricus grossulariae,bisexual,Eupelmus vesicularis,1,HU(1 Q
+Andricus grossulariae,bisexual,Aulogymnus gallarum,20,"HU 4,TR 16"
+Andricus grossulariae,bisexual,Aulogymnus skianeuros,1,"HU 1,IT"
+Andricus grossulariae,bisexual,Aulogymnus trilineatus,12,"ES 1,HU 2,TR 9"
+Andricus grossulariae,bisexual,Aulogymnus gallarum or A. trilineatus,25,TR 25
+Andricus grossulariae,bisexual,Aprostocetus aethiops,1,HU 1
+Andricus grossulariae,bisexual,Baryscapus anasillus,1,HU 1
+Andricus grossulariae,bisexual,Baryscapus berhidanus,1,ES 1
+Andricus grossulariae,bisexual,Baryscapus ?diaphantus,7,HU 7
+Andricus grossulariae,bisexual,Baryscapus ?pallidae,28,HU 28
+Andricus grossulariae,bisexual,(Scambus planatus),1,GB 1
+Andricus grossulariae,bisexual,(Scambus sp.),1,HU 1
+Andricus grossulariae,bisexual,(Bracon kopelkei),1,GB 1
+Andricus hartigi,asexual,Ceroptres clavicornis,1,AT 1
+Andricus hartigi,asexual,Synergus facialis,118,HU 118
+Andricus hartigi,asexual,Synergus pallicornis,7,"AT,HU 7,UA"
+Andricus hartigi,asexual,Synergus pallipes,24,"AT,HU 24"
+Andricus hartigi,asexual,Synergus radiatus,,AT
+Andricus hartigi,asexual,Synergus reinhardi,,"HU,UA"
+Andricus hartigi,asexual,Synergus umbraculus,,"AT,HU"
+Andricus hartigi,asexual,Eurytoma brunniventris,17,"AT,BG 1,HU 16"
+Andricus hartigi,asexual,Eurytoma setigera,4,"AT,HU 1,UA 3"
+Andricus hartigi,asexual,Torymus geranii,2,UA 2
+Andricus hartigi,asexual,Ormyrus nitidulus,4,"AT 2,BG 1,IT 1"
+Andricus hartigi,asexual,Ormyrus pomaceus,4,"AT 1,BG 1,HU 2"
+Andricus hartigi,asexual,Cecidostiba fungosa,28,HU 28
+Andricus hartigi,asexual,Hobbya stenonota,14,"AT,BG 1,HU 13"
+Andricus hartigi,asexual,Eupelmus spongipartus,12,"HU 6,UA 6"
+Andricus hartigi,asexual,Eupelmus urozonus,,HU 8
+Andricus hartigi,asexual,Reikosiella rostrata,,AT
+Andricus hispanicus,bisexual,Ceroptres cerri,1,ES 1
+Andricus hispanicus,bisexual,Ormocerus vernalis,3,ES 3
+Andricus hispanicus,bisexual,Mesopolobus ?lichtensteini,2,ES 2
+Andricus hispanicus,bisexual,Mesopolobus xanthocerus,12,ES 12
+Andricus hispanicus,bisexual,Eupelmus urozonus,,ES
+Andricus hispanicus,bisexual,Andricus hispanicus,,NA
+Andricus hispanicus,bisexual,Ceroptres clavicornis,7,ES 7
+Andricus hispanicus,bisexual,Saphonecrus connatus,3,ES 3
+Andricus hispanicus,bisexual,Synergus apicalis,6,ES 6
+Andricus hispanicus,bisexual,Synergus crassicornis,1,ES 1
+Andricus hispanicus,bisexual,Synergus facialis,82,ES 82
+Andricus hispanicus,bisexual,Pujade-Villar 1992d; Ros-Farré & Pujade-Villar 1998),,NA
+Andricus hispanicus,bisexual,Synergus hayneanus,1363,"AD,ES 135,IT,PT"
+Andricus hispanicus,bisexual,Synergus ibericus,601,"ES 601,PT"
+Andricus hispanicus,bisexual,Synergus pallidipennis,112,ES 112
+Andricus hispanicus,bisexual,Synergus pallipes,4,ES 4
+Andricus hispanicus,bisexual,Synergus reinhardi,,ES 298
+Andricus hispanicus,bisexual,Pujade-Villar 1999b; Nieves-Aldrey & Pujade-Villar 1985; Pujade-Villar 1992d; Ros-Farré & Pujade-Villar 1998; Nieves-Aldrey 2001b),,NA
+Andricus hispanicus,bisexual,Synergus tibialis,5,ES.(5
+Andricus hispanicus,bisexual,Synergus umbraculus,3594,"AD,ES 359,PT"
+Andricus hispanicus,bisexual,Eurytoma brunniventris,436,ES 436
+Andricus hispanicus,bisexual,Eurytoma setigera,1,ES 1
+Andricus hispanicus,bisexual,Sycophila biguttata,26,ES 26
+Andricus hispanicus,bisexual,Sycophila flavicollis,1,ES 1
+Andricus hispanicus,bisexual,Sycophila iracemae,7,ES 7
+Andricus hispanicus,bisexual,Sycophila variegate,12,ES 12
+Andricus hispanicus,bisexual,Megastigmus dorsalis,286,ES 286
+Andricus hispanicus,bisexual,Megastigmus stigmatizans,327,"ES 324,MA 2,IT"
+Andricus hispanicus,bisexual,Adontomerus crassipes,4,ES( 4
+Andricus hispanicus,bisexual,Torymus auratus,238,ES 238
+Andricus hispanicus,bisexual,Torymus sp. indet.,5,ES 5
+Andricus hispanicus,bisexual,Ormyrus nitidulus,68,"ES 65,IT"
+Andricus hispanicus,bisexual,Ormyrus pomaceus,5,ES 5
+Andricus hispanicus,bisexual,Caenacis lauta,47,ES 47
+Andricus hispanicus,bisexual,Cecidostiba fungosa,27,ES 27
+Andricus hispanicus,bisexual,Cecidostiba semifascia,7,ES 7
+Andricus hispanicus,bisexual,Cyrtoptyx robustus,67,ES 67
+Andricus hispanicus,bisexual,Eumacepolus obscurior,2,ES 2
+Andricus hispanicus,bisexual,Hobbya stenonota,,ES 9
+Andricus hispanicus,bisexual,Mesopolobus sericeus,14,ES 14
+Andricus hispanicus,bisexual,Eupelmus spongipartus,277,ES 277
+Andricus hispanicus,bisexual,Eupelmus urozonus,64,"ES 63,PT 1"
+Andricus hispanicus,bisexual,Eupelmus vesicularis,6,ES 6
+Andricus hispanicus,bisexual,Aulogymnus obscuripes,4,ES 4
+Andricus hispanicus,bisexual,Tetrastichinae sp. indet.,4,ES 4
+Andricus hungaricus,asexual,Ceroptres clavicornis,2,"AT,HU 2"
+Andricus hungaricus,asexual,Saphonecrus connatus,,NA
+Andricus hungaricus,asexual,Synergus facialis,331,HU 331
+Andricus hungaricus,asexual,Synergus hayneanus,3,HU 3
+Andricus hungaricus,asexual,Synergus incrassatus,1,"HU 1,UA"
+Andricus hungaricus,asexual,Synergus pallicornis,2,"AT,HU 2"
+Andricus hungaricus,asexual,Synergus pallidipennis,4,HU 4
+Andricus hungaricus,asexual,Synergus pallipes,167,"AT,HU 167"
+Andricus hungaricus,asexual,Synergus tibialis,5,HU 5
+Andricus hungaricus,asexual,Synergus umbraculus,1158,"AT,HU 115,UA"
+Andricus hungaricus,asexual,Eurytoma brunniventris,382,"AT,HU 382,RO,RS"
+Andricus hungaricus,asexual,Sycophila biguttata,84,"HU 84,RO"
+Andricus hungaricus,asexual,Sycophila variegata,20,"HU 20,RO"
+Andricus hungaricus,asexual,Megastigmus dorsalis,53,"HU 53,RO"
+Andricus hungaricus,asexual,Megastigmus stigmatizans,1,HU 1
+Andricus hungaricus,asexual,Torymus auratus,16,HU 16
+Andricus hungaricus,asexual,Torymus ?erucarum,3,HU 3
+Andricus hungaricus,asexual,Torymus geranii,1,"HU 1,RO"
+Andricus hungaricus,asexual,Ormyrus nitidulus,6,"HU 6,RO"
+Andricus hungaricus,asexual,Ormyrus pomaceus,4,HU 4
+Andricus hungaricus,asexual,Caenacis lauta,2,"HU 2,RO"
+Andricus hungaricus,asexual,Cecidostiba fungosa,485,HU 485
+Andricus hungaricus,asexual,Mesopolobus amaenus,1,HU 1
+Andricus hungaricus,asexual,Mesopolobus fasciiventris,25,HU 25
+Andricus hungaricus,asexual,Eupelmus spongipartus,6,HU 6
+Andricus hungaricus,asexual,Eupelmus urozonus,169,HU 169
+Andricus hungaricus,asexual,Eupelmus vesicularis,23,HU 23
+Andricus hungaricus,asexual,Reikosiella rostrata,,AT
+Andricus hungaricus,asexual,Aulogymnus trilineatus,16,"HU 16,RO"
+Andricus hungaricus,asexual,Aprostocetus aethiops,2,HU 2
+Andricus hungaricus,asexual,(Pediobius saulius),5,HU 5
+Andricus hungaricus,asexual,(Scambus elegans),3,HU 3
+Andricus hystrix,asexual,Ceroptres clavicornis,,NA
+Andricus hystrix,asexual,Synergus hayneanus,3,HU 3
+Andricus hystrix,asexual,Synergus umbraculus,,HU
+Andricus hystrix,asexual,Eurytoma adleriae,1,TR 1
+Andricus hystrix,asexual,Eurytoma brunniventris,4,"HU 4,RO"
+Andricus hystrix,asexual,Sycophila biguttata,3,HU 3
+Andricus hystrix,asexual,Ormyrus nitidulus,1,IT 1
+Andricus hystrix,asexual,Ormyrus pomaceus,16,HU 16
+Andricus hystrix,asexual,Eupelmus spongipartus,1,HU 1
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Ceroptres clavicornis,1,HU 1
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus crassicornis,,DE
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus diaphanus,25,"AT 11,HU 14"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus facialis,291,"AT,CZ,TR 7"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus hayneanus,25,"AT,DE,HU(25,IT,UA"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus pallicornis,13,"AT,HU 13,IT"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus pallidipennis,5,"AT,HU 5,UA"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus pallipes,45,"AT,HU 45,UA"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus reinhardi,,"AT,FR,UA"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus thaumacerus,,AT
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus tibialis,2,HU 2
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Synergus umbraculus,169,"AT,CZ,HU 169,IT,PL,UA"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Eurytoma adleriae,3,IT 3
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Eurytoma brunniventris,57,"AT,CZ(1,HU 54,RO,TR 2"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Sycophila biguttata,28,"HU 27,IT,RO,TR 1"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Sycophila variegata,,RO
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Megastigmus dorsalis,36,"HU 10,TR 26"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Megastigmus stigmatizans,,IT 
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Torymus auratus,6,"AT,IT,RO,TR 6"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Torymus cyaneus,2,HU 2
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Torymus ?erucarum,1,HU 1
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Torymus ?flavipes,,PL
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Ormyrus nitidulus,50,"AT 10,BG 1,HU 28,IT,RO,TR 10,UA 1"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Ormyrus pomaceus,10,"AT 1,HU 9"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Caenacis lauta,26,HU 26
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Cecidostiba fungosa,48,"HU 47,TR 1"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Hobbya stenonota,4,TR 4
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Mesopolobus fasciiventris,1,HU 1
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Mesopolobus tarsatus,1,HU 1
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Eupelmus spongipartus,3,HU 3
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Eupelmus urozonus,3,"HU 3,RO"
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Aulogymnus skianeuros,,IT
+Andricus infectorius,asexual [includes literature records under gallaetinctoriae],Tetrastichinae sp.,2,HU 2
+Andricus inflator,bisexual,Saphonecrus connatus,1,"AT,DE,FR,SE öl"
+Andricus inflator,bisexual,Synergus apicalis,,PL
+Andricus inflator,bisexual,Synergus crassicornis,4,"GB 4,UA"
+Andricus inflator,bisexual,Synergus pallipes,,"AT,DE"
+Andricus inflator,bisexual,Synergus tibialis,1,ES 1
+Andricus inflator,bisexual,Sycophila biguttata,,RO
+Andricus inflator,bisexual,Megastigmus dorsalis,8,"AT,DE 1,FI 2,GB 1,HU 3,UA 1"
+Andricus inflator,bisexual,Torymus auratus,,AT
+Andricus inflator,bisexual,Torymus flavipes,5,"GB 2,HU 3"
+Andricus inflator,bisexual,Ormyrus sp.,1,HU 2
+Andricus inflator,bisexual,Mesopolobus albitarsus?,1,GB 1
+Andricus inflator,bisexual,Mesopolobus fuscipes,,AT
+Andricus inflator,bisexual,Mesopolobus tibialis,,DE
+Andricus inflator,bisexual,Aulogymnus arsames,5,"DE 1,DK 1,GB 2,HU 1"
+Andricus inflator,bisexual,Aprostocetus sp.,1,DK 1
+Andricus inflator,bisexual,Andricus inflator,,NA
+Andricus inflator,bisexual,Synergus apicalis,,"HU,UA"
+Andricus inflator,bisexual,Synergus crassicornis,,UA
+Andricus inflator,bisexual,Synergus hayneanus,12,"AT,HU 12,UA"
+Andricus inflator,bisexual,Synergus pallidipennis,4,HU 4
+Andricus inflator,bisexual,Synergus pallipes,,"AT,DK,UA"
+Andricus inflator,bisexual,Synergus radiatus,,"DE,UA"
+Andricus inflator,bisexual,Synergus ruficornis,32,"AT,DE,FR 29,GB 3,HU,PL,UA"
+Andricus inflator,bisexual,Synergus tibialis,,"HU,UA"
+Andricus inflator,bisexual,Synergus umbraculus,27,HU 27
+Andricus inflator,bisexual,Saphonecrus connatus,,"AT,FR,SE öl"
+Andricus inflator,bisexual,Sycophila iracemae,1,GR 1
+Andricus inflator,bisexual,Eurytoma brunniventris,1,"AT,DE,GB 1"
+Andricus inflator,bisexual,Torymus auratus,,AT
+Andricus inflator,bisexual,Ormyrus pomaceus,17,"AT 5,FR(9,HU 3"
+Andricus inflator,bisexual,Mesopolobus sericeus,1,GB 1
+Andricus inflator,bisexual,Eupelmus spongipartus,1,GR 1
+Andricus inflator,bisexual,Eupelmus urozonus,2,"ES 1,HU 1"
+Andricus kollari,bisexual,Ceroptres cerri,,AT
+Andricus kollari,bisexual,Mesopolobus fuscipes,461,"AT,GB 459,UA 2"
+Andricus kollari,bisexual,Mesopolobus tibialis,7,GB 7
+Andricus kollari,bisexual,Mesopolobus xanthocerus,17,"GB 16,HU 1"
+Andricus kollari,bisexual,Aulogymnus gallarum,5,HU 5
+Andricus kollari,bisexual,Aulogymnus testaceoviridis,1,HU 1
+Andricus kollari,bisexual,Andricus kollari,,NA
+Andricus kollari,bisexual,Ceroptres clavicornis,3,"AT 1,DE,GB 1,HU 1,PL,RO"
+Andricus kollari,bisexual,Synergus crassicornis,2,"HU 2,UA,DE,FR,HU 55,IT 2,NL,PL,TR 1"
+Andricus kollari,bisexual,Synergus hayneanus,52,"AT,FR,RO,UA"
+Andricus kollari,bisexual,Synergus incrassatus,7,DE
+Andricus kollari,bisexual,Synergus pallicornis,1,"AT,DE,HR,HU 1,RO,UA"
+Andricus kollari,bisexual,Synergus pallidipennis,45,"GB 39,HU 6,NL rob,UA"
+Andricus kollari,bisexual,Synergus pallipes,23,"AT,FR,HU 20,NL,UA"
+Andricus kollari,bisexual,Synergus radiatus,,"NL,UA"
+Andricus kollari,bisexual,Synergus reinhardi,678,"AT,DE 15,FR,HU,NL,PL,RO,UA"
+Andricus kollari,bisexual,Synergus thaumacerus,,AT
+Andricus kollari,bisexual,Synergus tibialis,,"HU,NL,UA"
+Andricus kollari,bisexual,Synergus umbraculus,923,"AT,DE,DZ,FR 2,GB 365,HU 556,IT,NL,PL,UA"
+Andricus kollari,bisexual,Eurytoma adleriae,23,"ES 4,FR 3,HU 15,IT 1"
+Andricus kollari,bisexual,Eurytoma brunniventris,,"AT,BG 9,DE 6,ES 3,FR 553,GB 85,HU 682,IE 2,IT 3,NL 1,RO,UA 5"
+Andricus kollari,bisexual,Eurytoma setigera,5,"AT,FR 1,HR,HU 4"
+Andricus kollari,bisexual,Sycophila biguttata,31,"AT 7,DE 1,FR 1,GB 9,HU 13,NL,RO"
+Andricus kollari,bisexual,Sycophila flavicollis,1,FR 1
+Andricus kollari,bisexual,Sycophila variegata,27,"FR 6,GB 14,HU 7,NL"
+Andricus kollari,bisexual,Megastigmus dorsalis,292,"AT,BE 1,BG 6,DE 57,ES 1,FR 56,GB 128,HU 37,NL 3,TR 3"
+Andricus kollari,bisexual,Megastigmus stigmatizans,121,"AT,BG 2,DE,FR 55,GB 29,HU 28,IT 7"
+Andricus kollari,bisexual,Torymus auratus,624,"AT 1,BE 2,BG 1,DE 44,FR 125,GB 395,HU 49,NL 3,RO,TR 4"
+Andricus kollari,bisexual,Torymus ?erucarum,78,HU 78
+Andricus kollari,bisexual,Torymus geranii,54,"BG,FR 1,GB 53,NL,RO"
+Andricus kollari,bisexual,Ormyrus nitidulus,154,"AT 18,FR 6,GB 1,HU 129,IT"
+Andricus kollari,bisexual,(Mantero 1906),,"RO,SI"
+Andricus kollari,bisexual,Ormyrus pomaceus,2,"BG 2,MD"
+Andricus kollari,bisexual,Ormyrus nitidulus or O. pomaceus,7,HU 7
+Andricus kollari,bisexual,Caenacis lauta,92,"AT,DE 1,GB 1,HR 2,HU 61,IE 1,RO,UA 26"
+Andricus kollari,bisexual,Cecidostiba fungosa,78,"AT,DE 1,FR 23,GB 5,HU 49"
+Andricus kollari,bisexual,Cecidostiba geganius,,NL
+Andricus kollari,bisexual,Cecidostiba semifascia,4,"HU 3,UA 1"
+Andricus kollari,bisexual,Cyrtoptyx robustus,1,"IT,RO 1"
+Andricus kollari,bisexual,Hobbya stenonota,17,"FR 7,GB 3,HU 5,TR 2"
+Andricus kollari,bisexual,Mesopolobus amaenus,2,GB 2
+Andricus kollari,bisexual,Mesopolobus fasciiventris,2,"AT,GB 1,HU 1,NL"
+Andricus kollari,bisexual,Mesopolobus sericeus,165,"GB 165,IE 'C"
+Andricus kollari,bisexual,Mesopolobus tibialis,1,GB 1
+Andricus kollari,bisexual,Eupelmus spongipartus,176,"AT,BG 1,DE 1,FR 38,GB 1,HR 3,HU 132,RO"
+Andricus kollari,bisexual,Eupelmus urozonus,49,"AT,DE 1,FR 8,GB 13,HU 24,NL,RO,TR 2,UA 1"
+Andricus kollari,bisexual,Eupelmus vesicularis,11,"AT,HU 11"
+Andricus kollari,bisexual,Aulogymnus ?arsames,1,DE 1
+Andricus kollari,bisexual,Aulogymnus gallarum,4,"HR 3,HU 1"
+Andricus kollari,bisexual,Aulogymnus trilineatus,1,GB 1
+Andricus kollari,bisexual,Baryscapus ?anasillus,11,HU 11
+Andricus kollari,bisexual,Baryscapus berhidanus,94,"CZ,FR,HU 94"
+Andricus kollari,bisexual,Baryscapus ?pallidae,1,HU 1
+Andricus kollari,bisexual,(Scambus sp.),3,HU 3
+Andricus legitimus,asexual,Synergus clandestinus,67,"AT,DE,ES 37,FI,GB 30,HU,NL,PL,UA"
+Andricus legitimus,asexual,Synergus facialis,,NL
+Andricus legitimus,asexual,Eurytoma brunniventris,2,"ES 2,NL"
+Andricus legitimus,asexual,Megastigmus dorsalis,48,"ES 48,NL"
+Andricus legitimus,asexual,Hobbya stenonota,43,ES 43
+Andricus legitimus,asexual,Mesopolobus tibialis,1,ES 1
+Andricus legitimus,asexual,Eupelmus spongipartus,24,ES 24
+Andricus lignicolus,bisexual,Mesopolobus dubius,3,GB 3
+Andricus lignicolus,bisexual,Mesopolobus fuscipes,70,"GB 70,GB 1"
+Andricus lignicolus,bisexual,Mesopolobus xanthocerus,3,GB 3
+Andricus lignicolus,bisexual,Andricus lignicolus,,NA
+Andricus lignicolus,bisexual,Ceroptres clavicornis,13,"AT 3,BG,HU 10,PL"
+Andricus lignicolus,bisexual,"(Ionescu 1955, 1957)",,UA
+Andricus lignicolus,bisexual,Synergus apicalis,,"AT,HU,UA"
+Andricus lignicolus,bisexual,Synergus crassicornis,1,HU 1
+Andricus lignicolus,bisexual,Synergus facialis,75,"DE,GB 16,HU 59,NL"
+Andricus lignicolus,bisexual,Synergus hayneanus,34,"AT,DE,HU 34,RO,UA"
+Andricus lignicolus,bisexual,Synergus pallicornis,1,"AT,DE,HU 1"
+Andricus lignicolus,bisexual,(Diakontschuk & Melika 1994),,NA
+Andricus lignicolus,bisexual,Synergus pallidipennis,18,"AT,GB 2,HU 16,UA"
+Andricus lignicolus,bisexual,Synergus pallipes,15,"AT,HU 15,NL,UA"
+Andricus lignicolus,bisexual,Synergus reinhardi,42,"DE,GB 42,HU,NL,PL,RO,UA"
+Andricus lignicolus,bisexual,Synergus ruficornis,,UA
+Andricus lignicolus,bisexual,Synergus umbraculus,147,"AT 13,DE,FR 4,GB 10,HU 120,NL,PL,UA"
+Andricus lignicolus,bisexual,Eurytoma adleriae,14,"HU 13,SK 1"
+Andricus lignicolus,bisexual,Eurytoma brunniventris,116,"AT 6,BG 12,GB 2,HU 96,NL"
+Andricus lignicolus,bisexual,Eurytoma setigera,,AT
+Andricus lignicolus,bisexual,Sycophila biguttata,17,"AT 4,BG 4,DE,HU 9,RO"
+Andricus lignicolus,bisexual,Sycophila variegata,3,"AT 2,BG 1,HU,RO"
+Andricus lignicolus,bisexual,Megastigmus dorsalis,89,"AT,BG 25,FR 2,GB 12,HU 48,NL,UA 2"
+Andricus lignicolus,bisexual,Megastigmus stigmatizans,2,"BG 1,DE,GB 1"
+Andricus lignicolus,bisexual,Torymus auratus,17,"AT,BG 1,FR 3,GB 6,HU 5,RO,UA 2"
+Andricus lignicolus,bisexual,(Perilampus ruficornis),1,BG 1
+Andricus lignicolus,bisexual,Ormyrus nitidulus,109,"AT 46,BG 26,HU 37,RO"
+Andricus lignicolus,bisexual,Ormyrus pomaceus,52,"AT 15,BG 2,DE,HU 33,RO,UA 2"
+Andricus lignicolus,bisexual,Caenacis lauta,38,"AT,HR 2,HU 36"
+Andricus lignicolus,bisexual,Cecidostiba fungosa,58,"AT,HU 58,RO"
+Andricus lignicolus,bisexual,Cecidostiba semifascia,1,HU 1
+Andricus lignicolus,bisexual,Eumacepolus sp.?,1,HU 1
+Andricus lignicolus,bisexual,Mesopolobus amaenus,6,"FR 2,GB 4,HU"
+Andricus lignicolus,bisexual,Mesopolobus dubius,,HU
+Andricus lignicolus,bisexual,Mesopolobus fasciiventris,13,"AT 1,HU 11,UA 1"
+Andricus lignicolus,bisexual,Mesopolobus sericeus,25,"BG 1,GB 23,HU,IE 1"
+Andricus lignicolus,bisexual,Mesopolobus tibialis,,HU 1
+Andricus lignicolus,bisexual,Mesopolobus xanthocerus,,HU
+Andricus lignicolus,bisexual,Eupelmus spongipartus,19,"AT,BG 6,HR,HU 13,RO"
+Andricus lignicolus,bisexual,Eupelmus urozonus,25,"BG 1,GB 3,HU 21"
+Andricus lignicolus,bisexual,Reikosiella rostrata,1,HU 1
+Andricus lignicolus,bisexual,Aulogymnus skianeuros,2,"AT,BG 1,HU 1"
+Andricus lignicolus,bisexual,Aulogymnus trilineatus,,HU
+Andricus lignicolus,bisexual,Aprostocetus aethiops,3,HU 3
+Andricus lucidus,bisexual,Synergus pallipes,1,HU 1
+Andricus lucidus,bisexual,Synergus umbraculus,,AT
+Andricus lucidus,bisexual,Eurytoma brunniventris,,NA
+Andricus lucidus,bisexual,Eurytoma setigera,5,HU 5
+Andricus lucidus,bisexual,Sycophila biguttata,483,"AT 462,HU 21"
+Andricus lucidus,bisexual,Torymus auratus,8,"AT,HU 8,RO"
+Andricus lucidus,bisexual,Ormyrus nitidulus,3,"AT 1,HU 1,TR 1"
+Andricus lucidus,bisexual,Ormyrus pomaceus,10,"AT 9,HU 1"
+Andricus lucidus,bisexual,Cecidostiba fungosa,24,HU 24
+Andricus lucidus,bisexual,Hobbya stenonota,,HU
+Andricus lucidus,bisexual,Mesopolobus xanthocerus,5,HU 5
+Andricus lucidus,bisexual,Eupelmus spongipartus,3,"AT,HU 3"
+Andricus lucidus,bisexual,Eupelmus urozonus,1,"AT,HU 1"
+Andricus lucidus,bisexual,Aulogymnus gallarum,61,"AT,HU 61"
+Andricus lucidus,bisexual,Baryscapus sp.,17,HU 17
+Andricus lucidus,bisexual,Andricus lucidus,,NA
+Andricus lucidus,bisexual,Ceroptres clavicornis,6,"AT,GB 2,HU 4"
+Andricus lucidus,bisexual,Synergus facialis,9,HU 9
+Andricus lucidus,bisexual,Synergus hayneanus,16,HU 16
+Andricus lucidus,bisexual,Synergus pallidipennis,3,HU 3
+Andricus lucidus,bisexual,Synergus pallipes,10,"AT,HU 10"
+Andricus lucidus,bisexual,Synergus umbraculus,691,"AT,DE,GB 9,GR,HR,HU 682,IT,PL,UA"
+Andricus lucidus,bisexual,Melika 1994),,NA
+Andricus lucidus,bisexual,Eurytoma adleriae,12,"AT 1,FR 1,HU 6,IT 2,TR 2"
+Andricus lucidus,bisexual,Eurytoma brunniventris,166,"AT,BG 7,GB 1,HU 152,IT 1,RO"
+Andricus lucidus,bisexual,Eurytoma setigera,2,"HU 1,TR 1"
+Andricus lucidus,bisexual,Sycophila biguttata,278,"AT 51,BG 3,DE,GB 1,HU 218,RO,TR 5"
+Andricus lucidus,bisexual,Sycophila variegate,188,"TR 1,AT,HU 161,TR 27"
+Andricus lucidus,bisexual,Megastigmus stigmatizans,,"AT,HU"
+Andricus lucidus,bisexual,Torymus auratus,2,"GB 1,HU 1"
+Andricus lucidus,bisexual,Torymus cyaneus,1,HU 1
+Andricus lucidus,bisexual,Ormyrus nitidulus,301,"AT 21,BG 9,HU 258,RO,TR 13"
+Andricus lucidus,bisexual,Ormyrus pomaceus,106,"AT 8,HU 93,RO,TR 5"
+Andricus lucidus,bisexual,Ormyrus nitidulus or O. pomaceus,8,TR 8
+Andricus lucidus,bisexual,Caenacis lauta,10,"AT,HR 1,HU 9"
+Andricus lucidus,bisexual,Cecidostiba fungosa,71,"AT,GB 1,HR 2,HU 65,RO,TR 3"
+Andricus lucidus,bisexual,Cecidostiba semifascia,1,HU 1
+Andricus lucidus,bisexual,Hobbya stenonota,1,"AT,HU 1"
+Andricus lucidus,bisexual,Mesopolobus sericeus,1,GB 1
+Andricus lucidus,bisexual,Mesopolobus xanthocerus?,1,GB 1
+Andricus lucidus,bisexual,Eupelmus spongipartus,17,"AT,HU 17"
+Andricus lucidus,bisexual,Eupelmus urozonus,17,"BG 1,GB 1,HU 16,RO"
+Andricus lucidus,bisexual,Aulogymnus arsames,1,HU 1
+Andricus lucidus,bisexual,Aulogymnus gallarum,3,"HU 1,TR 2"
+Andricus lucidus,bisexual,Aulogymnus trilineatus,13,"HU 8,TR 5"
+Andricus lucidus,bisexual,Baryscapus ?anasillus,4,HU 4
+Andricus lucidus,bisexual,Baryscapus berhidanus,73,"HU 1,TR 72"
+Andricus lucidus,bisexual,Baryscapus ?pallidae,5,HU 5
+Andricus lucidus,bisexual,Baryscapus sp.,10,ES 10
+Andricus lucidus,bisexual,(Scambus elegans),4,HU 4
+Andricus malpighii,bisexual,Synergus pallipes,,NL
+Andricus malpighii,bisexual,Synergus radiatus,,"DK,NL"
+Andricus malpighii,bisexual,Ormocerus latus,2,ES 2
+Andricus malpighii,bisexual,Mesopolobus tibialis,5,ES 5
+Andricus malpighii,bisexual,Mesopolobus xanthocerus,55,ES 55
+Andricus malpighii,bisexual,Andricus malpighii,,NA
+Andricus malpighii,bisexual,Saphonecrus connatus,,DK
+Andricus malpighii,bisexual,Synergus facialis,48,"AD,ES 48,FR,NL"
+Andricus malpighii,bisexual,Synergus pallipes,,"AD,AT,DK,NL"
+Andricus malpighii,bisexual,Synergus radiatus,,"AD,DE,NL"
+Andricus malpighii,bisexual,Synergus thaumacerus,,DK
+Andricus malpighii,bisexual,Eurytoma brunniventris,2,AD 2
+Andricus malpighii,bisexual,Mesopolobus fasciiventris,1,"ES 1,NL"
+Andricus malpighii,bisexual,Mesopolobus sericeus,,AD
+Andricus malpighii,bisexual,Mesopolobus tibialis,1,ES 1
+Andricus malpighii,bisexual,Pteromalus sp. A,1,FI 1
+Andricus malpighii,bisexual,Eupelmus urozonus,1,ES 1
+Andricus malpighii,bisexual,Synergus umbraculus,2,GR 2
+Andricus malpighii,bisexual,Eurytoma brunniventris,4,GR 4
+Andricus malpighii,bisexual,Megastigmus ?stigmatizans,7,GR 7
+Andricus malpighii,bisexual,Ormyrus nitidulus,1,GR 1
+Andricus malpighii,bisexual,Ormyrus pomaceus,3,GR 3
+Andricus malpighii,bisexual,Cecidostiba fungosa,6,GR 6
+Andricus malpighii,bisexual,Eupelmus spongipartus,1,GR 1
+Andricus melikai,bisexual,Ormyrus ?pomaceus,2,GR 2
+Andricus mitratus,asexual,Synergus facialis,,IT
+Andricus mitratus,asexual,Synergus reinhardi,,"AT,IT"
+Andricus mitratus,asexual,Synergus umbraculus,,BG
+Andricus mitratus,asexual,Eurytoma brunniventris,6,"BG 1,TR 5"
+Andricus mitratus,asexual,Sycophila biguttata,4,"AT 2,BG 1,HU 1"
+Andricus mitratus,asexual,Ormyrus nitidulus,9,"BG 7,TR 2"
+Andricus mitratus,asexual,Ormyrus pomaceus,1,HU 1
+Andricus mitratus,asexual,Aulogymnus trilineatus,2,TR 2
+Andricus moreae,asexual,Ormyrus nitidulus,,GR
+Andricus multiplicatus,bisexual,Ceroptres cerri,9,"AT 4,HU 5"
+Andricus multiplicatus,bisexual,Synergus crassicornis,,AT
+Andricus multiplicatus,bisexual,Synergus dacianus,,"AT,BG,RO"
+Andricus multiplicatus,bisexual,Eurytoma brunniventris,7,"AT,HU 7"
+Andricus multiplicatus,bisexual,Eurytoma setigera,,AT
+Andricus multiplicatus,bisexual,Sycophila biguttata,105,"AT 102,HU 3,RO"
+Andricus multiplicatus,bisexual,Megastigmus dorsalis,4,"AT,HU 4,RO"
+Andricus multiplicatus,bisexual,Torymus auratus,,AT
+Andricus multiplicatus,bisexual,Torymus flavipes,1,"HU,UA 1"
+Andricus multiplicatus,bisexual,Ormyrus nitidulus,95,"AT 87,HU 8,RO"
+Andricus multiplicatus,bisexual,Ormyrus pomaceus,,"RO,HU"
+Andricus multiplicatus,bisexual,Ormyrus nitidulus or O. pomaceus,3,HU 3
+Andricus multiplicatus,bisexual,Ormocerus latus,2,HU 2
+Andricus multiplicatus,bisexual,Ormocerus vernalis,5,HU 5
+Andricus multiplicatus,bisexual,Cecidostiba fungosa,8,"AT,HU 8"
+Andricus multiplicatus,bisexual,Hobbya stenonota,1,"AT,HU 1"
+Andricus multiplicatus,bisexual,Mesopolobus amaenus,51,"AT,HU 51"
+Andricus multiplicatus,bisexual,Mesopolobus fuscipes,6,HU 6
+Andricus multiplicatus,bisexual,Mesopolobus sericeus,1,HU 1
+Andricus multiplicatus,bisexual,Mesopolobus tibialis,7,HU 7
+Andricus multiplicatus,bisexual,Mesopolobus xanthocerus,30,HU 30
+Andricus multiplicatus,bisexual,Eupelmus ?matranus,,RO
+Andricus multiplicatus,bisexual,Eupelmus spongipartus,2,"AT,HU 2"
+Andricus multiplicatus,bisexual,Eupelmus urozonus,12,"AT,HU 12"
+Andricus multiplicatus,bisexual,Aulogymnus arsames,36,HU 36
+Andricus multiplicatus,bisexual,Aulogymnus gallarum,33,"HU 33,RO"
+Andricus multiplicatus,bisexual,Aulogymnus skianeuros,5,HU 5
+Andricus multiplicatus,bisexual,Aulogymnus testaceoviridis,119,HU 119
+Andricus multiplicatus,bisexual,Cirrospilus sp.,1,HU 1
+Andricus multiplicatus,bisexual,Aprostocetus cerricola,10,HU 10
+Andricus multiplicatus,bisexual,Tetrastichinae sp.,1,HU 1
+Andricus paradoxus,Schlechtendal,Ceroptres clavicornis,1,HU 1
+Andricus paradoxus,Schlechtendal,Synergus facialis,7,"AT,DE,ES 1,GB 6,NL,PL"
+Andricus paradoxus,Schlechtendal,Synergus pallicornis,,NL
+Andricus paradoxus,Schlechtendal,Synergus pallipes,13,"AT,ES 10,GB 3"
+Andricus paradoxus,Schlechtendal,Quinlan 1963; Jennings 2010),,"NL,UA"
+Andricus paradoxus,Schlechtendal,Synergus radiatus,,"AT,DE,DK,ES,FR,GB,NL"
+Andricus paradoxus,Schlechtendal,Eurytoma brunniventris,3,"FR 1,GB 2"
+Andricus paradoxus,Schlechtendal,Caenacis lauta,10,"FR 3,GB 7"
+Andricus paradoxus,Schlechtendal,Mesopolobus amaenus,3,"FR 1,GB 2"
+Andricus paradoxus,Schlechtendal,Mesopolobus fasciiventris,1,FI 1
+Andricus paradoxus,Schlechtendal,Mesopolobus sericeus,1,GB 1
+Andricus paradoxus,Schlechtendal,Mesopolobus tibialis,7,GB 7
+Andricus paradoxus,Schlechtendal,Eupelmus urozonus,5,"FR 1,GB 4"
+Andricus paradoxus,Schlechtendal,Aprostocetus sp.,1,HU 1
+Andricus pictus,asexual,Synergus hayneanus,272,ES 272
+Andricus pictus,asexual,Synergus pallidipennis,32,ES 32
+Andricus pictus,asexual,Synergus umbraculus,319,"ES 319,PT"
+Andricus pictus,asexual,Eurytoma brunniventris,4,"ES 3,MA 1"
+Andricus pictus,asexual,Megastigmus stigmatizans,46,ES 46
+Andricus pictus,asexual,Torymus auratus,7,ES 7
+Andricus pictus,asexual,Ormyrus pomaceus,18,ES 18
+Andricus pictus,asexual,Cecidostiba fungosa,11,ES 11
+Andricus pictus,asexual,Mesopolobus amaenus,1,ES 1
+Andricus pictus,asexual,Eupelmus spongipartus,6,ES 6
+Andricus pictus,asexual,Eupelmus urozonus,2,ES 2
+Andricus pictus,asexual,Aulogymnus trilineatus,1,ES 1
+Andricus pictus,asexual,Baryscapus berhidanus,11,ES 11
+Andricus polycerus,asexual,Ceroptres clavicornis,1,AT 1
+Andricus polycerus,asexual,Synergus facialis,1,HU 1
+Andricus polycerus,asexual,Synergus hayneanus,28,HU 28
+Andricus polycerus,asexual,Synergus pallicornis,,AT
+Andricus polycerus,asexual,Synergus pallidipennis,2,"HR 2,HU"
+Andricus polycerus,asexual,Synergus pallipes,1,"AT,HU 1"
+Andricus polycerus,asexual,Synergus umbraculus,227,"AT,HU 227,IT,PL"
+Andricus polycerus,asexual,Eurytoma adleriae,7,"DE 1,GR 2,HR 4"
+Andricus polycerus,asexual,Eurytoma brunniventris,12,"AT,BG 1,GR 3,HU 8,IT"
+Andricus polycerus,asexual,Eurytoma setigera,2,"AT,HR 1,HU 1"
+Andricus polycerus,asexual,Sycophila biguttata,26,"AT 5,HR 19,HU 2"
+Andricus polycerus,asexual,Sycophila flavicollis,13,HR 13
+Andricus polycerus,asexual,Sycophila variegata,9,HR 9
+Andricus polycerus,asexual,Megastigmus dorsalis,4,"AT,HR 4"
+Andricus polycerus,asexual,Megastigmus stigmatizans,2,IT 2
+Andricus polycerus,asexual,Torymus auratus,,AT
+Andricus polycerus,asexual,Ormyrus nitidulus,20,"AT 14,BG 1,HU 5"
+Andricus polycerus,asexual,Ormyrus pomaceus,11,"HR 10,HU 1"
+Andricus polycerus,asexual,Caenacis lauta,7,"AT,HU 7"
+Andricus polycerus,asexual,Cecidostiba fungosa,4,"AT,HR 3,HU 1"
+Andricus polycerus,asexual,Cyrtoptyx robustus,27,"HR 27,IT"
+Andricus polycerus,asexual,Mesopolobus amaenus,2,AT 2
+Andricus polycerus,asexual,Mesopolobus fasciiventris,1,AT 1
+Andricus polycerus,asexual,Mesopolobus sericeus,9,HR 9
+Andricus polycerus,asexual,Eupelmus spongipartus,3,"AT,HR 1,HU 2"
+Andricus polycerus,asexual,Eupelmus urozonus,1,"AT,HR 1"
+Andricus polycerus,asexual,Reikosiella rostrata,2,HU 2
+Andricus polycerus,asexual,Aulogymnus trilineatus,23,"HR 17,HU 6"
+Andricus polycerus,asexual,(Scambus elegans),2,HU 2
+Andricus pseudoinflator,bisexual,Ceroptres clavicornis,5,ES 5
+Andricus pseudoinflator,bisexual,Saphonecrus connatus,5,"ES 5,PT?"
+Andricus pseudoinflator,bisexual,Synergus crassicornis,2,ES 2
+Andricus pseudoinflator,bisexual,Synergus tibialis,1,"AD,ES 1"
+Andricus pseudoinflator,bisexual,Eurytoma setigera,2,ES 2
+Andricus pseudoinflator,bisexual,Sycophila binotata,3,ES 3
+Andricus pseudoinflator,bisexual,Sycophila iracemae,1,ES 1
+Andricus pseudoinflator,bisexual,Sycophila variegata,1,ES 1
+Andricus pseudoinflator,bisexual,Megastigmus dorsalis,2,ES 2
+Andricus pseudoinflator,bisexual,Torymus auratus,1,ES 1
+Andricus pseudoinflator,bisexual,Torymus flavipes,13,FI 13
+Andricus pseudoinflator,bisexual,Torymus notatus,18,ES 18
+Andricus pseudoinflator,bisexual,Ormyrus pomaceus,1,"AD,ES 1"
+Andricus pseudoinflator,bisexual,Ormocerus vernalis,10,"AD 1,ES 9"
+Andricus pseudoinflator,bisexual,Mesopolobus amaenus,13,ES 13
+Andricus pseudoinflator,bisexual,Mesopolobus mediterraneus,2,ES 2
+Andricus pseudoinflator,bisexual,Mesopolobus tibialis,6,ES 6
+Andricus pseudoinflator,bisexual,Mesopolobus xanthocerus,1,ES 1
+Andricus pseudoinflator,bisexual,Eupelmus urozonus,2,"AD 1,ES 1"
+Andricus pseudoinflator,bisexual,Aulogymnus arsames,14,"AD 7,ES 7"
+Andricus pseudoinflator,bisexual,Aulogymnus obscuripes,4,ES 4
+Andricus pseudoinflator,bisexual,Tetrastichinae sp.,3,ES 3
+Andricus pseudoinflator,bisexual,Pediobius rotundatus,4,ES 4
+Andricus pseudoinflator,bisexual,Andricus pseudoinflator,,NA
+Andricus pseudoinflator,bisexual,Synergus facialis,,AD
+Andricus pseudoinflator,bisexual,Synergus ruficornis,9,"AD,ES 9,PT"
+Andricus pseudoinflator,bisexual,Synergus tibialis,,NA
+Andricus pseudoinflator,bisexual,Eurytoma brunniventris,6,ES 6
+Andricus pseudoinflator,bisexual,Sycophila biguttata,7,ES 7
+Andricus pseudoinflator,bisexual,Ormyrus pomaceus,9,ES 9
+Andricus pseudoinflator,bisexual,Eupelmus urozonus,1,ES 1
+Andricus quadrilineatus,bisexual,Mesopolobus tibialis,,NL
+Andricus quadrilineatus,bisexual,Andricus quadrilineatus,,NA
+Andricus quadrilineatus,bisexual,Ceroptres clavicornis,,NL
+Andricus quadrilineatus,bisexual,Synergus facialis,6,"AD,GB 4,NL,PL,UA"
+Andricus quadrilineatus,bisexual,Synergus pallicornis,,DK
+Andricus quadrilineatus,bisexual,Synergus pallipes,21,"DK,GB 17,HU 4,NL"
+Andricus quadrilineatus,bisexual,Synergus radiatus,,"GB,NL"
+Andricus quadrilineatus,bisexual,Eurytoma brunniventris,1,"AD 1,NL"
+Andricus quadrilineatus,bisexual,Eurytoma querceticola,,UA
+Andricus quadrilineatus,bisexual,Sycophila biguttata,21,"AT 3,ES 18"
+Andricus quadrilineatus,bisexual,Torymus flavipes,25,"ES 6,FI 13,FR 3,GB 1,RO 1,UA 1"
+Andricus quadrilineatus,bisexual,Torymus sp.,1,HU 1
+Andricus quadrilineatus,bisexual,Ormyrus pomaceus,1,"NL,UA 1"
+Andricus quadrilineatus,bisexual,Ormocerus latus,1,HU 1
+Andricus quadrilineatus,bisexual,Caenacis lauta,,NL
+Andricus quadrilineatus,bisexual,Mesopolobus amaenus,10,"AT,ES 3,FI 2,GB 1,HU 1,RO 3"
+Andricus quadrilineatus,bisexual,Mesopolobus fasciiventris,,NL
+Andricus quadrilineatus,bisexual,Mesopolobus sericeus,1,"GB 1,NL"
+Andricus quadrilineatus,bisexual,Mesopolobus tibialis,6,"AD 1,FI 5,NL"
+Andricus quadrilineatus,bisexual,Mesopolobus xanthocerus,7,"AT,FI 3,GB 3,UA 1"
+Andricus quadrilineatus,bisexual,Eupelmus urozonus,1,UA 1
+Andricus quadrilineatus,bisexual,Aulogymnus arsames,1,GB 1
+Andricus quadrilineatus,bisexual,Aulogymnus euedoreschus,73,"FI 18,GB 55"
+Andricus quadrilineatus,bisexual,Aulogymnus gallarum,8,"FI 5,GB 1,NL,RO 2"
+Andricus quadrilineatus,bisexual,Aulogymnus testaceoviridis,3,HU 3
+Andricus quadrilineatus,bisexual,Aulogymnus trilineatus,,AT
+Andricus quadrilineatus,bisexual,('Hemiteles' sp.),1,GB 1
+Andricus quercuscalicis,bisexual,Synergus tibialis,3,HU 3
+Andricus quercuscalicis,bisexual,Synergus umbraculus,,AT
+Andricus quercuscalicis,bisexual,Sycophila biguttata,5,GB 5
+Andricus quercuscalicis,bisexual,Megastigmus dorsalis,6,GB 6
+Andricus quercuscalicis,bisexual,Torymus flavipes,1,HU 1
+Andricus quercuscalicis,bisexual,Ormyrus pomaceus,4,GB 4
+Andricus quercuscalicis,bisexual,Ormocerus vernalis,44,"AT 42,CZ 1,GB,HU 1"
+Andricus quercuscalicis,bisexual,Cecidostiba fungosa,39,"AT 20,DE 18,GB,HU 1"
+Andricus quercuscalicis,bisexual,Mesopolobus amaenus,31,"CZ 5,GB 24,HU 2"
+Andricus quercuscalicis,bisexual,Mesopolobus dubius,22,GB 22
+Andricus quercuscalicis,bisexual,Mesopolobus fuscipes,772,"AT 411,CZ 49,GB 169,HU 143"
+Andricus quercuscalicis,bisexual,Mesopolobus ?mediterraneus,1,GB 1
+Andricus quercuscalicis,bisexual,Mesopolobus sericeus,,GB
+Andricus quercuscalicis,bisexual,Mesopolobus tibialis,126,"AT 69,DE,GB 40,HU 17"
+Andricus quercuscalicis,bisexual,Mesopolobus xanthocerus,640,"AT 146,CZ 36,GB 145,HU 313"
+Andricus quercuscalicis,bisexual,Eupelmus urozonus,8,GB 8
+Andricus quercuscalicis,bisexual,Aulogymnus gallarum,43,"AT 29,HU 14"
+Andricus quercuscalicis,bisexual,Aulogymnus obscuripes,1971,"AT 155,CZ 100,DE,HU 320"
+Andricus quercuscalicis,bisexual,Aulogymnus testaceoviridis,1,CZ 1
+Andricus quercuscalicis,bisexual,Aprostocetus aethiops,34,"AT 20,GB 3,HU 11"
+Andricus quercuscalicis,bisexual,Aprostocetus cerricola,48,"AT 14,HU 34"
+Andricus quercuscalicis,bisexual,Aprostocetus nr viridinitens,20,"AT 9,HU 11"
+Andricus quercuscalicis,bisexual,Andricus quercuscalicis,,NA
+Andricus quercuscalicis,bisexual,Ceroptres clavicornis,1,HU 1
+Andricus quercuscalicis,bisexual,Saphonecrus haimi,1,HU 1
+Andricus quercuscalicis,bisexual,Synergus apicalis,,"AT,DE"
+Andricus quercuscalicis,bisexual,Synergus crassicornis,,AT
+Andricus quercuscalicis,bisexual,Synergus facialis,3334,"AT,DE 30,FR 20,GB 323,HU 46,IT"
+Andricus quercuscalicis,bisexual,Synergus hayneanus,9,"HU 9,UA"
+Andricus quercuscalicis,bisexual,Synergus incrassatus,,UA
+Andricus quercuscalicis,bisexual,Synergus pallicornis,4,"DE,FR,GB 3,HU 1,NL,UA"
+Andricus quercuscalicis,bisexual,Synergus pallidipennis,5,HU 5
+Andricus quercuscalicis,bisexual,Synergus pallipes,49,"AT,DE,GB 41,HU 8"
+Andricus quercuscalicis,bisexual,Synergus radiatus,,GB
+Andricus quercuscalicis,bisexual,Synergus reinhardi,,"AT,DE,FR,HU,IT,UA"
+Andricus quercuscalicis,bisexual,Synergus thaumacerus,1,HU 1
+Andricus quercuscalicis,bisexual,Synergus umbraculus,123,"AT,CZ,FR,GB 1,HU 122,IT,SI,UA"
+Andricus quercuscalicis,bisexual,Eurytoma adleriae,7,"BG 2,HU 5"
+Andricus quercuscalicis,bisexual,Eurytoma brunniventris,352,"AT 1,CZ,DE 61,FR 38,GB 150,HU 65,IT 32,NL,RO,SI 5"
+Andricus quercuscalicis,bisexual,Sycophila biguttata,73,"AT 1,CZ"
+Andricus quercuscalicis,bisexual,(Schönrogge et al. 1995),,"GB 47,HU 20,IT,RO,SI 3,UA 1"
+Andricus quercuscalicis,bisexual,Sycophila variegata,2,HU 2
+Andricus quercuscalicis,bisexual,Megastigmus dorsalis,4,"AT,HU 2,IT"
+Andricus quercuscalicis,bisexual,Megastigmus stigmatizans,91,"AT 4,BG 1,CZ,DE 19,FR 27,GB 1,HU 35,IT 2,RO 1,SI 1"
+Andricus quercuscalicis,bisexual,Torymus auratus,38,"AT,DE 3,GB 35,HU"
+Andricus quercuscalicis,bisexual,Torymus geranii,2,GB 2
+Andricus quercuscalicis,bisexual,Ormyrus nitidulus,70,"AT 1,BG 1,CZ 6,FR 1,GB 25,HU 23,IT 7,RO,SI 5,UA 1"
+Andricus quercuscalicis,bisexual,Ormyrus pomaceus,14,"BG 2,HU(11,IT 1,RO"
+Andricus quercuscalicis,bisexual,Ormocerus sp.,1,HU 1
+Andricus quercuscalicis,bisexual,Arthrolytus ocellus,1,GB 1
+Andricus quercuscalicis,bisexual,Cecidostiba fungosa,3331,"AT 10,BE,CZ,DE 708,FR 143,GB 672,HR 452,HU 119,IT 104,NL,RO,SI 37,UA 8"
+Andricus quercuscalicis,bisexual,Cecidostiba semifascia,7,"GB 5,HU 2"
+Andricus quercuscalicis,bisexual,Hobbya stenonota,1,HU 1
+Andricus quercuscalicis,bisexual,Mesopolobus amaenus,,"FR 1,GB 110,IE"
+Andricus quercuscalicis,bisexual,Mesopolobus fasciiventris,1,"AT,FR 1"
+Andricus quercuscalicis,bisexual,Mesopolobus sericeus,939,"AT,DE 1,FR 1,GB 937,HU,IE 'C"
+Andricus quercuscalicis,bisexual,Mesopolobus tibialis,1,GB 1
+Andricus quercuscalicis,bisexual,Eupelmus spongipartus,25,"AT,DE 2,HU 17,IT 5,RO 1"
+Andricus quercuscalicis,bisexual,Eupelmus urozonus,90,"AT,DE 18,FR(1,GB 54,HU 15,IT,RO 2,SI"
+Andricus quercuscalicis,bisexual,Eupelmus vesicularis,12,"GB 11,HU 1"
+Andricus quercuscalicis,bisexual,Aulogymnus gallarum,5,HU 5
+Andricus quercuscalicis,bisexual,Aulogymnus skianeuros,1,HU 1
+Andricus quercuscalicis,bisexual,Aulogymnus trilineatus,33,"AT 1,CZ 3,HU 12,IT 1,RO,SI 13,UA 3"
+Andricus quercuscalicis,bisexual,Baryscapus ?anasillus,8,HU 8
+Andricus quercuscalicis,bisexual,Baryscapus berhidanus,38,"HU 1,IT 37"
+Andricus quercuscalicis,bisexual,Baryscapus ?pallidae,5,HU 5
+Andricus quercuscalicis,bisexual,Tetrastichinae sp(p).,6,"DE 1,IT 5"
+Andricus quercuscalicis,bisexual,(Mastrus castaneus),7,GB 7
+Andricus quercuscalicis,bisexual,(Gelis formicarius),27,GB 27
+Andricus quercuscalicis,bisexual,(Ichneumonidae sp.),1,HU 1
+Andricus quercuscorticis,asexual,Synergus facialis,10,"DE,GB 10"
+Andricus quercuscorticis,asexual,Synergus incrassatus,50,"AT,DE 4,ES 46,DK,FR,GB,NL,PT,UA"
+Andricus quercuscorticis,asexual,Eurytoma brunniventris,3,ES 3
+Andricus quercuscorticis,asexual,Torymus formosus,39,ES 39
+Andricus quercuscorticis,asexual,Torymus nobilis,,"AT,DK"
+Andricus quercuscorticis,asexual,Torymus pleuralis,,AT
+Andricus quercusradicis,bisexual,Ceroptres clavicornis,16,"AT,DK,ES 6,FR,GB 10,PL"
+Andricus quercusradicis,bisexual,Saphonecrus connatus,49,"AT,DE,DK,ES 43,GB 6,PL,PT"
+Andricus quercusradicis,bisexual,Synergus apicalis,77,"AT,DE,DK,ES 21,FR,GB 55,HU 1,NL,PL,UA"
+Andricus quercusradicis,bisexual,Synergus facialis,7,"DE,GB 7"
+Andricus quercusradicis,bisexual,Synergus incrassatus,20,"AT,DE,DK,ES 2,GB 18,NL,PL,UA"
+Andricus quercusradicis,bisexual,Synergus tibialis,333,"DE,ES 333,GB,HU,UA"
+Andricus quercusradicis,bisexual,Eurytoma brunniventris,4,"AD 2,ES 2"
+Andricus quercusradicis,bisexual,Sycophila flavicollis,48,"AD 4,ES 34,GB 10"
+Andricus quercusradicis,bisexual,Sycophila variegata,30,"AD 5,ES 3,GB 22"
+Andricus quercusradicis,bisexual,Megastigmus dorsalis,35,"AD 3,AT,DE 1,ES 26,GB 5"
+Andricus quercusradicis,bisexual,Ormyrus pomaceus,63,"AT 45,ES 10,FR,GB 8,ES 1"
+Andricus quercusradicis,bisexual,Arthrolytus nanus,15,ES 15
+Andricus quercusradicis,bisexual,Cecidostiba fungosa,329,ES 329
+Andricus quercusradicis,bisexual,Eumacepolus obscurior,2,ES 2
+Andricus quercusradicis,bisexual,Hobbya stenonota,12,ES 12
+Andricus quercusradicis,bisexual,Mesopolobus amaenus,8,GB 8
+Andricus quercusradicis,bisexual,Mesopolobus dubius,,AD
+Andricus quercusradicis,bisexual,Mesopolobus mediterraneus,,AD
+Andricus quercusradicis,bisexual,Mesopolobus sericeus,1,GB 1
+Andricus quercusradicis,bisexual,Mesopolobus tarsatus,5,ES 5
+Andricus quercusradicis,bisexual,Eupelmus aseculatus,1,ES 1
+Andricus quercusradicis,bisexual,Eupelmus urozonus,17,"AD 8,AT,ES 8,HU 1"
+Andricus quercusradicis,bisexual,Eupelmus vesicularis,35,ES 35
+Andricus quercusradicis,bisexual,(Tetrastichinae sp.),1,ES 1
+Andricus quercusradicis,bisexual,Andricus quercusradicis,,NA
+Andricus quercusradicis,bisexual,Synergus facialis,10,"DE,ES 6,GB 4,UA"
+Andricus quercusradicis,bisexual,Synergus incrassatus,298,"AD,AT,DE,ES 118,FR,GB 180,NL,PL,UA"
+Andricus quercusradicis,bisexual,Synergus tibialis,,"HU,UA"
+Andricus quercusradicis,bisexual,Eurytoma adleriae,1,DE 1
+Andricus quercusradicis,bisexual,Eurytoma brunniventris,11,"AD 1,AT 2,DK 8"
+Andricus quercusradicis,bisexual,Torymus erucarum,604,"AD 18,AT,DE 11,DK,ES 25,FR 155,GB 348,UA 47"
+Andricus quercusradicis,bisexual,Torymus flavipes,5,GB 5
+Andricus quercusradicis,bisexual,Torymus formosus,30,"DE,DK,GB 29,IE 1"
+Andricus quercusradicis,bisexual,Torymus geranii,1,GB 1
+Andricus quercusradicis,bisexual,Torymus nobilis,151,"AD 92,AT,DE,DK 5,ES 37,FR 4,GB 13"
+Andricus quercusradicis,bisexual,Torymus roboris,2,GB 2
+Andricus quercusradicis,bisexual,Torymus scutellaris,95,"DK 4,FR 2,GB 89"
+Andricus quercusradicis,bisexual,Ormyrus nitidulus,8,DK 8
+Andricus quercusradicis,bisexual,Caenacis lauta,10,"DK 8,GB 2"
+Andricus quercusradicis,bisexual,Cecidostiba geganius,1119,"DE 12,ES 92,FR 100,GB 8"
+Andricus quercusradicis,bisexual,Mesopolobus sericeus,2,GB 2
+Andricus quercusradicis,bisexual,Eupelmus spongipartus,,AT
+Andricus quercusradicis,bisexual,Eupelmus vesicularis,2,DK 2
+Andricus quercusramuli,bisexual,Ceroptres clavicornis,4,"AT 2,GB 2,HU,ES"
+Andricus quercusramuli,bisexual,Synergus facialis,14,"AT,DE,ES 12,GB,HU 2,NL,PL,PT,UA"
+Andricus quercusramuli,bisexual,Synergus pallipes,14,"AT,FR 14"
+Andricus quercusramuli,bisexual,Synergus radiatus,,"AT,DE,NL,UA"
+Andricus quercusramuli,bisexual,Eurytoma adleriae,3,"ES 2,HU 1"
+Andricus quercusramuli,bisexual,Eurytoma brunniventris,,RO
+Andricus quercusramuli,bisexual,Sycophila biguttata,1485,"AT 353,ES 760,FR 18,GB 2,HU 199,RO 153,SE öl"
+Andricus quercusramuli,bisexual,Megastigmus dorsalis,2,ES 2
+Andricus quercusramuli,bisexual,Torymus auratus,1,HU 1
+Andricus quercusramuli,bisexual,Torymus flavipes,626,"AD 2,AT,DE,ES 92,FR 9,GB 9,HU 444,PL,RO 70,HU 1,NL"
+Andricus quercusramuli,bisexual,Ormyrus pomaceus,10,"ES 7,HU 3"
+Andricus quercusramuli,bisexual,Ormocerus latus,179,"ES 174,RO 5"
+Andricus quercusramuli,bisexual,Ormocerus vernalis,1,ES 1
+Andricus quercusramuli,bisexual,Cecidostiba fungosa,176,"ES 133,GB 2,HU 18,RO 17,UA 6"
+Andricus quercusramuli,bisexual,Cecidostiba semifascia,3,"ES 2,UA 1"
+Andricus quercusramuli,bisexual,Hobbya stenonota,83,"AT,ES 74,HU 6,UA 3"
+Andricus quercusramuli,bisexual,Mesopolobus albitarsus,28,"RO 27,UA 1"
+Andricus quercusramuli,bisexual,Mesopolobus amaenus,7,"HU 7,NL"
+Andricus quercusramuli,bisexual,Mesopolobus dubius,7,"ES 7,NL"
+Andricus quercusramuli,bisexual,Mesopolobus fasciiventris,5,"DE,RO 5"
+Andricus quercusramuli,bisexual,Mesopolobus mediterraneus,12,ES 12
+Andricus quercusramuli,bisexual,Mesopolobus tibialis,34,"AT,ES 6,HU 27,RO 1,SE öl"
+Andricus quercusramuli,bisexual,Mesopolobus xanthocerus,963,"AD 16,AT,ES 571,GB 10,HU 356,NL,UA 10"
+Andricus quercusramuli,bisexual,Eupelmus spongipartus,27,"AT,ES 1,HU 23,UA 3"
+Andricus quercusramuli,bisexual,Eupelmus urozonus,93,"AT,ES 9,HU 3,RO 81"
+Andricus quercusramuli,bisexual,Aulogymnus arsames,19,RO 19
+Andricus quercusramuli,bisexual,Aulogymnus gallarum,2238,"AD 1,AT,ES 114,FR 12,GB 66,HU 987,PL,RO 19,SE öl,UA 12"
+Andricus quercusramuli,bisexual,Aulogymnus skianeuros,24,"HU 13,IE 4,NL,RO 7"
+Andricus quercusramuli,bisexual,Aulogymnus testaceoviridis,298,RO 298
+Andricus quercusramuli,bisexual,Aprostocetus aethiops,4,HU 4
+Andricus quercusramuli,bisexual,Aprostocetus domenichinii,32,RO 32
+Andricus quercusramuli,bisexual,(Diadegma sp.),,RO
+Andricus quercusramuli,bisexual,(Ichneumonidae sp.),1,HU 1
+Andricus quercusramuli,bisexual,Andricus quercusramuli,,NA
+Andricus quercusramuli,bisexual,Saphonecrus connatus,,PT
+Andricus quercusramuli,bisexual,Synergus facialis,,"HU,NL"
+Andricus quercusramuli,bisexual,Synergus pallipes,,"AT,DE,NL,UA"
+Andricus quercusramuli,bisexual,Synergus radiatus,,"DE,UA"
+Andricus quercusramuli,bisexual,Synergus tibialis,3,"DE,GB 3"
+Andricus quercusramuli,bisexual,Mesopolobus sericeus,10,GB 10
+Andricus quercustozae,asexual,Ceroptres clavicornis,15,"DZ,ES 15"
+Andricus quercustozae,asexual,Saphonecrus connatus,3,"ES 3,PT"
+Andricus quercustozae,asexual,Synergus facialis,5,"ES 2,FR 3"
+Andricus quercustozae,asexual,Synergus hayneanus,289,"DZ,ES 226,HU 63"
+Andricus quercustozae,asexual,Synergus pallicornis,,"AT,ES,GR"
+Andricus quercustozae,asexual,Synergus pallidipennis,97,"ES 90,HU 7"
+Andricus quercustozae,asexual,Synergus pallipes,,AT
+Andricus quercustozae,asexual,Synergus reinhardi,2,"AT,ES 2"
+Andricus quercustozae,asexual,Synergus umbraculus,1618,"ES 159,FR,HU 22,IT,PT"
+Andricus quercustozae,asexual,(Brachymeria tibialis),19,BG 19
+Andricus quercustozae,asexual,Eurytoma brunniventris,215,"AT,BG 5,CH,ES 184,FR 15,GR,HR,HU 5,IT 1,PT 5,TR 1"
+Andricus quercustozae,asexual,Sycophila biguttata,74,"AT 10,BG 5,CH,ES 5,FR 3,GR 2,HU 46,IT,YU 3"
+Andricus quercustozae,asexual,Sycophila iracemae,2,ES 2
+Andricus quercustozae,asexual,Sycophila variegata,2,"ES 1,HR 1"
+Andricus quercustozae,asexual,Megastigmus dorsalis,21,"BG 1,ES 13"
+Andricus quercustozae,asexual,Pujade-Villar 2003),,"GR 2,TR 5"
+Andricus quercustozae,asexual,Megastigmus stigmatizans,50,"AT,BG 24,ES 17,FR 2,GR,HU 2,MA 5"
+Andricus quercustozae,asexual,Torymus auratus,115,"AT,BG 1,ES 109,FR 2,HU 2,MA 1"
+Andricus quercustozae,asexual,(Torymus calcaratus),6,"BG 2,ES 2,TR 2,BG 1,CH,DZ,HU 10,IT 1"
+Andricus quercustozae,asexual,Ormyrus pomaceus,4,"BG 2,ES 1,IT 1"
+Andricus quercustozae,asexual,Cyrtoptyx robustus,4,"ES 3,IT 1"
+Andricus quercustozae,asexual,Caenacis lauta,4,"ES 3,HU 1"
+Andricus quercustozae,asexual,Cecidostiba fungosa,19,"ES 18,FR 1"
+Andricus quercustozae,asexual,Hobbya stenonota,15,ES 15
+Andricus quercustozae,asexual,Mesopolobus dubius,1,ES 1
+Andricus quercustozae,asexual,Mesopolobus ?fasciiventris,1,ES 1
+Andricus quercustozae,asexual,Mesopolobus ?lichtensteini,1,ES 1
+Andricus quercustozae,asexual,Mesopolobus sericeus,22,ES 22
+Andricus quercustozae,asexual,Eupelmus spongipartus,46,ES 46
+Andricus quercustozae,asexual,Eupelmus urozonus,15,"AT,ES 15"
+Andricus quercustozae,asexual,Aulogymnus gallarum,2,HU 2
+Andricus quercustozae,asexual,Aulogymnus skianeuros,2,BG 2
+Andricus quercustozae,asexual,Aulogymnus trilineatus,6,"HU 3,PT 2,TR 1"
+Andricus quercustozae,asexual,Baryscapus berhidanus,117,"ES 87,HU 13,JO 1,IT 16"
+Andricus quercustozae,asexual,Baryscapus sp.,,TR 15
+Andricus quercustozae,asexual,Pediobius lysis,,JO 1
+Andricus quercustozae,asexual,(Scambus elegans),6,"GR 1,HU 5"
+Andricus rhyzomae,asexual,Synergus incrassatus,,"AT,FR"
+Andricus rhyzomae,asexual,Synergus subterraneus,22,"AT 22,ES"
+Andricus rhyzomae,asexual,Torymus nobilis,,"AT,DK"
+Andricus schroeckingeri,bisexual,Eurytoma setigera,1,HU 1
+Andricus schroeckingeri,bisexual,Torymus flavipes,2,HU 2
+Andricus schroeckingeri,bisexual,Ormyrus pomaceus,1,HU 1
+Andricus schroeckingeri,bisexual,Ormocerus latus,1,HU 1
+Andricus schroeckingeri,bisexual,Ormocerus vernalis,2,HU 2
+Andricus schroeckingeri,bisexual,Mesopolobus amaenus,3,HU 3
+Andricus schroeckingeri,bisexual,Mesopolobus fuscipes,3,"AT,HU 3"
+Andricus schroeckingeri,bisexual,Mesopolobus tibialis,9,HU 9
+Andricus schroeckingeri,bisexual,Mesopolobus xanthocerus,2,HU 2
+Andricus schroeckingeri,bisexual,Eupelmus urozonus,,HU 5
+Andricus schroeckingeri,bisexual,Eupelmus vesicularis,,RO
+Andricus schroeckingeri,bisexual,Aulogymnus arsames,1,HU 1
+Andricus schroeckingeri,bisexual,Aulogymnus gallarum,1,HU 1
+Andricus schroeckingeri,bisexual,Aulogymnus obscuripes,1,HU 1
+Andricus schroeckingeri,bisexual,Aulogymnus testaceoviridis,22,HU 22
+Andricus schroeckingeri,bisexual,Aprostocetus aethiops,3,HU 3
+Andricus schroeckingeri,bisexual,Aprostocetus cerricola,3,HU 3
+Andricus schroeckingeri,bisexual,Baryscapus ?pallidae,3,HU 3
+Andricus schroeckingeri,bisexual,(Minotetrastichus frontalis),1,HU 1
+Andricus schroeckingeri,bisexual,Synergus umbraculus,2,HU 2
+Andricus schroeckingeri,bisexual,Eurytoma adleriae,3,TR 3
+Andricus schroeckingeri,bisexual,Eurytoma brunniventris,26,"HU 1,IT 25,RO"
+Andricus schroeckingeri,bisexual,Eurytoma setigera,3,IT 3
+Andricus schroeckingeri,bisexual,Sycophila biguttata,19,"HU 5,RO,TR 14"
+Andricus schroeckingeri,bisexual,Megastigmus dorsalis,4,"IT 3,TR 1"
+Andricus schroeckingeri,bisexual,Ormyrus nitidulus,35,"RO,TR 35"
+Andricus schroeckingeri,bisexual,Ormyrus pomaceus,1,"HU 1,RO"
+Andricus schroeckingeri,bisexual,Ormyrus nitidulus or O. pomaceus,21,TR 21
+Andricus schroeckingeri,bisexual,Cecidostiba fungosa,33,"HU 3,IT 8,RO,TR 22"
+Andricus schroeckingeri,bisexual,Eupelmus spongipartus,3,"HU 2,IT 1"
+Andricus schroeckingeri,bisexual,Eupelmus urozonus,1,TR 1
+Andricus schroeckingeri,bisexual,Aulogymnus trilineatus,26,"RO,TR 26"
+Andricus seminationis,asexual,Ceroptres clavicornis,,UA
+Andricus seminationis,asexual,Synergus facialis,7,"AT,DE,GB 1,HU 6,NL,PL,UA"
+Andricus seminationis,asexual,Synergus incrassatus,,UA
+Andricus seminationis,asexual,Synergus pallipes,7,"AT,DE,DK,GB 6,HU 1,NL,UA"
+Andricus seminationis,asexual,Synergus radiatus,,"DK,GB,NL,UA"
+Andricus seminationis,asexual,Eurytoma brunniventris,7,"DE,HU 7,NL"
+Andricus seminationis,asexual,Torymus flavipes,2,"GB 1,HU 1"
+Andricus seminationis,asexual,Ormyrus pomaceus,1,HU 1
+Andricus seminationis,asexual,Mesopolobus sericeus,1,GB 1
+Andricus seminationis,asexual,Eupelmus spongipartus,1,HU 1
+Andricus seminationis,asexual,Aprostocetus aethiops,3,GB 3
+Andricus sieboldi,asexual,Ceroptres clavicornis,,"GB,HU,PL"
+Andricus sieboldi,asexual,Synergus apicalis,,"ES,HU,PL,UA"
+Andricus sieboldi,asexual,Synergus facialis,38,"AD,DK,ES 38,PT"
+Andricus sieboldi,asexual,Synergus incrassatus,28,"AT,DE,DK,ES 10,FR,GB 18,NL"
+Andricus sieboldi,asexual,Synergus subterraneus,63,ES 63
+Andricus sieboldi,asexual,Eurytoma brunniventris,122,"AT 40,DE 9,DK 46,ES 8,FR 54,GB 14,HU"
+Andricus sieboldi,asexual,Torymus erucarum,30,UA 30
+Andricus sieboldi,asexual,Torymus formosus,8,"AD 8,DK"
+Andricus sieboldi,asexual,Torymus nobilis,250,"AT,DE,DK 5,ES 222,FR 6,GB 17"
+Andricus sieboldi,asexual,Torymus scutellaris,7,"DK 4,FR 3"
+Andricus sieboldi,asexual,Ormyrus nitidulus,73,"AT 23,DK 33,GB 17"
+Andricus sieboldi,asexual,Arthrolytus ocellus,,AD
+Andricus sieboldi,asexual,Caenacis lauta,29,"DE,DK 26,GB 3"
+Andricus sieboldi,asexual,Eupelmus spongipartus,2,"AT,ES 2"
+Andricus sieboldi,asexual,Eupelmus urozonus,5,"ES 4,GB 1"
+Andricus sieboldi,asexual,Eupelmus vesicularis,5,"AT,DK 2,ES 3"
+Andricus singularis,bisexual,Synergus thaumacerus,1,AT 1
+Andricus singularis,bisexual,Eurytoma brunniventris,1,"AT,HU 1"
+Andricus singularis,bisexual,Eurytoma setigera,2,HU 2
+Andricus singularis,bisexual,Sycophila biguttata,4,"AT 1,HU 3"
+Andricus singularis,bisexual,Megastigmus dorsalis,,AT
+Andricus singularis,bisexual,Torymus cerri,1,AT 1
+Andricus singularis,bisexual,Torymus favardi,1,FR 1
+Andricus singularis,bisexual,Torymus flavipes,4,HU 4
+Andricus singularis,bisexual,Ormyrus nitidulus,1,HU 1
+Andricus singularis,bisexual,Ormyrus nitidulus or O. pomaceus,1,HU 1
+Andricus singularis,bisexual,Mesopolobus amaenus,10,"AT,HU 10"
+Andricus singularis,bisexual,Mesopolobus tibialis,24,HU 24
+Andricus singularis,bisexual,Mesopolobus xanthocerus,8,HU 8
+Andricus singularis,bisexual,Eupelmus spongipartus,7,HU 7
+Andricus singularis,bisexual,Eupelmus urozonus,4,HU 4
+Andricus singularis,bisexual,Aulogymnus arsames,1,HU 1
+Andricus singularis,bisexual,Aulogymnus gallarum,2,HU 2
+Andricus singularis,bisexual,Aulogymnus obscuripes,,AT
+Andricus singularis,bisexual,Aulogymnus testaceoviridis,29,HU 29
+Andricus singularis,bisexual,Aprostocetus cerricola,2,HU 2
+Andricus solitarius,bisexual,Torymus flavipes,1,GB 1
+Andricus solitarius,bisexual,Mesopolobus fuscipes,,AT
+Andricus solitarius,bisexual,Mesopolobus mediterraneus,4,ES 4
+Andricus solitarius,bisexual,Mesopolobus tibialis,21,ES 21
+Andricus solitarius,bisexual,Mesopolobus xanthocerus,17,"AT,ES 17"
+Andricus solitarius,bisexual,Andricus solitarius,,NA
+Andricus solitarius,bisexual,Ceroptres clavicornis,2,FR 2
+Andricus solitarius,bisexual,Synergus facialis,27,"AD 12,AT,DE,ES 13,FR 1,GB,HU 1,NL,PL,UA"
+Andricus solitarius,bisexual,Synergus pallipes,,"NL,UA"
+Andricus solitarius,bisexual,Synergus radiatus,1,"AT,DE,GB 1,NL,UA"
+Andricus solitarius,bisexual,Synergus tibialis,2,GB 2
+Andricus solitarius,bisexual,Eurytoma brunniventris,85,"AD 17,AT,DE 2,ES 30,FR 13,GB 12,HU 7,UA 4,AT 2,DE 1,FR 5,HU 3,UA 1"
+Andricus solitarius,bisexual,Sycophila biguttata,2,"AD 1,ES 1"
+Andricus solitarius,bisexual,Sycophila variegata,1,FR 1
+Andricus solitarius,bisexual,Megastigmus dorsalis,7,ES 7
+Andricus solitarius,bisexual,Ormyrus pomaceus,18,"AD 1,AT 2,DE 2,ES 8,HU 1,UA 4"
+Andricus solitarius,bisexual,Cecidostiba fungosa,2,TR 2
+Andricus solitarius,bisexual,Hobbya stenonota,1,ES 1
+Andricus solitarius,bisexual,Mesopolobus amaenus,5,"GB 4,HU 1"
+Andricus solitarius,bisexual,Mesopolobus sericeus,7,"AD 5,GB 2"
+Andricus solitarius,bisexual,Mesopolobus tibialis,2,AD 2
+Andricus solitarius,bisexual,Mesopolobus xanthocerus,,NL
+Andricus solitarius,bisexual,Eupelmus spongipartus,64,"AD 1,AT,BG 4,ES 21,FR 30,HU 4,UA 4"
+Andricus solitarius,bisexual,Eupelmus urozonus,21,"AD 4,AT,ES 10,FR 2,GB 1,HU 4"
+Andricus solitarius,bisexual,Aulogymnus gallarum,,NL
+Andricus solitarius,bisexual,Aulogymnus trilineatus,,IT
+Andricus stefanii,asexual,Synergus umbraculus,,IT
+Andricus stefanii,asexual,Synergus sp.,1,GR 1
+Andricus stefanii,asexual,Eurytoma adleriae,1,GR 1
+Andricus stefanii,asexual,Eurytoma brunniventris,3,BG 3
+Andricus stefanii,asexual,Megastigmus dorsalis,2,BG 2
+Andricus stefanii,asexual,Ormyrus pomaceus,1,IT 1
+Andricus sternlichti,asexual,Eurytoma adleriae,4,"IT 2,LB 2"
+Andricus sternlichti,asexual,Eurytoma brunniventris,4,"CZ 2,HU 2"
+Andricus sternlichti,asexual,Sycophila biguttata,4,HU 4
+Andricus sternlichti,asexual,Megastigmus dorsalis,1,HU 1
+Andricus sternlichti,asexual,Ormyrus nitidulus,10,"AT 8,IT,TR 2"
+Andricus sternlichti,asexual,Ormyrus pomaceus,,AT
+Andricus sternlichti,asexual,Caenacis lauta,1,HU 1
+Andricus superfetationis,asexual,Synergus umbraculus,2,HU 2
+Andricus superfetationis,asexual,Eurytoma brunniventris,1,"AT,HU 1"
+Andricus superfetationis,asexual,Cecidostiba fungosa,,AT
+Andricus testaceipes,bisexual,Ceroptres clavicornis,8,"GB 1,HU 7"
+Andricus testaceipes,bisexual,Saphonecrus connatus,1,GB 1
+Andricus testaceipes,bisexual,Saphonecrus haimi,2,HU 2
+Andricus testaceipes,bisexual,Synergus apicalis,3,"AT,DK,GB(2,HU 1,PL,UA"
+Andricus testaceipes,bisexual,Synergus facialis,7,"GB 7,AT,HU 6"
+Andricus testaceipes,bisexual,Sycophila biguttata,12,"AT 10,BG 1,HU 1"
+Andricus testaceipes,bisexual,Sycophila flavicollis,2,"AT,BG 1,FR,HU 1"
+Andricus testaceipes,bisexual,Sycophila variegata,1,HU 1
+Andricus testaceipes,bisexual,Megastigmus dorsalis,12,"BG 1,GB 1,HU 6,UA 4"
+Andricus testaceipes,bisexual,Ormyrus nitidulus,5,"BG 4,DK 1"
+Andricus testaceipes,bisexual,Ormyrus pomaceus,38,"HU 35,UA 3"
+Andricus testaceipes,bisexual,(Pteromalus sp.),1,DK 1
+Andricus testaceipes,bisexual,Eupelmus urozonus,3,HU 3
+Andricus testaceipes,bisexual,Aprostocetus aethiops,2,"HU 1,UA 1"
+Andricus testaceipes,bisexual,Aprostocetus cerricola,1,HU 1
+Andricus testaceipes,bisexual,Baryscapus sp.,1,HU 1
+Andricus theophrastea,asexual,Ormyrus nitidulus,1,IT 1
+Andricus tomentosus,asexual,Synergus hayneanus,,GR
+Andricus tomentosus,asexual,Eurytoma adleriae,3,GR 3
+Andricus tomentosus,asexual,Eurytoma brunniventris,2,BG 2
+Andricus tomentosus,asexual,Eurytoma querceticola,3,BG 3
+Andricus tomentosus,asexual,Megastigmus dorsalis,1,GR 1
+Andricus tomentosus,asexual,Ormyrus nitidulus,10,"BG 4,GR 6"
+Andricus tomentosus,asexual,Ormyrus sp.,1,BG 1
+Andricus tomentosus,asexual,Caenacis lauta,3,BG 3
+Andricus tomentosus,asexual,Cecidostiba fungosa,19,BG 19
+Andricus tomentosus,asexual,Cyrtoptyx robustus,1,IT 1
+Andricus tomentosus,asexual,Eupelmus spongipartus,4,BG 4
+Andricus tomentosus,asexual,Aulogymnus ?trilineatus,2,GR 2
+Andricus truncicolus,asexual,Synergus umbraculus,,PL
+Andricus truncicolus,asexual,Eurytoma adleriae,2,TR 2
+Andricus truncicolus,asexual,Eurytoma brunniventris,6,RO 6
+Andricus truncicolus,asexual,Ormyrus nitidulus,1,RO 1
+Andricus truncicolus,asexual,Ormyrus pomaceus,1,AT 1
+Andricus truncicolus,asexual,Eupelmus spongipartus,2,"AT,RO 2"
+Andricus truncicolus,asexual,Eupelmus urozonus,1,"IT 1,RO"
+Andricus vindobonensis,bisexual,Ceroptres cerri,37,HU 37
+Andricus vindobonensis,bisexual,Saphonecrus haimi,1,HU 1
+Andricus vindobonensis,bisexual,Synergus thaumacerus,,HU
+Andricus vindobonensis,bisexual,Eurytoma brunniventris,21,"HU 2,RO 19"
+Andricus vindobonensis,bisexual,Eurytoma setigera,3,"UA 3,HU"
+Andricus vindobonensis,bisexual,Sycophila biguttata,1,"UA 1,HU"
+Andricus vindobonensis,bisexual,Sycophila variegata,60,RO 60
+Andricus vindobonensis,bisexual,Megastigmus dorsalis,44,"HU 4,RO 40"
+Andricus vindobonensis,bisexual,Ormyrus pomaceus,34,"HU 3,RO 31"
+Andricus vindobonensis,bisexual,Cecidostiba fungosa,,HU
+Andricus vindobonensis,bisexual,Cecidostiba semifascia,1,HU 1
+Andricus vindobonensis,bisexual,Mesopolobus amaenus,9,"AT,UA 9"
+Andricus vindobonensis,bisexual,Mesopolobus fasciiventris,,HU
+Andricus vindobonensis,bisexual,Mesopolobus fuscipes,14,HU 14
+Andricus vindobonensis,bisexual,Mesopolobus tibialis,1,HU 1
+Andricus vindobonensis,bisexual,Mesopolobus sp.,5,RO 5
+Andricus vindobonensis,bisexual,Eupelmus urozonus,7,RO 7
+Andricus vindobonensis,bisexual,Aulogymnus arsames,4,RO 4
+Andricus vindobonensis,bisexual,Aulogymnus euedoreschus,17,RO 17
+Andricus vindobonensis,bisexual,Aulogymnus gallarum,1,HU 1
+Andricus vindobonensis,bisexual,Aulogymnus skianeuros,2,HU 2
+Andricus vindobonensis,bisexual,Aprostocetus cerricola,5,HU 5
+Aphelonyx cerricola,asexual,Ceroptres cerri,,"AT,HU"
+Aphelonyx cerricola,asexual,Saphonecrus connatus,,HU
+Aphelonyx cerricola,asexual,Saphonecrus undulatus,149,AT 9
+Aphelonyx cerricola,asexual,Nieves-Aldrey 1990),,"HU 134,JO 6,RO"
+Aphelonyx cerricola,asexual,Synergus ?facialis,10,GB 10
+Aphelonyx cerricola,asexual,Synergus flavipes,73,HU 73
+Aphelonyx cerricola,asexual,Synergus incrassatus,1,GB 1
+Aphelonyx cerricola,asexual,Synergus thaumacerus,24,"AT 19,BG,HU 5"
+Aphelonyx cerricola,asexual,Synergus variabilis,64,"AT 2,BG,GB 4,HU 57,IT,JO 1,RO"
+Aphelonyx cerricola,asexual,(Perilampus sp. nr tristis),1,JO 1
+Aphelonyx cerricola,asexual,Eurytoma adleriae,9,HU 9
+Aphelonyx cerricola,asexual,Eurytoma brunniventris,54,"AT 9,BG 10,CZ 3,GB,HU 12,IT 1"
+Aphelonyx cerricola,asexual,Eurytoma setigera,7,"AT,HU 7,RO"
+Aphelonyx cerricola,asexual,Sycophila biguttata,15,"AT 9,GB,HU 1,RO"
+Aphelonyx cerricola,asexual,Megastigmus dorsalis,19,"GB 1,HU 18"
+Aphelonyx cerricola,asexual,Megastigmus synophri,2,HU 2
+Aphelonyx cerricola,asexual,Torymus affinis,58,"BG 58,HU"
+Aphelonyx cerricola,asexual,Torymus auratus,30,"AT,BG 21,GB,HU 1,TR 2"
+Aphelonyx cerricola,asexual,Torymus erucarum,,"AT,DE"
+Aphelonyx cerricola,asexual,Torymus flavipes,15,BG 15
+Aphelonyx cerricola,asexual,Torymus geranii,,AT
+Aphelonyx cerricola,asexual,Ormyrus nitidulus,71,"AT 42,BG 3,CZ 1,GB 6,HU 17,JO 2,RO"
+Aphelonyx cerricola,asexual,Ormyrus pomaceus,16,"AT 1,GB 1,HU 14,RO"
+Aphelonyx cerricola,asexual,Cecidostiba fungosa,52,"AT,BG 9,GB 10,HU 31,JO 1,RO"
+Aphelonyx cerricola,asexual,Cecidostiba ?semifascia,1,GB 1
+Aphelonyx cerricola,asexual,Cyrtoptyx robustus,4,JO 4
+Aphelonyx cerricola,asexual,Hobbya stenonota,127,"AT,BG 24,HU 103"
+Aphelonyx cerricola,asexual,Mesopolobus fasciiventris,3,"AT 2,HU 1"
+Aphelonyx cerricola,asexual,(Andriescu 1974),,NA
+Aphelonyx cerricola,asexual,Mesopolobus sericeus,1,GB 1
+Aphelonyx cerricola,asexual,Eupelmus cerris,1,"AT,HU 1"
+Aphelonyx cerricola,asexual,Eupelmus spongipartus,4,"AT,HU 4,RO"
+Aphelonyx cerricola,asexual,Eupelmus urozonus,25,"AT,GB 6,HU 19,RO"
+Aphelonyx cerricola,asexual,Reikosiella rostrata,6,HU 6
+Aphelonyx cerricola,asexual,Aulogymnus arsames,4,HU 4
+Aphelonyx cerricola,asexual,Aulogymnus gallarum,2,HU 2
+Aphelonyx cerricola,asexual,Aprostocetus aethiops,1,HU 1
+Aphelonyx cerricola,asexual,(Ichneumonidae spp.),4,HU 4
+Biorhiza pallida,bisexual,Ceroptres clavicornis,2,HU 2
+Biorhiza pallida,bisexual,Periclistus sp.,1,GB 1
+Biorhiza pallida,bisexual,Synergus facialis,5246,"AD 39,AT"
+Biorhiza pallida,bisexual,(Kaltenbach 1874; Pfützenreiter & Weidner 1958; Weidner 1960),,"ES 883,FR,GB 83,HR,HU 424,IT,NL,PL,SE öl,UA"
+Biorhiza pallida,bisexual,Synergus incrassatus,,"HU,UA"
+Biorhiza pallida,bisexual,Synergus pallicornis,1,DE 1
+Biorhiza pallida,bisexual,Synergus pallipes,3,HU 3
+Biorhiza pallida,bisexual,Synergus radiatus,,SE öl
+Biorhiza pallida,bisexual,Synergus ruficornis,,PL
+Biorhiza pallida,bisexual,Synergus thaumacerus,,PL
+Biorhiza pallida,bisexual,Synergus umbraculus,1154,"AD 1,ES 115,FR"
+Biorhiza pallida,bisexual,Eurytoma adleriae,1,HU 1
+Biorhiza pallida,bisexual,Eurytoma brunniventris,235,"AD 2,AT,BG 28,DE 4,DK 1,ES 74,FR,GB 25,HU 100,RO,UA 1"
+Biorhiza pallida,bisexual,Eurytoma setigera,123,"AT 5,BG 2,DE 26,ES 2,FR 5,HR 7,HU 76"
+Biorhiza pallida,bisexual,Eurytoma spinipes,,UA
+Biorhiza pallida,bisexual,Sycophila biguttata,1757,"AD 4,AT 22,BG 165,DE,ES 64,GB 11,HU 146,IT,PL,RO,SE 21,UA 2"
+Biorhiza pallida,bisexual,Sycophila variegata,21,"BG 2,ES 5,FR,GB 2,HU 12"
+Biorhiza pallida,bisexual,Megastigmus dorsalis,227,"AT,DE 9,ES 3,FR,GB 133,HU 82,RO,SE öl"
+Biorhiza pallida,bisexual,Torymus affinis,6089,"AD 50,AT,BE,BG 287,CZ,DE 188,DK 6,ES 113,FR 264,GB 132,HR 1,HU 994,IE 4,IT,MD 4,NL 1,PL,RO,SE öl,SI 11,SK 1,UA 115"
+Biorhiza pallida,bisexual,Torymus auratus,1244,"AD 65,AT,BG 68,DE 13,ES 345,FR 54,GB 235,HU 462,PL,RO,UA 8"
+Biorhiza pallida,bisexual,Torymus flavipes,5986,"AD 111,AT,AZ 27,BE,BG 220,DE 35,ES 200,FR 101,FR,GB 249,HU 512,PL,RO,SE öl,SI 4,UA 16"
+Biorhiza pallida,bisexual,Torymus geranii,319,"AD 1,AT,AZ 1,DE 10,ES 1,FR 5,GB 129,HU 161,PL,SE öl,UA 11"
+Biorhiza pallida,bisexual,(Torymus laetus),1,UA 1
+Biorhiza pallida,bisexual,Torymus ?macrurus,,UA?
+Biorhiza pallida,bisexual,Torymus notatus,5,ES 5
+Biorhiza pallida,bisexual,(Torymus pygmaeus),1,UA 1
+Biorhiza pallida,bisexual,Ormyrus nitidulus,35,"AT 25,BG 2,ES 1,GB 3,HU 4,RO"
+Biorhiza pallida,bisexual,Ormyrus pomaceus,78,"AT 28,BG 3,DE,DK 1,ES 1,FR 3,GB 1,HU 37,RO,UA 4"
+Biorhiza pallida,bisexual,Ormyrus nitidulus or O. pomaceus,15,HU 15
+Biorhiza pallida,bisexual,Ormocerus vernalis,1,HU 1
+Biorhiza pallida,bisexual,Caenacis lauta,2,"FR 1,HU 1"
+Biorhiza pallida,bisexual,Cecidostiba fungosa,1735,"AD 3,AT 10"
+Biorhiza pallida,bisexual,Ruschka & Fulmek 1915),,"CZ,DE 418,DK 1,ES 165"
+Biorhiza pallida,bisexual,"faginea, Q. lusitanica, Q. petraea, Q. pyrenaica",,NA
+Biorhiza pallida,bisexual,Bellido & Pujade-Villar 1999a; Pujade-Villar 2003),,"FR 34,GB 255"
+Biorhiza pallida,bisexual,(Askew 1961a),,"GR 16,HR 2,HU 823,PL,RO,SE öl,UA 8"
+Biorhiza pallida,bisexual,Cecidostiba ilicina,18,ES 18
+Biorhiza pallida,bisexual,Cecidostiba semifascia,760,"AD 15,AT,CH,DE 308,ES(119,FR 20,GB 184,GR 6,HR 18,HU 88,PL,RO,SE öl,SK 1,UA 1"
+Biorhiza pallida,bisexual,Hobbya stenonota,525,"AT,DE 135,ES 42,FR 19,GB 184,GR 9,HR 5,HU 129,IE 2,RO,SE öl"
+Biorhiza pallida,bisexual,Mesopolobus amaenus,111,"AT,DE 1,FR,GB 38,HU 70,UA 2"
+Biorhiza pallida,bisexual,Mesopolobus dubius,18,"AD 6,ES 6,GB 2,HU 4"
+Biorhiza pallida,bisexual,Mesopolobus fasciiventris,16,"ES 2,HU 14,IT"
+Biorhiza pallida,bisexual,Mesopolobus mediterraneus,3,ES 3
+Biorhiza pallida,bisexual,Mesopolobus sericeus,154,"AD 5,DE 1,GB 116,HU 32,SE öl"
+Biorhiza pallida,bisexual,Mesopolobus tibialis,34,"ES 3,GB 6,HU 25"
+Biorhiza pallida,bisexual,Mesopolobus xanthocerus,114,"AT,DE 1,FR 12,ES 1,GB 17,HU 46,SI 37,DE 1"
+Biorhiza pallida,bisexual,Eupelmus spongipartus,90,"AD 8,AT,DE 7,DZ,ES 1,FR 5,GR 4,HU 62,RO,UA 3"
+Biorhiza pallida,bisexual,Eupelmus urozonus,390,"AD 23,AT,DE 236,ES 7,FR 4,GB 53,HR 6,HU 59,PL,RO,SE 2"
+Biorhiza pallida,bisexual,Eupelmus vesicularis,1,"AD 1,AT,DE"
+Biorhiza pallida,bisexual,Reikosiella rostrata,,"HR,RO"
+Biorhiza pallida,bisexual,Aulogymnus arsames,14,"ES 13,HU 1"
+Biorhiza pallida,bisexual,Aulogymnus gallarum,14,"DE,ES 11,PL,HU 2,SE öl,UA 1"
+Biorhiza pallida,bisexual,Aulogymnus skianeuros,7960,"AD 377,AT,BE,BG 59,DE 599,DK 19,ES 237,FR 175,GB 107,GR 1,HR 19,HU 322,PL 14,RO,SI 27,UA 2"
+Biorhiza pallida,bisexual,Aprostocetus aethiops,1,HU 1
+Biorhiza pallida,bisexual,Aprostocetus biorrhizae,50,"ES 8,FR 16,GR 1,HU 25"
+Biorhiza pallida,bisexual,Aprostocetus ?cerricola,8,HU 8
+Biorhiza pallida,bisexual,Baryscapus anasillus,21,"DE 17,FR 4"
+Biorhiza pallida,bisexual,Baryscapus berhidanus,7,HU 7
+Biorhiza pallida,bisexual,Baryscapus diaphantus,599,"BE,DE 81,ES 18,FR 132,GB 178,GR(2 Q,HR 13,HU 175,SE öl"
+Biorhiza pallida,bisexual,Baryscapus pallidae,50,"DE 2,ES 6,FR 22,GB 14,HU 6"
+Biorhiza pallida,bisexual,(Scambus sp.),3,HU 3
+Biorhiza pallida,bisexual,(Bracon sp.),10,DE 10
+Biorhiza pallida,bisexual,Biorhiza pallida,,NA
+Biorhiza pallida,bisexual,Torymus nobilis,72,"ES 69,GB 3"
+Biorhiza pallida,bisexual,Torymus roboris,3,GB 3
+Biorhiza pallida,bisexual,Cecidostiba ?fungosa,,FR
+Biorhiza pallida,bisexual,Cecidostiba geganius,1,ES 1
+Biorhiza pallida,bisexual,Mesopolobus amaenus,,HU ö
+Biorhiza pallida,bisexual,(Ichneumonidae sp.),1,ES 1
+Callirhytis bella,bisexual,Synergus tibialis,,"ES,NL"
+Callirhytis erythrocephala,asexual,Eurytoma brunniventris,1,GB 1
+Callirhytis erythrocephala,asexual,Megastigmus dorsalis,2,"GB(1 Q,HU 1"
+Callirhytis erythrocephala,asexual,Cecidostiba fungosa,,GB 1
+Callirhytis erythrocephala,asexual,?Mesopolobus dubius,1,HU 1
+Callirhytis erythrocephala,asexual,Mesopolobus sericeus,1,GB 1
+Callirhytis erythrocephala,asexual,?Aulogymnus sp. indet.,5,HU 5
+Callirhytis glandium,bisexual,Saphonecrus connatus,7,ES 7
+Callirhytis glandium,bisexual,Callirhytis glandium,,NA
+Callirhytis glandium,bisexual,Synergus clandestinus,8,HU 8
+Callirhytis glandium,bisexual,Synergus crassicornis,,DE
+Callirhytis glandium,bisexual,Synergus facialis,2,"AT,FR,HU 2"
+Callirhytis glandium,bisexual,Synergus pallicornis,2,HU 2
+Callirhytis glandium,bisexual,Eurytoma brunniventris,1,HU 1
+Callirhytis glandium,bisexual,Sycophila biguttata,9,"ES 1,HU 8,IT "
+Callirhytis glandium,bisexual,Sycophila variegata,5,"HU 5,IT "
+Callirhytis glandium,bisexual,Megastigmus dorsalis,36,"ES 1,HU 35,IT "
+Callirhytis glandium,bisexual,Ormyrus sp.,2,"HU 1,RO 1"
+Callirhytis glandium,bisexual,Arthrolytus glandium,12,ES 12
+Callirhytis glandium,bisexual,Arthrolytus ocellus,1,ES 1
+Callirhytis glandium,bisexual,Cecidostiba fungosa,7,HU 7
+Callirhytis glandium,bisexual,Eupelmus aseculatus,10,ES 10
+Callirhytis glandium,bisexual,Eupelmus kiefferi,,IT 
+Callirhytis glandium,bisexual,Eupelmus urozonus,1,HU 1
+Callirhytis glandium,bisexual,Aulogymnus gallarum,2,HU 2
+Callirhytis glandium,bisexual,Aulogymnus ?skianeuros,3,HU 3
+Callirhytis glandium,bisexual,Aprostocetus glandicola,,FR 2
+Callirhytis glandium,bisexual,Ichneumonidae sp.,1,HU 1
+Callirhytis rufescens,bisexual,Ceroptres clavicornis,8,"ES 7,IT"
+Callirhytis rufescens,bisexual,Synergus apicalis,8,"ES 7,PT"
+Callirhytis rufescens,bisexual,Synergus tibialis,11,ES 11
+Callirhytis rufescens,bisexual,Callirhytis rufescens,,NA
+Callirhytis rufescens,bisexual,Sycophila binotata,3,"ES 2,IT"
+Callirhytis rufescens,bisexual,Sycophila variegata,29,ES 29
+Callirhytis rufescens,bisexual,Eurytoma brunniventris,1,IT
+Callirhytis rufescens,bisexual,Megastigmus dorsalis,6,ES 6
+Callirhytis rufescens,bisexual,Arthrolytus glandium,6,ES 6
+Callirhytis rufescens,bisexual,Eupelmus aseculatus,,ES
+Cerroneuroterus lanuginosus,Melika et al. 2010],Ceroptres cerri,2,HU 2
+Cerroneuroterus lanuginosus,Melika et al. 2010],Saphonecrus haimi,88,"AT 4,HU 84"
+Cerroneuroterus lanuginosus,Melika et al. 2010],Synergus facialis,,IT
+Cerroneuroterus lanuginosus,Melika et al. 2010],Synergus pallipes,14,HU 14
+Cerroneuroterus lanuginosus,Melika et al. 2010],Synergus thaumacerus,2,HU 2
+Cerroneuroterus lanuginosus,Melika et al. 2010],Synergus variabilis,6,"AT,HU 6,IT"
+Cerroneuroterus lanuginosus,Melika et al. 2010],Eurytoma brunniventris,3,"AT,HU 3,IT,RO"
+Cerroneuroterus lanuginosus,Melika et al. 2010],Sycophila biguttata,7,"AT 5,GR 1,HU 1,RO"
+Cerroneuroterus lanuginosus,Melika et al. 2010],Sycophila variegata,3,"AT 3,RO"
+Cerroneuroterus lanuginosus,Melika et al. 2010],Torymus auratus,8,HU 8
+Cerroneuroterus lanuginosus,Melika et al. 2010],Torymus geranii,25,"AT,HU 25"
+Cerroneuroterus lanuginosus,Melika et al. 2010],Ormyrus nitidulus,1,HU 1
+Cerroneuroterus lanuginosus,Melika et al. 2010],Ormyrus pomaceus,21,"AT 4,GR 2,HU 15,IT,RO,HU 2"
+Cerroneuroterus lanuginosus,Melika et al. 2010],Cecidostiba fungosa,4,HU 4
+Cerroneuroterus lanuginosus,Melika et al. 2010],Mesopolobus amaenus,7,HU 7
+Cerroneuroterus lanuginosus,Melika et al. 2010],Mesopolobus fasciiventris,1,HU 1
+Cerroneuroterus lanuginosus,Melika et al. 2010],Mesopolobus sericeus,1,HU 1
+Cerroneuroterus lanuginosus,Melika et al. 2010],Mesopolobus xanthocerus,1,HU 1
+Cerroneuroterus lanuginosus,Melika et al. 2010],Eupelmus urozonus,4,"AT,HU 4"
+Cerroneuroterus lanuginosus,Melika et al. 2010],Aprostocetus cerricola,3,HU 3
+Cerroneuroterus lanuginosus,Melika et al. 2010],Pediobius lysis,44,HU 44
+Cerroneuroterus minutulus,asexual,Ceroptres cerri,2,HU 2
+Cerroneuroterus minutulus,asexual,Synergus sp.,1,HU 1
+Cerroneuroterus minutulus,asexual,Saphonecrus haimi,42,AT 42
+Cerroneuroterus minutulus,asexual,Baryscapus sp.,2,HU 2
+Cerroneuroterus obtectus,bisexual,Mesopolobus fuscipes,3,HU 3
+Cerroneuroterus obtectus,bisexual,Mesopolobus tibialis,1,HU 1
+Chilaspis nitida,bisexual,Ceroptres cerri,,HU
+Chilaspis nitida,bisexual,Synergus thaumacerus,16,HU 16
+Chilaspis nitida,bisexual,Eurytoma brunniventris,6,"AT 5,HU 1"
+Chilaspis nitida,bisexual,Eurytoma setigera,1,HU 1
+Chilaspis nitida,bisexual,Sycophila biguttata,78,"BG 18,HU 60"
+Chilaspis nitida,bisexual,Torymus auratus,12,"BG 9,HU 3"
+Chilaspis nitida,bisexual,Torymus flavipes,177,"BG 35,HU 142"
+Chilaspis nitida,bisexual,Ormyrus pomaceus,1,JO 1
+Chilaspis nitida,bisexual,Ormocerus vernalis,6,HU 6
+Chilaspis nitida,bisexual,Cecidostiba fungosa,58,"AT,HU 58"
+Chilaspis nitida,bisexual,Cecidostiba semifascia,4,HU 4
+Chilaspis nitida,bisexual,Hobbya stenonota,16,"HU 5,JO 11"
+Chilaspis nitida,bisexual,Mesopolobus amaenus,4,"AT,HU 4"
+Chilaspis nitida,bisexual,Mesopolobus dubius,1,HU 1
+Chilaspis nitida,bisexual,Mesopolobus fasciiventris,3,"AT 1,HU 2"
+Chilaspis nitida,bisexual,Mesopolobus fuscipes,56,HU 56
+Chilaspis nitida,bisexual,Mesopolobus mediterraneus,1,HU 1
+Chilaspis nitida,bisexual,Mesopolobus sericeus,6,HU 6
+Chilaspis nitida,bisexual,Mesopolobus tibialis,437,"AT,HU 437"
+Chilaspis nitida,bisexual,Mesopolobus xanthocerus,277,"AT 1,HU 276"
+Chilaspis nitida,bisexual,Eupelmus spongipartus,4,HU 4
+Chilaspis nitida,bisexual,Eupelmus urozonus,8,"AT,HU 8"
+Chilaspis nitida,bisexual,Aulogymnus gallarum,443,HU 443
+Chilaspis nitida,bisexual,Aulogymnus obscuripes,15,HU 15
+Chilaspis nitida,bisexual,Aulogymnus ?skianeuros,4,HU 4
+Chilaspis nitida,bisexual,Aulogymnus testaceoviridis,2,HU 2
+Chilaspis nitida,bisexual,Aprostocetus aethiops,2,HU 2
+Chilaspis nitida,bisexual,Aprostocetus cerricola,6,HU 6
+Chilaspis nitida,bisexual,Baryscapus berhidanus,2,HU 2
+Chilaspis nitida,bisexual,Baryscapus ?pallidae,2,HU 2
+Chilaspis nitida,bisexual,Chilaspis nitida,,NA
+Chilaspis nitida,bisexual,Ceroptres cerri,1,HU 1
+Chilaspis nitida,bisexual,Saphonecrus haimi,63,"AT,HU 63"
+Chilaspis nitida,bisexual,Synergus facialis,82,HU 82
+Chilaspis nitida,bisexual,Synergus flavipes,2,HU 2
+Chilaspis nitida,bisexual,Synergus thaumacerus,32,HU 32
+Chilaspis nitida,bisexual,Synergus variabilis,,AT
+Chilaspis nitida,bisexual,Eurytoma brunniventris,59,HU 59
+Chilaspis nitida,bisexual,Sycophila biguttata,74,"AT 65,HU 9"
+Chilaspis nitida,bisexual,Megastigmus dorsalis,1,HU 1
+Chilaspis nitida,bisexual,Torymus affinis,8,HU 8
+Chilaspis nitida,bisexual,Torymus auratus,8,HU 8
+Chilaspis nitida,bisexual,Torymus flavipes,1,HU 1
+Chilaspis nitida,bisexual,Torymus geranii,27,HU 27
+Chilaspis nitida,bisexual,Ormyrus pomaceus,3,HU 3
+Chilaspis nitida,bisexual,Ormyrus sp.,14,HU 14
+Chilaspis nitida,bisexual,Cecidostiba fungosa,26,"BG 2,HU 24"
+Chilaspis nitida,bisexual,Hobbya stenonota,3,HU 3
+Chilaspis nitida,bisexual,Mesopolobus dubius,2,HU 2
+Chilaspis nitida,bisexual,Mesopolobus fasciiventris,6,"AT 1,HU 5"
+Chilaspis nitida,bisexual,Mesopolobus tibialis,13,HU 13
+Chilaspis nitida,bisexual,(Pteromalus semotus),12,HU 12
+Chilaspis nitida,bisexual,Eupelmus urozonus,6,HU 6
+Chilaspis nitida,bisexual,Eupelmus vesicularis,1,HU 1
+Chilaspis nitida,bisexual,Aprostocetus aethiops,10,HU 10
+Chilaspis nitida,bisexual,Baryscapus berhidanus,3,HU 3
+Chilaspis nitida,bisexual,Baryscapus ?pallidae,12,HU 12
+Chilaspis nitida,bisexual,Pediobius chilaspidis,144,"AT,CZ,HU 144"
+Chilaspis nitida,bisexual,Pediobius rotundatus,2,ES 2
+Cynips agama,asexual,Synergus facialis,1,HU 1
+Cynips agama,asexual,Synergus pallicornis,,"AT,FR,PL,UA"
+Cynips agama,asexual,Synergus pallipes,3,"AT,DE,FR,HU 3,PL,UA"
+Cynips agama,asexual,Synergus umbraculus,3,HU 3
+Cynips agama,asexual,Eurytoma brunniventris,31,"AT,BG 2,FR 14,HU 10,PL,UA 5"
+Cynips agama,asexual,Eurytoma setigera,2,HU 2
+Cynips agama,asexual,Sycophila biguttata,18,"AT 9,DE,HU 9,PL"
+Cynips agama,asexual,Torymus auratus,1,FR 1
+Cynips agama,asexual,Torymus cyaneus,49,"AT,BG 3,FR 30,HU 14,UA 2"
+Cynips agama,asexual,Torymus geranii,,PL
+Cynips agama,asexual,Ormyrus pomaceus,12,"AT 1,DE 1,HU 6,PL,UA 4"
+Cynips agama,asexual,Mesopolobus fasciiventris,4,"DE,FR 2,HU 1,PL,RO,UA 1"
+Cynips agama,asexual,Eupelmus spongipartus,2,HU 2
+Cynips agama,asexual,Eupelmus urozonus,5,"AT,DE,FR 1,HU 4"
+Cynips agama,asexual,Eupelmus vesicularis,3,UA 3
+Cynips cornifex,bisexual,Synergus facialis,,IT
+Cynips cornifex,bisexual,(Miscogaster rufipes),,IT
+Cynips cornifex,bisexual,Caenacis lauta,,IT
+Cynips cornifex,bisexual,Mesopolobus amaenus,,IT
+Cynips cornifex,asexual,Ceroptres clavicornis,1,HU 1
+Cynips cornifex,asexual,Synergus facialis,,IT
+Cynips cornifex,asexual,Synergus pallicornis,1,"AT,HU 1"
+Cynips cornifex,asexual,Eurytoma brunniventris,70,"AT,FR 34,HU 36,IT"
+Cynips cornifex,asexual,Eurytoma setigera,1,HU 1
+Cynips cornifex,asexual,Sycophila biguttata,48,"AT 42,HU 6"
+Cynips cornifex,asexual,Sycophila variegata,1,AT 1
+Cynips cornifex,asexual,Torymus cyaneus,2,HU 2
+Cynips cornifex,asexual,Ormyrus nitidulus,1,"GR 1,IT"
+Cynips cornifex,asexual,Ormyrus pomaceus,50,"AT 22,FR 18,HU 10"
+Cynips cornifex,asexual,Caenacis lauta,2,"AT,HU 2"
+Cynips cornifex,asexual,Cecidostiba fungosa,1,HU 1
+Cynips cornifex,asexual,Cecidostiba ?semifascia,2,GR 2
+Cynips cornifex,asexual,Eupelmus spongipartus,,AT
+Cynips cornifex,asexual,Eupelmus urozonus,3,"AT,HU 3"
+Cynips cornifex,asexual,Aprostocetus aethiops,2,HU 2
+Cynips cornifex,asexual,Baryscapus ?pallidae,1,HU 1
+Cynips disticha,bisexual,Torymus flavipes,14,HU 14
+Cynips disticha,bisexual,Mesopolobus fasciiventris,4,HU 4
+Cynips disticha,bisexual,Mesopolobus fuscipes,4,HU 4
+Cynips disticha,bisexual,Mesopolobus mediterraneus,1,ES 1
+Cynips disticha,bisexual,Mesopolobus tibialis,8,"AD,HU 8"
+Cynips disticha,bisexual,Aulogymnus obscuripes,4,HU 4
+Cynips disticha,bisexual,Cynips disticha,,NA
+Cynips disticha,bisexual,Synergus apicalis,,PL
+Cynips disticha,bisexual,Synergus facialis,1,"AD,AT,DE,HU 1"
+Cynips disticha,bisexual,petraea*,,NA
+Cynips disticha,bisexual,Synergus pallicornis,7,"AT,DE,ES 5,GB 2,FR,HU,NL,PL,UA"
+Cynips disticha,bisexual,Diakontschuk & Melika 1994),,NA
+Cynips disticha,bisexual,Synergus pallipes,7,"AD 4,AT,DE,ES 2,FR,GB,HU 1"
+Cynips disticha,bisexual,(Wiebes-Rijks 1979),,UA
+Cynips disticha,bisexual,Synergus radiatus,,"ES,GB,UA"
+Cynips disticha,bisexual,Synergus thaumacerus,,PL
+Cynips disticha,bisexual,Eurytoma adleriae,3,"ES 2,FR 1"
+Cynips disticha,bisexual,Eurytoma brunniventris,86,"AD 2,AT,BG 1,DE 2,ES 28,FR 43,GB 4,HR 1,HU 5,PL"
+Cynips disticha,bisexual,Eurytoma setigera,4,"AT 1,ES 2,HU 1,RO"
+Cynips disticha,bisexual,Sycophila biguttata,22,"AT 8,ES 4,FR 8,HU 2,PL"
+Cynips disticha,bisexual,Megastigmus dorsalis,1,ES 1
+Cynips disticha,bisexual,Torymus auratus,39,"AD 10,AT,DE,ES 5,FR 8,GB 4,HU 12,PL"
+Cynips disticha,bisexual,Torymus cyaneus,6,"AT,BG 2,DE,FR,HU 4"
+Cynips disticha,bisexual,Torymus flavipes,3,"AD 3,PL"
+Cynips disticha,bisexual,Torymus geranii,10,"AD 2,FR 4,GB 1,HU 3,PL"
+Cynips disticha,bisexual,Ormyrus nitidulus,3,"DE,FR 2,HU 1"
+Cynips disticha,bisexual,Ormyrus pomaceus,49,"AD 9,AT 16,DE,ES 11,FR 3,HU 8,PL,UA 2"
+Cynips disticha,bisexual,Ormyrus nitidulus or O. pomaceus,21,"FR 1,HU 20"
+Cynips disticha,bisexual,Caenacis lauta,3,"HU 1,UA 2"
+Cynips disticha,bisexual,Cecidostiba fungosa,3,"ES 2,HU 1"
+Cynips disticha,bisexual,Cyrtoptyx robustus,28,"AD 1,ES 27"
+Cynips disticha,bisexual,Mesopolobus fasciiventris,14,"AD 5,AT,FR 1,HU 1,PL,UA 7"
+Cynips disticha,bisexual,Mesopolobus sericeus,2,GB 2
+Cynips disticha,bisexual,Mesopolobus tibialis,,AD
+Cynips disticha,bisexual,Eupelmus urozonus,19,"AD 2,AT,ES 7,HU 7,UA 3"
+Cynips disticha,bisexual,Eupelmus vesicularis,3,"ES 2,UA 1"
+Cynips disticha,bisexual,Aulogymnus arsames,1,SI 1
+Cynips disticha,bisexual,Aulogymnus ?gallarum,,PL
+Cynips disticha,bisexual,Aulogymnus sp.,2,HU 2
+Cynips disticha,bisexual,Aprostocetus aethiops,1,UA 1
+Cynips divisa,bisexual,Synergus pallipes,,ES
+Cynips divisa,bisexual,Ormocerus vernalis,3,ES 3
+Cynips divisa,bisexual,Mesopolobus mediterraneus,4,ES 4
+Cynips divisa,bisexual,Mesopolobus tibialis,19,"ES 17,HU 2"
+Cynips divisa,bisexual,Eupelmus urozonus,2,"ES 1,HU 1"
+Cynips divisa,bisexual,Eupelmus vesicularis,1,ES 1
+Cynips divisa,bisexual,Aulogymnus skianeuros,4,HU 4
+Cynips divisa,bisexual,Cynips divisa,,NA
+Cynips divisa,bisexual,Ceroptres clavicornis,,RU
+Cynips divisa,bisexual,Synergus facialis,,"DK,ES,HU,NL,UA"
+Cynips divisa,bisexual,Synergus incrassatus,2,ES 2
+Cynips divisa,bisexual,Synergus pallicornis,425,"AT,DE 3,ES 175"
+Cynips divisa,bisexual,pyrenaica,,"FR,GB 247,HU,NL,PL,UA"
+Cynips divisa,bisexual,Synergus pallipes,15,"AD,AT,DE,ES 14,FR,GB 1,UA"
+Cynips divisa,bisexual,Synergus radiatus,64,"AT,DK,ES 4,GB 60,NL,UA"
+Cynips divisa,bisexual,Synergus umbraculus,2,"ES 2,HU,UA"
+Cynips divisa,bisexual,Eurytoma brunniventris,815,"AT 2,BE 20,BG 1,DE 3,ES 457,FR 6,GB 301,HR 10,HU 2,NL 7,RO,TR 3,UA 3"
+Cynips divisa,bisexual,Eurytoma setigera,,AT
+Cynips divisa,bisexual,Sycophila biguttata,227,"AT 150,BE 1,DE 1,ES 51,GB(5 Q,HU 19"
+Cynips divisa,bisexual,Torymus auratus,45,"AT,DE,ES 17,FR 1,GB 25,HU 1,RO,UA 1"
+Cynips divisa,bisexual,Torymus cyaneus,151,"AT,DE 17,ES 30,FR,GB 63,HR 3,HU 25,NL 4,RO,RU 5,TR 4"
+Cynips divisa,bisexual,Torymus flavipes,,GB
+Cynips divisa,bisexual,Torymus geranii,113,"AT,BE 1,DE,GB 108,HU 1,RO,UA 3"
+Cynips divisa,bisexual,Ormyrus nitidulus,12,AT 12
+Cynips divisa,bisexual,Ormyrus pomaceus,43,"AT 1,DE,ES 41,HU 1"
+Cynips divisa,bisexual,Caenacis lauta,27,"AT 4,DE 2,ES 11,GB 10,PL"
+Cynips divisa,bisexual,Cecidostiba fungosa,47,"DE,ES 46,NL 1"
+Cynips divisa,bisexual,Cyrtoptyx robustus,8,"ES 5,TR 3"
+Cynips divisa,bisexual,Hobbya stenonota,2,HU 2
+Cynips divisa,bisexual,Mesopolobus amaenus,2,"GB 1,HU 1"
+Cynips divisa,bisexual,Mesopolobus dubius,1,GB 1
+Cynips divisa,bisexual,Mesopolobus fasciiventris,179,"BE 1,ES 12,FR,GB 163,NL 2,UA 1"
+Cynips divisa,bisexual,Mesopolobus sericeus,70,"ES 4,GB 66"
+Cynips divisa,bisexual,Mesopolobus tibialis,1,ES 1
+Cynips divisa,bisexual,Eupelmus spongipartus,5,ES 5
+Cynips divisa,bisexual,Eupelmus urozonus,87,"AT,ES 45,GB 37,HU 3,TR 1,UA 1"
+Cynips divisa,bisexual,Eupelmus vesicularis,27,ES 27
+Cynips divisa,bisexual,Aprostocetus aethiops,11,"ES 2,GB 8,UA 1"
+Cynips divisa,bisexual,(Pediobius bruchicida),1,TR 1
+Cynips longiventris,bisexual,Synergus facialis,1,GB 1
+Cynips longiventris,bisexual,Mesopolobus fuscipes,1,GB 1
+Cynips longiventris,bisexual,Mesopolobus tibialis,2,HU 2
+Cynips longiventris,bisexual,Cynips longiventris,,NA
+Cynips longiventris,bisexual,Synergus apicalis,,PL
+Cynips longiventris,bisexual,Synergus facialis,,"HU,NL,UA"
+Cynips longiventris,bisexual,Synergus pallicornis,78,"AT,DE,DK,FR 10,GB 68,NL,PL,UA"
+Cynips longiventris,bisexual,Synergus pallipes,,"NL,UA"
+Cynips longiventris,bisexual,Synergus radiatus,3,"GB 3,NL,SE öl,UA"
+Cynips longiventris,bisexual,Eurytoma adleriae,1,BG 1
+Cynips longiventris,bisexual,Eurytoma brunniventris,40,"AT 2,BG 1,DE,FI 10,GB 16,HR 1,HU 5,IE 2,RO,UA 3"
+Cynips longiventris,bisexual,Sycophila biguttata,30,"AT 6,BE,CZ 4,ES 1,GB 1,HU 18,PL,RO,SE öl"
+Cynips longiventris,bisexual,Sycophila flavicollis,2,"BG 1,FI 1"
+Cynips longiventris,bisexual,Megastigmus dorsalis,1,FR 1
+Cynips longiventris,bisexual,Megastigmus stigmatizans,1,HU 1
+Cynips longiventris,bisexual,Torymus auratus,40,"AT,BG 2,DE 1,FR 3,GB 13,HU 14,SE öl,UA 7"
+Cynips longiventris,bisexual,Torymus cyaneus,131,"AT,BG 4,DE 4,ES 1,FI 9,FR 5,GB 29,HR 3,HU 29,IE 2"
+Cynips longiventris,bisexual,(Zavada 2003),,"RO,RU 32,SE öl,UA 12"
+Cynips longiventris,bisexual,Torymus ?erucarum,1,HU 1
+Cynips longiventris,bisexual,Torymus flavipes,1,"GB,HU 1"
+Cynips longiventris,bisexual,Torymus geranii,29,"DE 1,FI 5,GB 12,HU 9,PL,RO,UA 2"
+Cynips longiventris,bisexual,Ormyrus nitidulus,4,"AT 1,BG 1,CZ 1,HU 1"
+Cynips longiventris,bisexual,Ormyrus pomaceus,31,"BG 1,DE,FI 8,FR 1,HU 21,RO"
+Cynips longiventris,bisexual,Cecidostiba fungosa,3,"FR 2,HU 1"
+Cynips longiventris,bisexual,Mesopolobus amaenus,2,FI 2
+Cynips longiventris,bisexual,Mesopolobus fasciiventris,46,"FI 24,GB 22,HU,PL,RO,SE öl"
+Cynips longiventris,bisexual,Mesopolobus sericeus,8,"DE 1,GB 7"
+Cynips longiventris,bisexual,Pteromalus sp. A,7,FI 7
+Cynips longiventris,bisexual,(Pteromalus sp. B),1,FI 1
+Cynips longiventris,bisexual,Eupelmus urozonus,5,"DE 2,GB 1,HR 1,HU 1"
+Cynips longiventris,bisexual,Aprostocetus aethiops,1,GB 1
+Cynips longiventris,bisexual,Baryscapus ?pallidae,1,FI 1
+Cynips quercus,asexual,Ceroptres cerri,1,HU 1
+Cynips quercus,asexual,Synergus facialis,8,"GR 1,HU 7"
+Cynips quercus,asexual,Synergus hayneanus,3,HU 3
+Cynips quercus,asexual,Synergus pallicornis,28,ES 13
+Cynips quercus,asexual,"Pujade-Villar 1992d, 2003; Nieves-Aldrey 2001b)",,"HU 15,UA"
+Cynips quercus,asexual,Synergus pallipes,36,"ES 2,GR 2,HU 32,UA"
+Cynips quercus,asexual,Synergus physocerus,4,HU 4
+Cynips quercus,asexual,Synergus radiatus,4,"ES 2,HU 2,UA"
+Cynips quercus,asexual,Synergus thaumacerus,,"HU,IT 2"
+Cynips quercus,asexual,Synergus umbraculus,1,HU 1
+Cynips quercus,asexual,Sycophila biguttata,135,"AT 97,BG 5,ES 5,GR 9,HU 18,RO,TR 1"
+Cynips quercus,asexual,Sycophila flavicollis,1,BG 1
+Cynips quercus,asexual,Sycophila variegata,1,AT 1
+Cynips quercus,asexual,Eurytoma adleriae,17,"ES 2,GR 1,HU 8,TR 6"
+Cynips quercus,asexual,Eurytoma brunniventris,113,"AD 13,BG 14,ES 21,GR 2,HU 60,RO,TR 3"
+Cynips quercus,asexual,Eurytoma setigera,2,"HU 2,RO"
+Cynips quercus,asexual,Megastigmus dorsalis,1,HU 1
+Cynips quercus,asexual,Torymus auratus,93,"BG 16,ES 26,GR 11,HU 10,MA 4,RO,TR 3,UA 23"
+Cynips quercus,asexual,Torymus cyaneus,570,"BG 148,ES 73,GR 59,HU 289,RO,TR 1"
+Cynips quercus,asexual,Torymus geranii,18,"AD 3,HU 13,RO,UA 2"
+Cynips quercus,asexual,Ormyrus nitidulus,34,"AT 19,BG 5,GR 7,HU 1,RO,TR 2"
+Cynips quercus,asexual,Ormyrus pomaceus,65,"AT 32,BG 2,ES 16,GR 10,HU 3,TR 1,UA 1"
+Cynips quercus,asexual,Ormyrus nitidulus or O. pomaceus,19,"GR 7,HU 11,TR 1"
+Cynips quercus,asexual,Caenacis lauta,7,"AT,HU 7,RO"
+Cynips quercus,asexual,Cecidostiba fungosa,5,"ES 1,HU 4"
+Cynips quercus,asexual,Cyrtoptyx robustus,3,ES 3
+Cynips quercus,asexual,Hobbya stenonota,1,"AT,BG 1"
+Cynips quercus,asexual,Mesopolobus fasciiventris,5,"AT,ES 4,UA 1"
+Cynips quercus,asexual,Mesopolobus sericeus,1,ES 1
+Cynips quercus,asexual,Mesopolobus tibialis,1,HU 1
+Cynips quercus,asexual,Eupelmus spongipartus,7,"ES 3,HU 4"
+Cynips quercus,asexual,Eupelmus urozonus,10,"BG 1,ES 6,HU 3,RO"
+Cynips quercus,asexual,Eupelmus vesicularis,1,HU 1
+Cynips quercus,asexual,Aulogymnus ?arsames,1,ES 1
+Cynips quercus,asexual,Aulogymnus trilineatus,3,"HR 1,HU 2"
+Cynips quercus,asexual,Aprostocetus aethiops,2,"ES 1,HU 1"
+Cynips quercus,asexual,(Aprostocetus sp.),1,ES 1
+Cynips quercus,asexual,Baryscapus ?pallidae,1,HU 1
+Cynips quercusfolii,bisexual,Ceroptres clavicornis,,AT
+Cynips quercusfolii,bisexual,Synergus facialis,10,"ES 8,GB 2,NL"
+Cynips quercusfolii,bisexual,Sycophila biguttata,10,AT 10
+Cynips quercusfolii,bisexual,Torymus flavipes,,NL
+Cynips quercusfolii,bisexual,Torymus geranii,,NL
+Cynips quercusfolii,bisexual,Caenacis lauta,1,AT 1
+Cynips quercusfolii,bisexual,Mesopolobus amaenus,1,HU 1
+Cynips quercusfolii,bisexual,Mesopolobus dubius,1,"HU 1,NL"
+Cynips quercusfolii,bisexual,Mesopolobus fuscipes,1,"AT,GB 1,NL Wieb"
+Cynips quercusfolii,bisexual,Mesopolobus tibialis,3,"AT,HU 3,NL"
+Cynips quercusfolii,bisexual,Cynips quercusfolii,,NA
+Cynips quercusfolii,bisexual,Ceroptres clavicornis,1,"AT,HU 1"
+Cynips quercusfolii,bisexual,Saphonecrus connatus,,AT
+Cynips quercusfolii,bisexual,Saphonecrus haimi,3,HU 3
+Cynips quercusfolii,bisexual,Synergus apicalis,,PL
+Cynips quercusfolii,bisexual,Synergus facialis,35,"AT,DE,ES 1,GB 1,HU 33,NL,PL,SE öl,UA"
+Cynips quercusfolii,bisexual,Synergus pallicornis,722,"AT,DE,DK,ES 34,FR 2,GB 656,GR 1,HU 21,NL,PL,TR 8,UA"
+Cynips quercusfolii,bisexual,Synergus pallipes,211,"AT,DE,DK,FR,GB 13,HU 198,NL,PL,UA"
+Cynips quercusfolii,bisexual,Synergus radiatus,5,"AD,AT,DE,DK,GB 3,HU 2,NL,PL,UA"
+Cynips quercusfolii,bisexual,Synergus ruficornis,,PL
+Cynips quercusfolii,bisexual,Synergus thaumacerus,,"AT,PL"
+Cynips quercusfolii,bisexual,Synergus tibialis,1,HU 1
+Cynips quercusfolii,bisexual,Synergus umbraculus,3,HU 3
+Cynips quercusfolii,bisexual,Eurytoma adleriae,1,HU 1
+Cynips quercusfolii,bisexual,Eurytoma brunniventris,213,"AD,AT 4,BG 20,ES 2,FR 1,GB 98,HU 80,IE 6,NL,PL"
+Cynips quercusfolii,bisexual,1882),1882,"RO,TR 1,UA 1"
+Cynips quercusfolii,bisexual,Eurytoma setigera,1,"AT 1,RO"
+Cynips quercusfolii,bisexual,Sycophila biguttata,67,"AT 24,DE 1,FR 1,GB 17,GR 1,HU 23,NL,PL,RO"
+Cynips quercusfolii,bisexual,Sycophila variegata,1,HU 1
+Cynips quercusfolii,bisexual,Megastigmus dorsalis,5,"GB 1,HU(4 Q,RO"
+Cynips quercusfolii,bisexual,Megastigmus stigmatizans,2,HU 2
+Cynips quercusfolii,bisexual,Torymus auratus,804,"AD 1,AT,BG 49,DE 10,ES 27,FR 15,GB 258"
+Cynips quercusfolii,bisexual,1954; Manning 1956; Askew 1965),,"GR 12,HU 253,NL,PL,RO,TR 46,UA 133"
+Cynips quercusfolii,bisexual,Torymus cyaneus,110,"AT,BG 5,GB 71,GR 5,HR,HU 22,NL,RO,TR 2"
+Cynips quercusfolii,bisexual,infectoria*,,UA 5
+Cynips quercusfolii,bisexual,Torymus erucarum,10,HU 10
+Cynips quercusfolii,bisexual,Torymus flavipes,6,"DE,FR,HU 6,RO,SE öl"
+Cynips quercusfolii,bisexual,Torymus geranii,14,"AD,AT,BE,DE 2,FR,GB 2,HU 10,NL,PL,RO,SE öl"
+Cynips quercusfolii,bisexual,Torymus macrurus,14,"MD 2,RO 5,UA 7"
+Cynips quercusfolii,bisexual,Ormyrus nitidulus,19,"AT 3,BG 3,HU 10,RO,TR 3"
+Cynips quercusfolii,bisexual,Ormyrus pomaceus,30,"AT 2,BG 14,DE 1,GR 3,HU 10,RO"
+Cynips quercusfolii,bisexual,Ormyrus nitidulus or O pomaceus,15,"HU 14,TR 1"
+Cynips quercusfolii,bisexual,Caenacis lauta,,RO
+Cynips quercusfolii,bisexual,Cecidostiba fungosa,9,HU 9
+Cynips quercusfolii,bisexual,Mesopolobus amaenus,1,HR 1
+Cynips quercusfolii,bisexual,Mesopolobus fasciiventris,11,"AT 2,FR,GB 9"
+Cynips quercusfolii,bisexual,(Brischke 1882),,RO
+Cynips quercusfolii,bisexual,Mesopolobus sericeus,14,GB 14
+Cynips quercusfolii,bisexual,Mesopolobus ?tibialis,,AT
+Cynips quercusfolii,bisexual,Eupelmus spongipartus,2,"BG 1,HU 1"
+Cynips quercusfolii,bisexual,Eupelmus urozonus,9,"AT,BG 8,HU 1"
+Cynips quercusfolii,bisexual,(Andriescu 1974),,NA
+Cynips quercusfolii,bisexual,Eupelmus vesicularis,,AT
+Cynips quercusfolii,bisexual,Aulogymnus gallarum,3,HU 3
+Cynips quercusfolii,bisexual,Aulogymnus trilineatus,16,"BG 4,GR 1,HU 11"
+Cynips quercusfolii,bisexual,(Andriescu 1974),,NA
+Cynips quercusfolii,bisexual,Aprostocetus aethiops,1,GB 1
+Cynips quercusfolii,bisexual,Baryscapus ?pallidae,2,HU 2
+Dryocosmus cerriphilus,bisexual,Ceroptres cerri,5,FR 5
+Dryocosmus cerriphilus,bisexual,Saphonecrus undulatus,4,JO 4
+Dryocosmus cerriphilus,bisexual,Synergus thaumacerus,,AT
+Dryocosmus cerriphilus,bisexual,Synergus variabilis,6,"AT,JO 6"
+Dryocosmus cerriphilus,bisexual,Eurytoma brunniventris,4,"AT? 2,HU 2"
+Dryocosmus cerriphilus,bisexual,Megastigmus dorsalis,3,JO 3
+Dryocosmus cerriphilus,bisexual,Torymus auratus,,AT
+Dryocosmus cerriphilus,bisexual,Torymus geranii,3,JO 3
+Dryocosmus cerriphilus,bisexual,Torymus ?longicalcar,,AT
+Dryocosmus cerriphilus,bisexual,Eupelmus spongipartus,,AT
+Dryocosmus cerriphilus,bisexual,Dryocosmus cerriphilus,,NA
+Dryocosmus cerriphilus,bisexual,Synergus thaumacerus,,AT
+Dryocosmus cerriphilus,bisexual,Synergus variabilis,,AT
+Dryocosmus cerriphilus,bisexual,Eurytoma brunniventris,7,"AT 5,HU 2"
+Dryocosmus cerriphilus,bisexual,Eurytoma setigera,1,"HU 1,RO"
+Dryocosmus cerriphilus,bisexual,Sycophila biguttata,1,AT 1
+Dryocosmus cerriphilus,bisexual,Ormyrus pomaceus,7,"AT 7,RO"
+Dryocosmus cerriphilus,bisexual,Cecidostiba fungosa,,AT
+Dryocosmus cerriphilus,bisexual,Hobbya stenonota,,"AT,RO"
+Dryocosmus cerriphilus,bisexual,Eupelmus spongipartus,,RO
+Dryocosmus cerriphilus,bisexual,Eupelmus urozonus,,"AT,RO"
+Dryocosmus cerriphilus,bisexual,Aulogymnus trilineatus,6,HU 6
+Dryocosmus cerriphilus,bisexual,[Dryocosmus kuriphilus,,NA
+Dryocosmus cerriphilus,bisexual,Eurytoma adleriae,3,IT 3
+Dryocosmus cerriphilus,bisexual,Eurytoma brunniventris,78,IT 78
+Dryocosmus cerriphilus,bisexual,Eurytoma setigera,3033,IT 303
+Dryocosmus cerriphilus,bisexual,Sycophila biguttata,51,IT 51
+Dryocosmus cerriphilus,bisexual,Sycophila iracemae,120,IT 120
+Dryocosmus cerriphilus,bisexual,Sycophila variegata,115,IT 115
+Dryocosmus cerriphilus,bisexual,Megastigmus dorsalis,3374,IT 337
+Dryocosmus cerriphilus,bisexual,Torymus auratus,1,IT 1
+Dryocosmus cerriphilus,bisexual,Torymus flavipes,44,IT 44
+Dryocosmus cerriphilus,bisexual,Torymus scutellaris,1,IT 1
+Dryocosmus cerriphilus,bisexual,Torymus sinensis,24,IT 24
+Dryocosmus cerriphilus,bisexual,Ormyrus nitidulus,1,IT 1
+Dryocosmus cerriphilus,bisexual,Ormyrus pomaceus,7,IT 5
+Dryocosmus cerriphilus,bisexual,Cecidostiba sp.,2,IT 2
+Dryocosmus cerriphilus,bisexual,Mesopolobus amaenus,3,IT 3
+Dryocosmus cerriphilus,bisexual,Mesopolobus mediterraneus,5,IT 5
+Dryocosmus cerriphilus,bisexual,Mesopolobus sericeus,209,IT 209
+Dryocosmus cerriphilus,bisexual,Mesopolobus tarsatus,3,IT 3
+Dryocosmus cerriphilus,bisexual,Mesopolobus tibialis,4,IT 4
+Dryocosmus cerriphilus,bisexual,Eupelmus annulatus,1425,IT 142
+Dryocosmus cerriphilus,bisexual,Eupelmus fulvipes,1,IT 1
+Dryocosmus cerriphilus,bisexual,Eupelmus splendens,2,IT 2
+Dryocosmus cerriphilus,bisexual,Eupelmus spongipartus,1,IT 1
+Dryocosmus cerriphilus,bisexual,Eupelmus urozonus,241,IT 241
+Dryocosmus cerriphilus,bisexual,Reikosiella rostrata,,NA
+Dryocosmus cerriphilus,bisexual,Aulogymnus arsames,1,IT 1
+Dryocosmus cerriphilus,bisexual,Aulogymnus sp.,94,IT 94
+Dryocosmus cerriphilus,bisexual,(Pnigalio sp. nr nemati),9,IT 9
+Dryocosmus cerriphilus,bisexual,Aprostocetus sp.,92,IT 92
+Dryocosmus cerriphilus,bisexual,Baryscapus ?pallidae,,IT
+Dryocosmus cerriphilus,bisexual,Baryscapus sp.,1,IT 1
+Dryocosmus cerriphilus,bisexual,Pediobius chilaspidis,1,IT 1
+Dryocosmus cerriphilus,bisexual,Pediobius saulius,2,IT 2
+Dryocosmus cerriphilus,bisexual,Pediobius sp.,3,IT 3
+Dryocosmus mayri,bisexual,Saphonecrus undulatus,21,JO 21
+Dryocosmus mayri,bisexual,Synergus pallipes,18,NA
+Dryocosmus mayri,bisexual,Eurytoma brunniventris,3,NA
+Dryocosmus mayri,bisexual,Sycophila variegata,7,JO 4
+Dryocosmus mayri,bisexual,Megastigmus dorsalis,6,NA
+Dryocosmus mayri,bisexual,Cecidostiba fungosa,35,JO 13
+Dryocosmus mayri,bisexual,Mesopolobus amaenus,19,NA
+Dryocosmus mayri,bisexual,Aulogymnus testaceoviridis,48,JO 48
+Neuroterus albipes,bisexual,Synergus apicalis,,DE
+Neuroterus albipes,bisexual,Synergus pallipes,3,GB 3
+Neuroterus albipes,bisexual,Eurytoma brunniventris,2,"FR 1,GB 1"
+Neuroterus albipes,bisexual,Torymus flavipes,4,GB 4
+Neuroterus albipes,bisexual,Ormocerus latus,26,"GB 25,UA 1"
+Neuroterus albipes,bisexual,Ormocerus vernalis,13,"GB 12,UA 1"
+Neuroterus albipes,bisexual,Mesopolobus dubius,5,IT
+Neuroterus albipes,bisexual,Mesopolobus fasciiventris,5,GB 5
+Neuroterus albipes,bisexual,Mesopolobus fuscipes,45,GB 45
+Neuroterus albipes,bisexual,Mesopolobus mediterraneus,9,"ES 5,FR 4"
+Neuroterus albipes,bisexual,Mesopolobus tibialis,207,"DE,ES 87,FR 18,GB 102"
+Neuroterus albipes,bisexual,Eupelmus urozonus,1,ES 1
+Neuroterus albipes,bisexual,Eupelmus vesicularis,4,ES 4
+Neuroterus albipes,bisexual,Aulogymnus arsames,11,"ES 1,GB 10"
+Neuroterus albipes,bisexual,Aulogymnus gallarum,2,ES 2
+Neuroterus albipes,bisexual,Aprostocetus aethiops,10,"ES 2,FR 2,GB 6"
+Neuroterus albipes,bisexual,Pediobius saulius,4,FR 4
+Neuroterus albipes,bisexual,Neuroterus albipes,,NA
+Neuroterus albipes,bisexual,Synergus apicalis,,"HU,UA"
+Neuroterus albipes,bisexual,Synergus facialis,,NL
+Neuroterus albipes,bisexual,Synergus pallicornis,,DE
+Neuroterus albipes,bisexual,Synergus pallipes,6,"DE,ES 1,GB 2,HU 3,PL"
+Neuroterus albipes,bisexual,Synergus radiatus,5,"DE,ES 5,GB"
+Neuroterus albipes,bisexual,Eurytoma brunniventris,1,ES 1
+Neuroterus albipes,bisexual,Sycophila biguttata,17,"AT 5,ES 11,FR 1"
+Neuroterus albipes,bisexual,Torymus ?auratus,1,HU 1
+Neuroterus albipes,bisexual,Torymus flavipes,39,"AD,AT,DE,ES 6,FR 18,GB 13,HU 2"
+Neuroterus albipes,bisexual,Ormyrus pomaceus,121,"AD,DE 18,ES 27,FR 73,HU 3"
+Neuroterus albipes,bisexual,Arthrolytus nanus,1,FR 1
+Neuroterus albipes,bisexual,Mesopolobus fasciiventris,3,"DE,ES 2,GB 1"
+Neuroterus albipes,bisexual,Mesopolobus sericeus,3,ES 3
+Neuroterus albipes,bisexual,Mesopolobus tibialis,5,"DE,ES 1,FR 1,GB 3"
+Neuroterus albipes,bisexual,Pediobius clita,25,"ES 1,GB 24"
+Neuroterus albipes,bisexual,Pediobius lysis,15,"DE 1,FR 4,GB 10"
+Neuroterus anthracinus,bisexual,Ceroptres clavicornis,1,IT
+Neuroterus anthracinus,bisexual,Synergus facialis,1,IT
+Neuroterus anthracinus,bisexual,Synergus pallipes,,ES
+Neuroterus anthracinus,bisexual,Synergus tibialis,,AD
+Neuroterus anthracinus,bisexual,Ormocerus vernalis,13,"ES 5,GB 7,HU 1"
+Neuroterus anthracinus,bisexual,Mesopolobus fasciiventris,2,"ES 1,HU 1"
+Neuroterus anthracinus,bisexual,Mesopolobus fuscipes,55,GB 55
+Neuroterus anthracinus,bisexual,Mesopolobus mediterraneus,1,ES 1
+Neuroterus anthracinus,bisexual,Mesopolobus tibialis,104,"ES 99,GB 3,IT"
+Neuroterus anthracinus,bisexual,Mesopolobus xanthocerus,8,"ES 7,GB 1"
+Neuroterus anthracinus,bisexual,Aulogymnus arsames,1,ES 1
+Neuroterus anthracinus,bisexual,Neuroterus anthracinus,,NA
+Neuroterus anthracinus,bisexual,Ceroptres clavicornis,1,HU 1
+Neuroterus anthracinus,bisexual,Saphonecrus connatus,1,"AT,HU 1"
+Neuroterus anthracinus,bisexual,Synergus facialis,43,"AD,DE 5,DK,ES 2,FR 4,GB,HU 32,NL,PL,RU,UA"
+Neuroterus anthracinus,bisexual,Synergus pallicornis,1,"AT,ES,HU 1,PL"
+Neuroterus anthracinus,bisexual,Synergus pallipes,64,"AD,AT,DE,DK,ES 3,FR,HU 30,NL,PL,PT,RO,RU,UA"
+Neuroterus anthracinus,bisexual,Synergus radiatus,41,"AD,AT,DE,DK,ES 12,FR 4,GB 24,HU 1,NL,PL,UA"
+Neuroterus anthracinus,bisexual,Synergus ruficornis,,"AT,DE,UA"
+Neuroterus anthracinus,bisexual,Synergus thaumacerus,1,"AT,DE,FR 1,PL,UA"
+Neuroterus anthracinus,bisexual,Synergus umbraculus,14,HU 14
+Neuroterus anthracinus,bisexual,Eurytoma brunniventris,133,"AD 1,AT,BG 2,DE 1,ES 6,FI 1,FR 30,GB 30,HU 57,IT 4,RO,UA 1"
+Neuroterus anthracinus,bisexual,Sycophila biguttata,8,"ES 6,HU 2"
+Neuroterus anthracinus,bisexual,Torymus ?cyaneus,1,HU 1
+Neuroterus anthracinus,bisexual,Torymus flavipes,1,AD 1
+Neuroterus anthracinus,bisexual,Torymus geranii,7,"DE 1,FR 2,GB 4"
+Neuroterus anthracinus,bisexual,Ormyrus ?nitidulus,2,HU 2
+Neuroterus anthracinus,bisexual,Ormyrus pomaceus,10,"ES 2,HU 8,RO"
+Neuroterus anthracinus,bisexual,Cecidostiba fungosa,1,HU 1
+Neuroterus anthracinus,bisexual,Mesopolobus fasciiventris,72,"AT,DE 1,FR 9,GB 56,HU 6,RO"
+Neuroterus anthracinus,bisexual,Mesopolobus sericeus,8,"AD,ES 3,GB 5"
+Neuroterus anthracinus,bisexual,Eupelmus urozonus,8,"BG 1,FR 1,GB 1,GR 1,HU 4"
+Neuroterus anthracinus,bisexual,Eupelmus vesicularis,1,ES 1
+Neuroterus anthracinus,bisexual,Aulogymnus arsames,1,GB 1
+Neuroterus anthracinus,bisexual,Aulogymnus gallarum,1,HU 1
+Neuroterus anthracinus,bisexual,(Cirrospilus diallus),1,GB 1
+Neuroterus anthracinus,bisexual,Aprostocetus aethiops,5,"FR 1,GB 3,HU 1"
+Neuroterus anthracinus,bisexual,Aprostocetus cerricola,2,"ES 1,HU 1"
+Neuroterus anthracinus,bisexual,Aprostocetus sp(p).,2,"ES 1,HU 1"
+Neuroterus anthracinus,bisexual,Baryscapus ?pallidae,6,HU 6
+Neuroterus numismalis,bisexual,Synergus facialis,,NL
+Neuroterus numismalis,bisexual,Synergus pallicornis,,"DK,ES,PT"
+Neuroterus numismalis,bisexual,Synergus pallipes,61,"DK,GB 54,HU 7"
+Neuroterus numismalis,bisexual,Eurytoma brunniventris,26,"ES 1,FR 2,GB 22,UA 1"
+Neuroterus numismalis,bisexual,Eurytoma setigera,1,UA 1
+Neuroterus numismalis,bisexual,Torymus auratus,1,HU 1
+Neuroterus numismalis,bisexual,Torymus flavipes,6,"GB 3,HU 2,UA 1"
+Neuroterus numismalis,bisexual,Ormyrus pomaceus,4,"HU 1,UA 3"
+Neuroterus numismalis,bisexual,Mesopolobus fasciiventris,40,"ES 3,GB 19,HU 9,UA 9"
+Neuroterus numismalis,bisexual,Mesopolobus fuscipes,1,GB 1
+Neuroterus numismalis,bisexual,Mesopolobus mediterraneus,1,ES 1
+Neuroterus numismalis,bisexual,Mesopolobus sericeus,1,GB 1
+Neuroterus numismalis,bisexual,Mesopolobus tibialis,94,"ES 3,GB 53,HU 36,UA 2"
+Neuroterus numismalis,bisexual,Eupelmus urozonus,9,"ES 5,HU 2"
+Neuroterus numismalis,bisexual,Aulogymnus arsames,7,GB 7
+Neuroterus numismalis,bisexual,Aulogymnus gallarum,4,UA 4
+Neuroterus numismalis,bisexual,Aulogymnus skianeuros,1,HU 1
+Neuroterus numismalis,bisexual,Cirrospilus diallus,2,GB 2
+Neuroterus numismalis,bisexual,(Cirrospilus viticola),3,"HU 1,UA 2"
+Neuroterus numismalis,bisexual,Aprostocetus aethiops,10,"GB 2,UA 8"
+Neuroterus numismalis,bisexual,Aprostocetus cerricola,5,HU 5
+Neuroterus numismalis,bisexual,Minotetrastichus frontalis,53,"HU 42,UA 11"
+Neuroterus numismalis,bisexual,?Pediobius lysis,1,UA 1
+Neuroterus numismalis,bisexual,Pediobius saulius,2,HU 2
+Neuroterus numismalis,bisexual,(Closterocerus trifasciatus),24,"HU 23,UA 1"
+Neuroterus numismalis,bisexual,Neuroterus numismalis,,NA
+Neuroterus numismalis,bisexual,Ceroptres clavicornis,,UA
+Neuroterus numismalis,bisexual,Synergus pallicornis,1,"HU 1,UA"
+Neuroterus numismalis,bisexual,Synergus pallipes,,"AD,DE,GB,PL,UA"
+Neuroterus numismalis,bisexual,Synergus radiatus,9,"DE,ES 1,FR 4,GB 4,PL,PT,UA"
+Neuroterus numismalis,bisexual,Eurytoma brunniventris,7,ES 7
+Neuroterus numismalis,bisexual,Sycophila biguttata,2,"ES 1,HU 1"
+Neuroterus numismalis,bisexual,Torymus flavipes,41,"ES 8,GB 14,HU 19"
+Neuroterus numismalis,bisexual,Ormyrus pomaceus,12,"BG 1,ES 3,HU 8"
+Neuroterus numismalis,bisexual,Cecidostiba fungosa,4,HU 4
+Neuroterus numismalis,bisexual,Mesopolobus dubius,1,ES 1
+Neuroterus numismalis,bisexual,Mesopolobus fasciiventris,3,GB 3
+Neuroterus numismalis,bisexual,Mesopolobus tibialis,41,"ES 21,GB 17,HU 3"
+Neuroterus numismalis,bisexual,Pediobius lysis,598,"ES 12,GB 586"
+Neuroterus politus,bisexual,Ceroptres clavicornis,3,AT 3
+Neuroterus politus,bisexual,Synergus umbraculus,8,ES 8
+Neuroterus politus,bisexual,Mesopolobus fuscipes,47,"AT,ES 40,FR 1,GB 6"
+Neuroterus politus,bisexual,Mesopolobus tibialis,9,"AT,ES 4,FR 5"
+Neuroterus politus,bisexual,Mesopolobus sp.,2,AD 2
+Neuroterus politus,bisexual,Neuroterus politus,,NA
+Neuroterus politus,bisexual,Mesopolobus xanthocerus,1,AD 1
+Neuroterus politus,bisexual,Aprostocetus aethiops,1,FR 1
+Neuroterus quercusbaccarum,bisexual,Ceroptres cerri,,PT
+Neuroterus quercusbaccarum,bisexual,Saphonecrus connatus,1,"AT,ES 1"
+Neuroterus quercusbaccarum,bisexual,Synergus apicalis,,SE öl
+Neuroterus quercusbaccarum,bisexual,Synergus facialis,130,"AD,DE,ES 63,FR 8,GB 20,HU 36,IT,NL,SE öl"
+Neuroterus quercusbaccarum,bisexual,Synergus pallicornis,1,"ES 1,PL"
+Neuroterus quercusbaccarum,bisexual,Synergus pallipes,199,"AD 2,AT,DE,DK,ES 118,FR 7,GB 8,HU 35,IT,NL,PL"
+Neuroterus quercusbaccarum,bisexual,Synergus radiatus,378,"AD 4,AT,DE 278,DK,ES 56"
+Neuroterus quercusbaccarum,bisexual,& Pujade-Villar 1999a),,"FR 9,GB 26,HU 5,IT,NL,PL"
+Neuroterus quercusbaccarum,bisexual,Synergus ruficornis,,PL
+Neuroterus quercusbaccarum,bisexual,Synergus thaumacerus,2,"ES,HU 1,IT,SE 1,UA"
+Neuroterus quercusbaccarum,bisexual,Eurytoma brunniventris,101,"AD 6,AT,BG 1,ES 56,FR 12,GB 7,HU 28,IT,UA 2"
+Neuroterus quercusbaccarum,bisexual,Eurytoma setigera,3,"AD 2,AT 1"
+Neuroterus quercusbaccarum,bisexual,Sycophila biguttata,87,"AT 65,ES 21,HU 1"
+Neuroterus quercusbaccarum,bisexual,Sycophila variegata,3,ES 3
+Neuroterus quercusbaccarum,bisexual,Megastigmus dorsalis,,DE
+Neuroterus quercusbaccarum,bisexual,Torymus affinis,,"AT,RO"
+Neuroterus quercusbaccarum,bisexual,Torymus auratus,6,"AT,BG 1,DE,ES 2,FR,GB 2,IT 1,PL,RO"
+Neuroterus quercusbaccarum,bisexual,Torymus flavipes,1034,"AD 2,AT,BG 5,DE 449,ES 380,FI 7"
+Neuroterus quercusbaccarum,bisexual,(Kaartinen et al. 2010),,"FR,GB 37,HU 98,IT,PL,RO 2,SE öl,UA 54"
+Neuroterus quercusbaccarum,bisexual,Torymus geranii,13,"AT,ES 11,FI 1,UA 1"
+Neuroterus quercusbaccarum,bisexual,Torymus ?longicalcar,,AT
+Neuroterus quercusbaccarum,bisexual,Torymus notatus,4,ES 4
+Neuroterus quercusbaccarum,bisexual,Torymus sp(p).,13,HU 13
+Neuroterus quercusbaccarum,bisexual,Ormyrus pomaceus,13,"AT 4,ES 2,HU 3,SE öl,UA 4"
+Neuroterus quercusbaccarum,bisexual,(Kaleva corynocera),4,ES 4
+Neuroterus quercusbaccarum,bisexual,Mesopolobus albitarsus,,SE öl
+Neuroterus quercusbaccarum,bisexual,Mesopolobus amaenus,1,"AT,ES 1,FR,SE"
+Neuroterus quercusbaccarum,bisexual,Mesopolobus dubius,7,"DE 1,ES 4,GB 1,IT,RO"
+Neuroterus quercusbaccarum,bisexual,Mesopolobus fasciiventris,62,"AT,DE 42,ES 3,HU 6,IT,RO,SE öl,UA 11"
+Neuroterus quercusbaccarum,bisexual,Mesopolobus fuscipes,1,GB 1
+Neuroterus quercusbaccarum,bisexual,Mesopolobus mediterraneus,3,"AD 2,ES 1"
+Neuroterus quercusbaccarum,bisexual,Mesopolobus sericeus,11,"ES 9,GB 2,IT"
+Neuroterus quercusbaccarum,bisexual,Mesopolobus tibialis,214,"AD 2,AT,DE 144,ES 40,FR,GB 9,HU 10,PL,RO,IT,UA 8"
+Neuroterus quercusbaccarum,bisexual,Mesopolobus xanthocerus,6,"DE 1,ES 1,FI 3,GB 1"
+Neuroterus quercusbaccarum,bisexual,Eupelmus spongipartus,,AT
+Neuroterus quercusbaccarum,bisexual,Eupelmus urozonus,21,"AD 3,ES 12,FI 2,FR 1,GB 2,IT"
+Neuroterus quercusbaccarum,bisexual,Eupelmus vesicularis,,AT
+Neuroterus quercusbaccarum,bisexual,Aulogymnus arsames,244,"AD 14,DE 179,ES 20,FI 12,FR 1,GB 18"
+Neuroterus quercusbaccarum,bisexual,Aulogymnus ?euedoreschus,,SE öl
+Neuroterus quercusbaccarum,bisexual,Aulogymnus gallarum,28,"AD 1,ES 23"
+Neuroterus quercusbaccarum,bisexual,Pujade-Villar 1991; Bellido & Pujade-Villar 1999a),,TR(4 Q
+Neuroterus quercusbaccarum,bisexual,Aulogymnus skianeuros,1,"AD,FI 1"
+Neuroterus quercusbaccarum,bisexual,Aulogymnus testaceoviridis,1,HU 1
+Neuroterus quercusbaccarum,bisexual,Aprostocetus aethiops,8,"ES 2,HU 3,UA 3"
+Neuroterus quercusbaccarum,bisexual,?Aprostocetus rufescens,,FR
+Neuroterus quercusbaccarum,bisexual,Baryscapus ?pallidae,2,FI 2
+Neuroterus quercusbaccarum,bisexual,Pediobius ?rotundatus,5,ES 5
+Neuroterus quercusbaccarum,bisexual,Neuroterus quercusbaccarum,,NA
+Neuroterus quercusbaccarum,bisexual,Saphonecrus haimi,1,HU 1
+Neuroterus quercusbaccarum,bisexual,Synergus facialis,5,"AD,HU 5,NL,PL,UA"
+Neuroterus quercusbaccarum,bisexual,Synergus pallicornis,,"DE,DK,HU,NL,UA"
+Neuroterus quercusbaccarum,bisexual,Synergus pallipes,12,"AT,DE,ES,FR,GB 5,HU 5,NL,TR 2,UA"
+Neuroterus quercusbaccarum,bisexual,Synergus radiatus,9,"AD,AT,DE,DK,ES 9,GB,UA"
+Neuroterus quercusbaccarum,bisexual,Synergus thaumacerus,,"HU,UA"
+Neuroterus quercusbaccarum,bisexual,Eurytoma brunniventris,7,"FR 2,GB 1,HU 2,UA 2"
+Neuroterus quercusbaccarum,bisexual,Sycophila biguttata,49,"ES 8,HU 41,PT"
+Neuroterus quercusbaccarum,bisexual,Sycophila variegata,2,ES 2
+Neuroterus quercusbaccarum,bisexual,Megastigmus dorsalis,,DE
+Neuroterus quercusbaccarum,bisexual,Torymus ?auratus,,AT
+Neuroterus quercusbaccarum,bisexual,Torymus flavipes,111,"AD,AT,DE,ES 9,FI 5,FR 34,GB 41,HU 18,UA 4"
+Neuroterus quercusbaccarum,bisexual,Ormyrus pomaceus,75,"ES 38,FR 23,HU 14"
+Neuroterus quercusbaccarum,bisexual,Arthrolytus nanus,1,FR 1
+Neuroterus quercusbaccarum,bisexual,Mesopolobus amaenus,,AT
+Neuroterus quercusbaccarum,bisexual,Mesopolobus dubius,52,"ES 24,GB 1,HU 27"
+Neuroterus quercusbaccarum,bisexual,Mesopolobus fasciiventris,12,"AT,FR 2,GB 1,HU 9"
+Neuroterus quercusbaccarum,bisexual,Mesopolobus tibialis,67,"AT,DE 1,ES 9,GB 14,HU 43"
+Neuroterus quercusbaccarum,bisexual,Eupelmus urozonus,3,HU 3
+Neuroterus quercusbaccarum,bisexual,Aulogymnus arsames,3,"ES 1,TR 2"
+Neuroterus quercusbaccarum,bisexual,Aulogymnus gallarum,18,"GB 5,UA 13"
+Neuroterus quercusbaccarum,bisexual,Aprostocetus sp.,3,UA 3
+Neuroterus quercusbaccarum,bisexual,(Minotetrastichus frontalis),1,HU 1
+Neuroterus quercusbaccarum,bisexual,Pediobius lysis,71,"ES 3,FR 31,GB 33,HU 1,IE 2,TR 1"
+Neuroterus tricolor,bisexual,Synergus facialis,9,"AT,ES 9,GB,PL"
+Neuroterus tricolor,bisexual,Synergus pallipes,34,"AT,DE,ES 31,GB 3"
+Neuroterus tricolor,bisexual,Synergus radiatus,5,"ES 5,NL,UA"
+Neuroterus tricolor,bisexual,Synergus thaumacerus,,"AT,GB,UA"
+Neuroterus tricolor,bisexual,Eurytoma brunniventris,13,"AD 1,AT,DE,ES 11,GB 1"
+Neuroterus tricolor,bisexual,Sycophila biguttata,5,AT 5
+Neuroterus tricolor,bisexual,Torymus auratus,3,ES 3
+Neuroterus tricolor,bisexual,Torymus flavipes,2,GB 2
+Neuroterus tricolor,bisexual,Ormyrus pomaceus,1,ES 1
+Neuroterus tricolor,bisexual,Mesopolobus dubius,1,ES 1
+Neuroterus tricolor,bisexual,Mesopolobus fasciiventris,1,ES 1
+Neuroterus tricolor,bisexual,Mesopolobus sericeus,2,ES 2
+Neuroterus tricolor,bisexual,Mesopolobus tibialis,46,"ES 42,GB 4"
+Neuroterus tricolor,bisexual,Eupelmus vesicularis,1,ES 1
+Neuroterus tricolor,bisexual,Aulogymnus arsames,2,ES 2
+Neuroterus tricolor,bisexual,Neuroterus tricolor,,NA
+Neuroterus tricolor,bisexual,Synergus facialis,,UA
+Neuroterus tricolor,bisexual,Synergus pallipes,,"DE,UA"
+Neuroterus tricolor,bisexual,Synergus radiatus,5,"AT,ES 5"
+Neuroterus tricolor,bisexual,Nieves-Aldrey 1988),,"GB,UA"
+Neuroterus tricolor,bisexual,Synergus thaumacerus,,UA
+Neuroterus tricolor,bisexual,Eurytoma setigera,1,DE 1
+Neuroterus tricolor,bisexual,Sycophila biguttata,4,ES 4
+Neuroterus tricolor,bisexual,Torymus flavipes,3,ES 3
+Neuroterus tricolor,bisexual,Torymus ?notatus,1,ES 1
+Neuroterus tricolor,bisexual,Ormyrus pomaceus,2,ES 2
+Neuroterus tricolor,bisexual,Eupelmus urozonus,6,DE 6
+Neuroterus tricolor,bisexual,Aulogymnus arsames,1,ES 1
+Neuroterus tricolor,bisexual,Pediobius lysis,10,GB 10
+Plagiotrochus amenti,bisexual,Ceroptres cerri,15,ES 15
+Plagiotrochus amenti,bisexual,Saphonecrus gallaepomiformis,,ES
+Plagiotrochus amenti,bisexual,Synergus apicalis,1,ES 1
+Plagiotrochus amenti,bisexual,Synergus tibialis,3,ES 3
+Plagiotrochus amenti,bisexual,Sycophila flavicollis,1,ES 1
+Plagiotrochus amenti,bisexual,Sycophila variegata,2,ES 2
+Plagiotrochus amenti,bisexual,Megastigmus dorsalis,4,ES 4
+Plagiotrochus amenti,bisexual,Torymus auratus,,ES
+Plagiotrochus amenti,bisexual,Ormyrus pomaceus,1,ES 1
+Plagiotrochus amenti,bisexual,Ormocerus latus,1,ES 1
+Plagiotrochus amenti,bisexual,Mesopolobus dubius,2,ES 2
+Plagiotrochus amenti,bisexual,Mesopolobus lichtensteini,15,ES 15
+Plagiotrochus amenti,bisexual,Mesopolobus mediterraneus,26,ES 26
+Plagiotrochus amenti,bisexual,Mesopolobus tibialis,3,ES 3
+Plagiotrochus amenti,bisexual,Mesopolobus xanthocerus,4,ES 4
+Plagiotrochus amenti,bisexual,Eupelmus urozonus,1,ES 1
+Plagiotrochus amenti,bisexual,Aulogymnus gallarum,3,ES 3
+Plagiotrochus amenti,bisexual,Pediobius rotundatus,2,ES 2
+Plagiotrochus amenti,bisexual,Plagiotrochus amenti,,NA
+Plagiotrochus amenti,bisexual,Ceroptres cerri,15,ES 15
+Plagiotrochus amenti,bisexual,Saphonecrus gallaepomiformis,25,"ES 3,PT 22"
+Plagiotrochus amenti,bisexual,Ormyrus pomaceus,1,ES 1
+Plagiotrochus amenti,bisexual,Pediobius rotundatus,1,ES 1
+Plagiotrochus australis,bisexual,Ceroptres cerri,4,ES 4
+Plagiotrochus australis,bisexual,Synergus crassicornis,5,ES 5
+Plagiotrochus australis,bisexual,Synergus plagiotrochi,79,ES 59
+Plagiotrochus australis,bisexual,Pujade-Villar 1992d),,FR 20
+Plagiotrochus australis,bisexual,Eurytoma brunniventris,20,"AD 1,ES 1,FR 18"
+Plagiotrochus australis,bisexual,Eurytoma setigera,1,ES 1
+Plagiotrochus australis,bisexual,Sycophila biguttata,1,ES 1
+Plagiotrochus australis,bisexual,Sycophila binotata,5,"ES 5,FR"
+Plagiotrochus australis,bisexual,Sycophila variegata,55,"AD 1,ES 54"
+Plagiotrochus australis,bisexual,Torymus favardi,1,FR 1
+Plagiotrochus australis,bisexual,Torymus flavipes,24,"ES 23,FR 1"
+Plagiotrochus australis,bisexual,Torymus notatus,56,"AD 7,ES 49,FR"
+Plagiotrochus australis,bisexual,Ormyrus pomaceus,6,ES 4
+Plagiotrochus australis,bisexual,Bellido & Pujade-Villar 1999a),,FR 2
+Plagiotrochus australis,bisexual,Cecidostiba atra,23,"ES 12,FR 11"
+Plagiotrochus australis,bisexual,Cecidostiba ilicina,9,ES 9
+Plagiotrochus australis,bisexual,Cyrtoptyx robustus,1,ES 1
+Plagiotrochus australis,bisexual,Mesopolobus lichtensteini,3,ES 3
+Plagiotrochus australis,bisexual,Mesopolobus tibialis,4,ES 4
+Plagiotrochus australis,bisexual,Eupelmus seculatus,1,ES 1
+Plagiotrochus australis,bisexual,Eupelmus urozonus,12,"ES 5,FR 7"
+Plagiotrochus australis,bisexual,Eupelmus vesicularis,1,AD 1
+Plagiotrochus australis,bisexual,Aulogymnus arsames,4,ES 4
+Plagiotrochus australis,bisexual,Aulogymnus bicolor,3,"AD 2,ES 1"
+Plagiotrochus australis,bisexual,Bellido & Pujade-Villar 1999a),,NA
+Plagiotrochus australis,bisexual,Pediobius rotundatus,6,ES 6
+Plagiotrochus australis,bisexual,Plagiotrochus australis,,NA
+Plagiotrochus australis,bisexual,Ceroptres cerri,,ES
+Plagiotrochus australis,bisexual,Synergus crassicornis,9,ES 9
+Plagiotrochus australis,bisexual,Synergus ilicinus,13,"ES 13,FR"
+Plagiotrochus australis,bisexual,Eurytoma brunniventris,4,ES 4
+Plagiotrochus britaniae,bisexual,Saphonecrus barbotini,61,"ES 53,FR 8"
+Plagiotrochus britaniae,bisexual,Sycophila binotata,1,ES 1
+Plagiotrochus britaniae,bisexual,Ormyrus pomaceus,1,ES 1
+Plagiotrochus britaniae,bisexual,Mesopolobus lichtensteini,1,ES 1
+Plagiotrochus britaniae,bisexual,Mesopolobus mediterraneus,4,ES 4
+Plagiotrochus britaniae,bisexual,Mesopolobus sericeus,2,ES 2
+Plagiotrochus britaniae,bisexual,Aprostocetus fusificola,7,ES 7
+Plagiotrochus burnayi,asexual,Synergus crassicornis,68,"AD,ES 68,MA"
+Plagiotrochus burnayi,asexual,Eurytoma brunniventris,1,ES 1
+Plagiotrochus burnayi,asexual,Ormyrus pomaceus,2,ES 2
+Plagiotrochus cardiguensis,bisexual,Ormocerus latus,7,ES 7
+Plagiotrochus cardiguensis,bisexual,Mesopolobus lichtensteini,1,"ES 1,FR"
+Plagiotrochus cardiguensis,bisexual,Mesopolobus mediterraneus,28,"AD,ES 28"
+Plagiotrochus cardiguensis,bisexual,Mesopolobus tibialis,5,ES 5
+Plagiotrochus cardiguensis,bisexual,Pediobius rotundatus,11,ES 11
+Plagiotrochus coriaceus,asexual,Ceroptres cerri,1,"AD,ES 1,PT"
+Plagiotrochus coriaceus,asexual,Saphonecrus barbotini,20,"AD,ES 17,FR 3"
+Plagiotrochus coriaceus,asexual,Sycophila variegata,1,AD 1
+Plagiotrochus coriaceus,asexual,Torymus notatus,2,ES 2
+Plagiotrochus coriaceus,asexual,Ormyrus pomaceus,2,ES 2
+Plagiotrochus coriaceus,asexual,Cecidostiba atra,1,ES 1
+Plagiotrochus coriaceus,asexual,Mesopolobus lichtensteini,15,ES 15
+Plagiotrochus coriaceus,asexual,Mesopolobus xanthocerus,1,ES 1
+Plagiotrochus coriaceus,asexual,Pediobius erdoesi,4,IT 4
+Plagiotrochus coriaceus,asexual,Pediobius rotundatus,1,ES 1
+Plagiotrochus gallaeramulorum,asexual,Saphonecrus barbotini,,ES
+Plagiotrochus gallaeramulorum,asexual,Saphonecrus gallaepomiformis,14,ES 14
+Plagiotrochus gallaeramulorum,asexual,"Pujade-Villar & Ros-Farré 1998a; Nieves-Aldrey 1982, 2001a,b as S. lusitanicus, inquiline of P. quercusilicis asex. gen.; Pujade-Villar 2003)",,"FR,PT"
+Plagiotrochus gallaeramulorum,asexual,Synergus facialis,,PT
+Plagiotrochus gallaeramulorum,asexual,Synergus physocerus,,GR
+Plagiotrochus gallaeramulorum,asexual,Eurytoma brunniventris,1,ES 1
+Plagiotrochus gallaeramulorum,asexual,Sycophila binotata,19,"ES 18,GR 1"
+Plagiotrochus gallaeramulorum,asexual,Sycophila flavicollis,1,GR 1
+Plagiotrochus gallaeramulorum,asexual,Sycophila variegata,1,ES 1
+Plagiotrochus gallaeramulorum,asexual,Megastigmus dorsalis,7,"ES 7,PT"
+Plagiotrochus gallaeramulorum,asexual,Megastigmus dumicola,30,ES 30
+Plagiotrochus gallaeramulorum,asexual,Ormyrus pomaceus,2,ES 2
+Plagiotrochus panteli,bisexual,Synergus crassicornis,11,ES 11
+Plagiotrochus panteli,bisexual,Synergus physocerus,,GR
+Plagiotrochus panteli,bisexual,Synergus plagiotrochi,25,"ES 19,GR 6"
+Plagiotrochus panteli,bisexual,Eurytoma brunniventris,7,"ES 4,FR 3"
+Plagiotrochus panteli,bisexual,Eurytoma setigera,2,ES 2
+Plagiotrochus panteli,bisexual,Sycophila binotata,2,ES 2
+Plagiotrochus panteli,bisexual,Sycophila flavicollis,4,ES 4
+Plagiotrochus panteli,bisexual,Sycophila variegata,5,"ES 4,GR 1"
+Plagiotrochus panteli,bisexual,Megastigmus dorsalis,1,ES 1
+Plagiotrochus panteli,bisexual,Torymus notatus,10,ES 10
+Plagiotrochus panteli,bisexual,Ormyrus pomaceus,3,ES 3
+Plagiotrochus panteli,bisexual,Ormocerus latus,1,ES 1
+Plagiotrochus panteli,bisexual,Cecidostiba atra,1,ES 1
+Plagiotrochus panteli,bisexual,Mesopolobus dubius,5,ES 5
+Plagiotrochus panteli,bisexual,Mesopolobus lichtensteini,19,ES 19
+Plagiotrochus panteli,bisexual,Mesopolobus mediterraneus,3,ES 3
+Plagiotrochus panteli,bisexual,Mesopolobus xanthocerus,5,"ES 2,FR 3"
+Plagiotrochus panteli,bisexual,Eupelmus urozonus,4,ES 4
+Plagiotrochus panteli,bisexual,Pediobius rotundatus,31,"ES 5,FR 26"
+Plagiotrochus quercusilicis,bisexual,Ceroptres cerri,6,JO 6
+Plagiotrochus quercusilicis,bisexual,Synergus crassicornis,1,ES 1
+Plagiotrochus quercusilicis,bisexual,Synergus plagiotrochi,6,ES 6
+Plagiotrochus quercusilicis,bisexual,Eurytoma adleriae,3,ES 3
+Plagiotrochus quercusilicis,bisexual,Eurytoma brunniventris,93,"ES 3,JO 90"
+Plagiotrochus quercusilicis,bisexual,Sycophila biguttata,4,ES 4
+Plagiotrochus quercusilicis,bisexual,Sycophila binotata,78,"ES 75,FR,GR 1,TN 2"
+Plagiotrochus quercusilicis,bisexual,Sycophila flavicollis,60,ES 60
+Plagiotrochus quercusilicis,bisexual,Sycophila variegata,580,"AD 2,ES 527,JO 51"
+Plagiotrochus quercusilicis,bisexual,Megastigmus dorsalis,9,JO 9
+Plagiotrochus quercusilicis,bisexual,Torymus flavipes,50,ES 50
+Plagiotrochus quercusilicis,bisexual,Torymus notatus,36,"AD 2,ES 32,JO 2"
+Plagiotrochus quercusilicis,bisexual,Ormyrus pomaceus,60,"ES 56,FR 3,JO 1"
+Plagiotrochus quercusilicis,bisexual,Cecidostiba atra,2,ES 2
+Plagiotrochus quercusilicis,bisexual,Cecidostiba ilicina,79,"AD 2,ES 71,JO 6"
+Plagiotrochus quercusilicis,bisexual,Mesopolobus dubius,4,ES 4
+Plagiotrochus quercusilicis,bisexual,Mesopolobus lichtensteini,97,"ES 97,FR"
+Plagiotrochus quercusilicis,bisexual,Mesopolobus mediterraneus,30,"ES 20,FR 2,IT 4,TN 4"
+Plagiotrochus quercusilicis,bisexual,Mesopolobus tarsatus,3,ES 3
+Plagiotrochus quercusilicis,bisexual,Mesopolobus tibialis,106,"AD 11,ES 95"
+Plagiotrochus quercusilicis,bisexual,(Nieves-Aldrey 1983a; Pujade-Villar 1994a; Pujade-Villar & Ros-Farré 1998a; Bellido & Pujade-Villar 1999a; Garrido Torres & Nieves-Aldrey 1999),,IT
+Plagiotrochus quercusilicis,bisexual,Mesopolobus xanthocerus,6,ES 6
+Plagiotrochus quercusilicis,bisexual,Eupelmus seculatus,3,ES 3
+Plagiotrochus quercusilicis,bisexual,Eupelmus spongipartus,,DZ
+Plagiotrochus quercusilicis,bisexual,Eupelmus urozonus,1,ES 1
+Plagiotrochus quercusilicis,bisexual,Eupelmus vesicularis,1,ES 1
+Plagiotrochus quercusilicis,bisexual,Aulogymnus arsames,60,"AD,ES 60"
+Plagiotrochus quercusilicis,bisexual,Aulogymnus bicolor,37,"AD 4,ES 21,JO 12"
+Plagiotrochus quercusilicis,bisexual,Aprostocetus aethiops,1,ES 1
+Plagiotrochus quercusilicis,bisexual,Aprostocetus fusificola,,FR
+Plagiotrochus quercusilicis,bisexual,Pediobius rotundatus,1175,"AD 5,ES 114,JO 4,TR 9,TN 13"
+Plagiotrochus razeti,bisexual,Saphonecrus gallaepomiformis,1,ES 1
+Plagiotrochus razeti,bisexual,Synergus crassicornis,24,ES 24
+Plagiotrochus razeti,bisexual,Sycophila binotata,1,ES 1
+Plagiotrochus razeti,bisexual,Torymus notatus,1,ES 1
+Plagiotrochus razeti,bisexual,Ormyrus pomaceus,1,ES 1
+Plagiotrochus razeti,bisexual,Ormocerus latus,4,ES 4
+Plagiotrochus razeti,bisexual,Mesopolobus dubius,2,ES 2
+Plagiotrochus razeti,bisexual,Mesopolobus lichtensteini,17,ES 17
+Plagiotrochus razeti,bisexual,Mesopolobus tibialis,1,ES 1
+Plagiotrochus razeti,bisexual,Eupelmus urozonus,1,ES 1
+Plagiotrochus razeti,bisexual,Plagiotrochus razeti,,NA
+Plagiotrochus razeti,bisexual,Synergus crassicornis,1,ES 1
+Plagiotrochus razeti,bisexual,Saphonecrus gallaepomiformis,1,ES 1
+Plagiotrochus razeti,bisexual,Mesopolobus lichtensteini,1,ES 1
+Plagiotrochus vilageliui,asexual,Saphonecrus gallaepomiformis,2,ES 2
+Plagiotrochus vilageliui,asexual,Aulogymnus bicolor,1,ES 1
+Plagiotrochus vilageliui,asexual,Aprostocetus fusificola,1,ES 1
+Plagiotrochus vilageliui,asexual,Pediobius rotundatus,2,ES 2
+Plagiotrochus yeusei,asexual,Ceroptres cerri,,ES
+Plagiotrochus yeusei,asexual,Saphonecrus barbotini,,ES
+Plagiotrochus yeusei,asexual,Saphonecrus gallaepomiformis,7,"ES 5,FR 2,PT"
+Plagiotrochus yeusei,asexual,Synergus crassicornis,9,"DZ 7,ES 2"
+Plagiotrochus yeusei,asexual,Synergus plagiotrochi,1,ES 1
+Plagiotrochus yeusei,asexual,Megastigmus dorsalis,1,ES 1
+Plagiotrochus yeusei,asexual,Mesopolobus lichtensteini,1,ES 1
+Plagiotrochus yeusei,asexual,Eupelmus seculatus,2,ES 2
+Pseudoneuroterus macropterus,asexual,Ceroptres cerri,545,"AT 13,HU 532"
+Pseudoneuroterus macropterus,asexual,Synergus flavipes,344,"AT 42,HU 302,IT"
+Pseudoneuroterus macropterus,asexual,Synergus thaumacerus,,HU 3
+Pseudoneuroterus macropterus,asexual,Synergus tibialis,,AT
+Pseudoneuroterus macropterus,asexual,Synergus umbraculus,,IT
+Pseudoneuroterus macropterus,asexual,Synergus variabilis,,AT
+Pseudoneuroterus macropterus,asexual,Eurytoma brunniventris,22,"AT,HU 22"
+Pseudoneuroterus macropterus,asexual,Eurytoma setigera,4,TR 4
+Pseudoneuroterus macropterus,asexual,Eurytoma schaeferi,1,HU 1
+Pseudoneuroterus macropterus,asexual,Sycophila biguttata,11,AT 2
+Pseudoneuroterus macropterus,asexual,Sycophila flavicollis,1,HU 1
+Pseudoneuroterus macropterus,asexual,Sycophila variegata,79,"AT 15,HU 64"
+Pseudoneuroterus macropterus,asexual,Megastigmus ?dorsalis,26,TR 26
+Pseudoneuroterus macropterus,asexual,Megastigmus dorsalis,200,"AT,HU 200"
+Pseudoneuroterus macropterus,asexual,Torymus sp.,1,HU 1
+Pseudoneuroterus macropterus,asexual,Ormyrus pomaceus,15,"AT 11,HU 4,TR ğ"
+Pseudoneuroterus macropterus,asexual,Caenacis lauta,19,HU 19
+Pseudoneuroterus macropterus,asexual,Cecidostiba fungosa,9,HU 9
+Pseudoneuroterus macropterus,asexual,Cecidostiba saportai,9,HU 9
+Pseudoneuroterus macropterus,asexual,Hobbya stenonota,19,"AT,HU 19"
+Pseudoneuroterus macropterus,asexual,Mesopolobus dubius,1,HU 1
+Pseudoneuroterus macropterus,asexual,Mesopolobus sp.,6,HU 6
+Pseudoneuroterus macropterus,asexual,Eupelmus spongipartus,2,"AT,HU 2"
+Pseudoneuroterus macropterus,asexual,Eupelmus urozonus,17,"AT,HU 13,UA 4"
+Pseudoneuroterus macropterus,asexual,Aprostocetus aethiops,4,HU 4
+Pseudoneuroterus macropterus,asexual,Baryscapus ?pallidae,2,HU 2
+Pseudoneuroterus saliens,bisexual,Ceroptres cerri,26,"AT 20,ES,HU 6"
+Pseudoneuroterus saliens,bisexual,Synergus flavipes,7,HU 7
+Pseudoneuroterus saliens,bisexual,Synergus thaumacerus,150,"AT,HU 150"
+Pseudoneuroterus saliens,bisexual,Eurytoma brunniventris,30,"AT,GB 3,HU 27"
+Pseudoneuroterus saliens,bisexual,Sycophila biguttata,293,"AT 9,ES 83,GB 66,HU 135"
+Pseudoneuroterus saliens,bisexual,Sycophila binotata,,ES
+Pseudoneuroterus saliens,bisexual,Sycophila flavicollis,,ES
+Pseudoneuroterus saliens,bisexual,Sycophila variegata,79,"AT 1,ES 31,HU 21,IT"
+Pseudoneuroterus saliens,bisexual,Megastigmus dorsalis,16,"AT,ES 3,GB 3,HU 10"
+Pseudoneuroterus saliens,bisexual,Torymus auratus,1,"ES,HU 1"
+Pseudoneuroterus saliens,bisexual,Torymus ?cyaneus,1,HU 1
+Pseudoneuroterus saliens,bisexual,Torymus flavipes,61,GB 61
+Pseudoneuroterus saliens,bisexual,Ormyrus pomaceus,8,"AT 1,ES 2,HU 5,RO"
+Pseudoneuroterus saliens,bisexual,Ormocerus vernalis,2,HU 2
+Pseudoneuroterus saliens,bisexual,Cecidostiba fungosa,184,"AT,ES 1,GB 40,HU 143,RO"
+Pseudoneuroterus saliens,bisexual,Mesopolobus dubius,3,IT
+Pseudoneuroterus saliens,bisexual,Mesopolobus fasciiventris,2,AT 2
+Pseudoneuroterus saliens,bisexual,Mesopolobus fuscipes,5,"GB 3,HU 2"
+Pseudoneuroterus saliens,bisexual,Mesopolobus lichtensteini,9,ES 9
+Pseudoneuroterus saliens,bisexual,Mesopolobus mediterraneus,7,IT
+Pseudoneuroterus saliens,bisexual,Mesopolobus tibialis,59,"AT,ES,GB 28,HU 31"
+Pseudoneuroterus saliens,bisexual,Mesopolobus xanthocerus,4,"ES,HU 4"
+Pseudoneuroterus saliens,bisexual,Eupelmus spongipartus,1,HU 1
+Pseudoneuroterus saliens,bisexual,Eupelmus urozonus,9,"AT,ES,HU 7,IT"
+Pseudoneuroterus saliens,bisexual,Aulogymnus balani,21,ES 21
+Pseudoneuroterus saliens,bisexual,Aulogymnus gallarum,18,HU 18
+Pseudoneuroterus saliens,bisexual,Aulogymnus obscuripes,1,HU 1
+Pseudoneuroterus saliens,bisexual,Aulogymnus skianeuros,188,HU 188
+Pseudoneuroterus saliens,bisexual,Aulogymnus testaceoviridis,4,HU 4
+Pseudoneuroterus saliens,bisexual,Aprostocetus aethiops,3,"HU 2,UA 1"
+Pseudoneuroterus saliens,bisexual,Aprostocetus ?biorrhizae,3,HU 3
+Pseudoneuroterus saliens,bisexual,Aprostocetus cerricola,21,HU 21
+Pseudoneuroterus saliens,bisexual,Baryscapus ?pallidae,4,HU 4
+Pseudoneuroterus saliens,bisexual,Pseudoneuroterus saliens,,NA
+Pseudoneuroterus saliens,bisexual,Ceroptres cerri,,AT
+Pseudoneuroterus saliens,bisexual,Saphonecrus haimi,62,"AT 2,DZ,HU 60"
+Pseudoneuroterus saliens,bisexual,Synergus flavipes,7,HU 7
+Pseudoneuroterus saliens,bisexual,Synergus pallipes,41,"DZ,HU 41"
+Pseudoneuroterus saliens,bisexual,Synergus thaumacerus,20,HU 20
+Pseudoneuroterus saliens,bisexual,Eurytoma brunniventris,32,"AT,HU 30,IT 2"
+Pseudoneuroterus saliens,bisexual,Eurytoma setigera,1,HU 1
+Pseudoneuroterus saliens,bisexual,Sycophila biguttata,3,HU 3
+Pseudoneuroterus saliens,bisexual,Megastigmus dorsalis,2,HU 2
+Pseudoneuroterus saliens,bisexual,Torymus ?cyaneus,1,HU 1
+Pseudoneuroterus saliens,bisexual,Ormyrus pomaceus,5,HU 5
+Pseudoneuroterus saliens,bisexual,Cecidostiba fungosa,16,HU 16
+Pseudoneuroterus saliens,bisexual,Mesopolobus fasciiventris,2,HU 2
+Pseudoneuroterus saliens,bisexual,Eupelmus ?matranus,4,HU 4
+Pseudoneuroterus saliens,bisexual,Eupelmus urozonus,3,HU 3
+Pseudoneuroterus saliens,bisexual,Aulogymnus balani,,ES
+Pseudoneuroterus saliens,bisexual,Aulogymnus gallarum,2,HU 2
+Pseudoneuroterus saliens,bisexual,Aprostocetus aethiops,50,HU 50
+Pseudoneuroterus saliens,bisexual,Aprostocetus cerricola,1,HU 1
+Pseudoneuroterus saliens,bisexual,Baryscapus ?pallidae,31,HU 31
+Pseudoneuroterus saliens,bisexual,Pediobius rotundatus,,ES
+Synophrus olivieri,Synophrus olivieri Kieffer,Ceroptres cerri,1,JO 1
+Synophrus olivieri,Synophrus olivieri Kieffer,Synergus synophri,,DZ
+Synophrus olivieri,Synophrus olivieri Kieffer,Sycophila biguttata,,TN 1
+Synophrus olivieri,Synophrus olivieri Kieffer,Megastigmus dorsalis,6,TN 6
+Synophrus olivieri,Synophrus olivieri Kieffer,Torymus cerri,80,TN 80
+Synophrus olivieri,Synophrus olivieri Kieffer,Ormocerus latus,1,TN 1
+Synophrus olivieri,Synophrus olivieri Kieffer,Cecidostiba ?fungosa,5,TN 5
+Synophrus olivieri,Synophrus olivieri Kieffer,Eupelmus cerris,1,TN 1
+Synophrus olivieri,Synophrus olivieri Kieffer,Aulogymnus balani,3,TN 3
+Synophrus politus,Synophrus politus Hartig,Ceroptres cerri,8,"AT 7,HU 1"
+Synophrus politus,Synophrus politus Hartig,Saphonecrus undulatus,,HU
+Synophrus politus,Synophrus politus Hartig,Synergus physocerus,,HU
+Synophrus politus,Synophrus politus Hartig,Synergus thaumacerus,,"AT,HU"
+Synophrus politus,Synophrus politus Hartig,Synergus variabilis,,AT
+Synophrus politus,Synophrus politus Hartig,Sycophila biguttata,24,"AT 16,BG 4,HU 4"
+Synophrus politus,Synophrus politus Hartig,Sycophila flavicollis,3,BG 3
+Synophrus politus,Synophrus politus Hartig,Sycophila iracemae,3,GR 3
+Synophrus politus,Synophrus politus Hartig,Megastigmus dorsalis,9,"AT,HU 9"
+Synophrus politus,Synophrus politus Hartig,Megastigmus stigmatizans,,AT
+Synophrus politus,Synophrus politus Hartig,Megastigmus synophri,78,"AT 15,BG 27,GR 1,HU 35"
+Synophrus politus,Synophrus politus Hartig,Torymus auratus,,AT
+Synophrus politus,Synophrus politus Hartig,Torymus cerri,,"AT,FR,HU"
+Synophrus politus,Synophrus politus Hartig,Torymus ?cyaneus,1,HU 1
+Synophrus politus,Synophrus politus Hartig,Torymus notatus,,HU
+Synophrus politus,Synophrus politus Hartig,Ormyrus nitidulus,4,TR 4
+Synophrus politus,Synophrus politus Hartig,Ormyrus sp.,4,HU 4
+Synophrus politus,Synophrus politus Hartig,Eupelmus cerris,31,"AT,BG 5,ES 10,HU 16,IT "
+Synophrus politus,Synophrus politus Hartig,Eupelmus spongipartus,6,"GR 2,HU 4,RO"
+Synophrus politus,Synophrus politus Hartig,Eupelmus ?synophri,,IT 
+Synophrus politus,Synophrus politus Hartig,Eupelmus urozonus,4,HU 4
+Synophrus politus,Synophrus politus Hartig,Reikosiella rostrata,,HU
+Synophrus politus,Synophrus politus Hartig,Aulogymnus trilineatus,8,HU 8
+Synophrus politus,Synophrus politus Hartig,Aprostocetus aethiops,1,HU 1
+Synophrus politus,Synophrus politus Hartig,Baryscapus ?diaphantus,4,HU 4
+Trigonaspis bruneicornis,asexual,Synergus pallipes,,ES
+Trigonaspis bruneicornis,asexual,Synergus radiatus,2,ES 2
+Trigonaspis bruneicornis,asexual,Synergus thaumacerus,,ES
+Trigonaspis bruneicornis,asexual,Ormyrus pomaceus,50,ES 50
+Trigonaspis bruneicornis,asexual,Eupelmus urozonus,5,ES 5
+Trigonaspis bruneicornis,asexual,Eupelmus vesicularis,4,ES 4
+Trigonaspis bruneicornis,asexual,Aprostocetus aethiops,2,ES 2
+Trigonaspis megaptera,bisexual,Synergus facialis,43,"AT,DE,FR,GB 43,NL,PL,UA"
+Trigonaspis megaptera,bisexual,Synergus pallipes,,AT
+Trigonaspis megaptera,bisexual,Synergus thaumacerus,30,"AD,AT,DE,FR,GB 30,NL,SE öl,UA"
+Trigonaspis megaptera,bisexual,Torymus fastuosus,8,"AT,DE,FR,GB 8,HR,PL,SE öl"
+Trigonaspis megaptera,bisexual,Torymus formosus,,DE
+Trigonaspis megaptera,bisexual,Torymus nobilis,,"DK,RO"
+Trigonaspis megaptera,bisexual,Mesopolobus dubius,8,GB 8
+Trigonaspis megaptera,bisexual,Mesopolobus fuscipes,56,GB 56
+Trigonaspis megaptera,bisexual,Mesopolobus tibialis,3,"AT 1,GB 2"
+Trigonaspis megaptera,bisexual,Aulogymnus trilineatus,1,GB 1
+Trigonaspis megaptera,bisexual,Trigonaspis megaptera,,NA
+Trigonaspis megaptera,bisexual,Synergus facialis,,"AT,DE,DK,NL,PL"
+Trigonaspis megaptera,bisexual,Synergus pallicornis,,PL
+Trigonaspis megaptera,bisexual,Synergus pallipes,37,"AD,AT,DE,GB 37,NL,PL,UA"
+Trigonaspis megaptera,bisexual,Synergus radiatus,,"GB,HU 1,UA"
+Trigonaspis megaptera,bisexual,Synergus ruficornis,,PL
+Trigonaspis megaptera,bisexual,Synergus thaumacerus,6,"AD,AT,DE,FR,GB,HU 6,NL,PL,UA"
+Trigonaspis megaptera,bisexual,Synergus tibialis,,DE
+Trigonaspis megaptera,bisexual,Sycophila biguttata,23,AT 23
+Trigonaspis megaptera,bisexual,Torymus auratus,1,HU 1
+Trigonaspis megaptera,bisexual,Torymus ?cyaneus,1,HU 1
+Trigonaspis megaptera,bisexual,Torymus flavipes,,"AT,DE,FR"
+Trigonaspis megaptera,bisexual,Torymus sp.,13,HU 13
+Trigonaspis megaptera,bisexual,Cecidostiba fungosa,1,HU 1
+Trigonaspis megaptera,bisexual,Mesopolobus fasciiventris,1,"DE,GB 1,PL"
+Trigonaspis megaptera,bisexual,Aulogymnus sp.,1,HU 1
+Trigonaspis megaptera,bisexual,?Pediobius lysis,,PL
+Trigonaspis mendesi,asexual,Synergus pallipes,9,"ES 9,PT"
+Trigonaspis mendesi,asexual,Synergus thaumacerus,5,"ES 5,RO"
+Trigonaspis mendesi,asexual,Synergus umbraculus,,PT
+Trigonaspis mendesi,asexual,Sycophila biguttata,37,ES 37
+Trigonaspis mendesi,asexual,Ormyrus pomaceus,56,ES 56
+Trigonaspis mendesi,asexual,Mesopolobus dubius,2,ES 2

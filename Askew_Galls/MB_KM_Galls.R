@@ -79,4 +79,30 @@ m2[, Per_country := sapply(n, function(x) paste(x, collapse = ","))]
 # rearrange and clean
 m3 <- m2[, .(Gall_sp, Status, Parasitoid, Total_number, Per_country)]
 
-fwrite(m3, "./MB_KM_galls.csv")
+# split the per country column
+m3[, Per_country := strsplit(Per_country, ",")]
+# fwrite(m3, "./MB_KM_galls.csv")
+
+# I need this list column to be cast so each element of the list is returned as a separate row
+# could either take each element out as a separate column (inefficient?)
+# or label each record with unique ID and merge later
+m3[, ID := 1:nrow(m3)]
+# group by unique ID                                       then! merge back with data
+m4 <- m3[,.(Per_country = unlist(Per_country)), by = .(ID)][m3[,-c("Per_country", "Total_number")], on=.(ID)]
+# create the Total Number again
+m4[, Number := stringi::stri_extract_first_regex(str = m4$Per_country, pattern = "[[:digit:]]+")]
+# fix Per_country & names
+m4[, Per_country := gsub(" .*", "", Per_country)]
+
+Country <- "Andorra, Austria, Azerbaijan, Belgium, Bulgaria, Switzerland, Czech Republic, Germany, Denmark, Algeria, Spain, Finland, France, United Kingdom, Greece, Croatia, Hungary, Ireland,Israel, Italy, Jordan, Lebanon, Morocco, Moldova, Netherlands, Poland, Portugal, Romania, Serbia, Russian Federation, Sweden, Slovenia, Slovakia, Tunisia, Turkey, Ukraine, Yugoslavia"
+Per_country <- c("AD, AT, AZ, BE, BG, CH, CZ, DE, DK, DZ, ES, FI, FR, GB, GR, HR, HU, IE, IS, IT, JO, LB, MA, MD, NL, PL, PT, RO, RS, RU, SE, SI, SK, TN, TR, UA, YU")
+
+country_names <- data.table(Per_country = sapply(Per_country, function(x) strsplit(x, ","))[[1]],
+                            Country = sapply(Country, function(x) strsplit(x, ","))[[1]])
+country_names[,Country := gsub("^ ", "", Country)]
+country_names[,Per_country := gsub(" ", "", Per_country)]
+
+# final fix
+m5 <- country_names[m4, on = .(Per_country)]
+
+fwrite(m5[,.(Per_country,Country,Gall_sp,Status,Parasitoid,Number)], "./MB_KM_galls280220.csv")

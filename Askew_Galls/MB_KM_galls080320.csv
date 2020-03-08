@@ -572,7 +572,7 @@ AT, Austria,282,Andricus coronatus,asexual,Ormyrus pomaceus,1,
 HR, Croatia,282,Andricus coronatus,asexual,Ormyrus pomaceus,1,Q. pubescens 
 HU, Hungary,282,Andricus coronatus,asexual,Ormyrus pomaceus,12,Q. pubescens 
 RO, Romania,282,Andricus coronatus,asexual,Ormyrus pomaceus,,
-"",,283,Andricus coronatus,asexual,Cecidostiba fungosa,,
+,,283,Andricus coronatus,asexual,Cecidostiba fungosa,,
 GR, Greece,283,Andricus coronatus,asexual,Cecidostiba fungosa,3,Q. pubescens 
 HU, Hungary,283,Andricus coronatus,asexual,Cecidostiba fungosa,11,Q. pubescens 
 IT, Italy,283,Andricus coronatus,asexual,Cecidostiba fungosa,1,Q. petraea
@@ -3314,7 +3314,7 @@ HU, Hungary,1513,Andricus vindobonensis,bisexual,Cecidostiba fungosa,,
 HU, Hungary,1514,Andricus vindobonensis,bisexual,Cecidostiba semifascia,1,
 AT, Austria,1515,Andricus vindobonensis,bisexual,Mesopolobus amaenus,,
 UA, Ukraine,1515,Andricus vindobonensis,bisexual,Mesopolobus amaenus,9,
-"",,1516,Andricus vindobonensis,bisexual,Mesopolobus fasciiventris,,
+,,1516,Andricus vindobonensis,bisexual,Mesopolobus fasciiventris,,
 HU, Hungary,1517,Andricus vindobonensis,bisexual,Mesopolobus fuscipes,14,Q. cerris
 HU, Hungary,1518,Andricus vindobonensis,bisexual,Mesopolobus tibialis,1,Q. cerris
 RO, Romania,1519,Andricus vindobonensis,bisexual,Mesopolobus sp.,5,Q. cerris 
@@ -3403,7 +3403,7 @@ RO, Romania,1553,Aphelonyx cerricola,asexual,Mesopolobus fasciiventris,,
 GB, United Kingdom,1555,Aphelonyx cerricola,asexual,Mesopolobus sericeus,1,
 AT, Austria,1556,Aphelonyx cerricola,asexual,Eupelmus cerris,,
 HU, Hungary,1556,Aphelonyx cerricola,asexual,Eupelmus cerris,1,Q. cerris 
-"",,1556,Aphelonyx cerricola,asexual,Eupelmus cerris,,
+,,1556,Aphelonyx cerricola,asexual,Eupelmus cerris,,
 AT, Austria,1557,Aphelonyx cerricola,asexual,Eupelmus spongipartus,,
 HU, Hungary,1557,Aphelonyx cerricola,asexual,Eupelmus spongipartus,4,Q. cerris 
 RO, Romania,1557,Aphelonyx cerricola,asexual,Eupelmus spongipartus,,
@@ -3610,7 +3610,7 @@ HR, Croatia,1602,Biorhiza pallida,bisexual,Hobbya stenonota,5,Q. robur
 HU, Hungary,1602,Biorhiza pallida,bisexual,Hobbya stenonota,129,Q. pubescens Q. robur 
 IE, Ireland,1602,Biorhiza pallida,bisexual,Hobbya stenonota,2,
 RO, Romania,1602,Biorhiza pallida,bisexual,Hobbya stenonota,,
-"",,1602,Biorhiza pallida,bisexual,Hobbya stenonota,,
+,,1602,Biorhiza pallida,bisexual,Hobbya stenonota,,
 SE, Sweden,1602,Biorhiza pallida,bisexual,Hobbya stenonota,,
 AT, Austria,1603,Biorhiza pallida,bisexual,Mesopolobus amaenus,,
 DE, Germany,1603,Biorhiza pallida,bisexual,Mesopolobus amaenus,1,
@@ -4326,7 +4326,7 @@ FI, Finland,1895,Cynips longiventris,asexual,Baryscapus ?pallidae,1,Q. robur
 HU, Hungary,1896,Cynips quercus,asexual,Ceroptres cerri,1,Q. pubescens 
 GR, Greece,1897,Cynips quercus,asexual,Synergus facialis,1,Q. frainetto 
 HU, Hungary,1897,Cynips quercus,asexual,Synergus facialis,7,Q. pubescens 
-"",,1897,Cynips quercus,asexual,Synergus facialis,,
+,,1897,Cynips quercus,asexual,Synergus facialis,,
 HU, Hungary,1898,Cynips quercus,asexual,Synergus hayneanus,3,Q. pubescens
 ES, Spain,1899,Cynips quercus,asexual,Synergus pallicornis,13,Q. pyrenaica 
 HU, Hungary,1900,Cynips quercus,asexual,"Pujade-Villar 1992d, 2003; Nieves-Aldrey 2001b)",15,Q. pubescens 
@@ -4336,7 +4336,7 @@ GR, Greece,1901,Cynips quercus,asexual,Synergus pallipes,2,
 HU, Hungary,1901,Cynips quercus,asexual,Synergus pallipes,32,Q. pubescens 
 UA, Ukraine,1901,Cynips quercus,asexual,Synergus pallipes,,
 HU, Hungary,1902,Cynips quercus,asexual,Synergus physocerus,4,Q. pubescens 
-"",,1902,Cynips quercus,asexual,Synergus physocerus,,
+,,1902,Cynips quercus,asexual,Synergus physocerus,,
 ES, Spain,1903,Cynips quercus,asexual,Synergus radiatus,2,Q. pyrenaica 
 HU, Hungary,1903,Cynips quercus,asexual,Synergus radiatus,2,Q. pubescens 
 UA, Ukraine,1903,Cynips quercus,asexual,Synergus radiatus,,

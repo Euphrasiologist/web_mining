@@ -1,5 +1,6 @@
 library(data.table)
 library(stringi)
+# this document has be iteratively updated based on errors.
 test <- fread(text = "./2013AskewZootaxa_KM_290120.txt", sep = "\n", header = FALSE)
 
 # I think got to create a factor determining whether it is a gall wasp or not.
@@ -134,4 +135,4 @@ country_names[,Country := gsub("^ ", "", Country)]
 # final fix
 m5 <- country_names[m4, on = .(Country)]#[,-c("Per_country", "ID")]
 
-fwrite(m5, "./MB_KM_galls080320.csv")
+fwrite(m5, "./MB_KM_galls080320_3.csv")

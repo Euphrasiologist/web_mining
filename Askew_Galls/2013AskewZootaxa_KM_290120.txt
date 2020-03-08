@@ -98,8 +98,7 @@ Synergus hayneanus (2) / HU (2) Q. pubescens*
 Synergus pallicornis (1) / HU (1) Q. pubescens*
 Synergus pallipes (7) / AT (Mayr 1872) / HU (7) Q. petraea, Q. pubescens*
 Synergus reinhardi / AT (Mayr 1872) / HU (Pujade-Villar, Melika et al. 2003) / UA (Diakontschuk & Melika 1994)
-Synergus umbraculus (20) / AT (Mayr 1872) / HU (20) Q. pubescens (Pujade-Villar, Melika et al. 2003) / UA
-(Diakontschuk & Melika 1994)
+Synergus umbraculus (20) / AT (Mayr 1872) / HU (20) Q. pubescens (Pujade-Villar, Melika et al. 2003) / UA (Diakontschuk & Melika 1994)
 Eurytoma adleriae (1) / SK (1)*
 Eurytoma brunniventris (30) / AT (Mayr 1878) / BG (1) (Stojanova 2006) / HU (29) Q. petraea, Q. pubescens, Q.robur (Melika et al. 2002b) / RO (Andriescu 1974)
 Eurytoma setigera / HU (Melika et al. 2002b)

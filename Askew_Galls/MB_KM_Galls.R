@@ -10,16 +10,16 @@ table(test$V2)
 # remove genera
 test <- test[!test$V2,][,.(V1)]
 # match rows on a regex for species of gall wasp. Upper, lower, space, lower, upper (or parenthesis and capital)
-vec <- grep(pattern = "^[[:upper:]]{1}[[:lower:]]* [[:lower:]]* [[:upper:]]{1}|^[[:upper:]]{1}[[:lower:]]* [[:lower:]]* \\([[:upper:]]", x = test$V1)
+vec <- grep(pattern = "^[[:upper:]]{1}[[:lower:]]* [[:lower:]]* [[:upper:]]{1}|^[[:upper:]]{1}[[:lower:]]* [[:lower:]]* \\([[:upper:]]|^[[:upper:]]{1}[[:lower:]]* [[:lower:]]* \\([[:lower:]]", x = test$V1)
 length(vec) # 114 gall wasp species?
 
 # split the list on gall wasp species
 lis <- list()
-for(i in 1:113){
+for(i in 1:155){
   j <- i+1
     lis[[i]] <- test[vec[i:j][1]:(vec[i:j][2]-1)]
 }
-lis[113]
+lis[155]
 # in lis, first element is the gall wasp species.
 
 # what are all the countries?
@@ -27,7 +27,7 @@ countries <- c("AD, AT, AZ, BE, BG, CH, CZ, DE, DK, DZ, ES, FI, FR, GB, GR, HR, 
 countries <- gsub(", ", "|", countries)
 
 countries <- stringi::stri_replace_all_regex(str = countries, pattern = "\\|", replacement = ").{8}|(?=")
-countries <- paste0("(?=", countries, ").{10}")
+countries <- paste0("(?=", countries, ").{8}")
 
 
 m<-lapply(lis, function(x){
@@ -61,8 +61,6 @@ m<-lapply(lis, function(x){
 # list 113 has a duplicate column for some reason.
 # m[[113]] <- m[[113]][, -"Gall_sp.Gall_sp"]
 m2 <- rbindlist(m)
-
-x <- m2$Per_country[[5]]
 
 n <- lapply(m2$Per_country, function(x){
   # remove first element
@@ -128,12 +126,12 @@ m4 <- m4[,-"Per_country"]
 Country <- "Andorra, Austria, Azerbaijan, Belgium, Bulgaria, Switzerland, Czech Republic, Germany, Denmark, Algeria, Spain, Finland, France, United Kingdom, Greece, Croatia, Hungary, Ireland,Israel, Italy, Jordan, Lebanon, Morocco, Moldova, Netherlands, Poland, Portugal, Romania, Serbia, Russian Federation, Sweden, Slovenia, Slovakia, Tunisia, Turkey, Ukraine, Yugoslavia"
 Per_country <- c("AD, AT, AZ, BE, BG, CH, CZ, DE, DK, DZ, ES, FI, FR, GB, GR, HR, HU, IE, IS, IT, JO, LB, MA, MD, NL, PL, PT, RO, RS, RU, SE, SI, SK, TN, TR, UA, YU")
 
-country_names <- data.table(Countr = sapply(Per_country, function(x) strsplit(x, ","))[[1]],
-                            Country = sapply(Country, function(x) strsplit(x, ","))[[1]])
+country_names <- data.table(Country = sapply(Per_country, function(x) strsplit(x, ","))[[1]],
+                            Country2 = sapply(Country, function(x) strsplit(x, ","))[[1]])
 country_names[,Country := gsub("^ ", "", Country)]
-country_names[,Per_country := gsub(" ", "", Per_country)]
+#country_names[,Per_country := gsub(" ", "", Per_country)]
 
 # final fix
-m5 <- country_names[m4, on = .(Per_country)]
+m5 <- country_names[m4, on = .(Country)]#[,-c("Per_country", "ID")]
 
-fwrite(m5[,.(Per_country,Country,Gall_sp,Status,Parasitoid,Number)], "./MB_KM_galls280220.csv")
+fwrite(m5, "./MB_KM_galls080320.csv")

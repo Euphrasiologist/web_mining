@@ -14,7 +14,8 @@ Eurytoma setigera (1) / AT (1) (Mayr 1878)
 Sycophila biguttata (4) / HU (4) Q. pubescens*
 Sycophila flavicollis (1) / HU (1) Q. pubescens*
 Sycophila variegata (1) / HU (1) Q. petraea*
-Ormyrus nitidulus / RO (Andriescu 1974)Ormyrus pomaceus (31) / AT (6) (Mayr 1904) / HU (25) Q. pubescens*
+Ormyrus nitidulus / RO (Andriescu 1974)
+Ormyrus pomaceus (31) / AT (6) (Mayr 1904) / HU (25) Q. pubescens*
 Caenacis lauta (1) / HU (1) Q. pubescens*
 Eupelmus urozonus (4) / HU (4) Q. pubescens*
 Andricus amenti Giraud (bisexual)
@@ -60,7 +61,8 @@ Cecidostiba fungosa (2) / TR (2) Q. infectoria*
 Andricus burgundus Giraud (bisexual) [see also Synophrus politus]
 Ceroptres cerri (41) / AT (8) (Pujade-Villar & Nieves-Aldrey 1993) / HU (33) Q. cerris (Pujade-Villar, Melika et al. 2003)
 Synophrus politus / ES (Nieves-Aldrey 2001a; Pujade-Villar, Melika et al. 2003; Chust et al. 2007)
-Eurytoma brunniventris (1) / HU (1) Q. cerris*Sycophila biguttata (3) / ES (1) Q. suber (Nieves-Aldrey 1983c) / HU (2) Q. cerris*
+Eurytoma brunniventris (1) / HU (1) Q. cerris*
+Sycophila biguttata (3) / ES (1) Q. suber (Nieves-Aldrey 1983c) / HU (2) Q. cerris*
 Sycophila variegata (1) / ES (1) Q. suber (Nieves-Aldrey 1983c)
 Megastigmus dorsalis (1) / HU (1) Q. cerris*
 Torymus auratus / ES Q. suber (Chust et al. 2007)
@@ -74,8 +76,7 @@ Mesopolobus amaenus (8) / HU (7) Q. cerris* / IT (Sardinia) (1) Q. suber (Pujade
 Mesopolobus dubius / ES Q. suber (Chust et al. 2007)
 Mesopolobus fasciiventris (1) / HU (1) Q. cerris*
 Mesopolobus fuscipes (27) / HU (27) Q. cerris*
-Mesopolobus lichtensteini (3) / ES (2) Q. suber (Garrido Torres & Nieves-Aldrey 1999) / IT (Sardinia) (1) Q. suber
-(Pujade-Villar 2005)
+Mesopolobus lichtensteini (3) / ES (2) Q. suber (Garrido Torres & Nieves-Aldrey 1999) / IT (Sardinia) (1) Q. suber (Pujade-Villar 2005)
 Mesopolobus mediterraneus (2) / ES (2) Q. suber (Pujade-Villar 1994a; Chust et al. 2007)
 Mesopolobus tarsatus (4) / ES (4) (Pujade-Villar 1994a)
 Mesopolobus tibialis (3) / ES (1) Q. suber (Garrido Torres & Nieves-Aldrey 1999) / HU (2) Q cerris*
@@ -147,7 +148,8 @@ Synergus umbraculus (38) / AT (Mayr 1872) / HU (33) Q. petraea, Q. pubescens (Pu
 Eurytoma adleriae (1) / HU (1)*
 Eurytoma brunniventris (48) / AT (Mayr 1878) / BG (1) Q. petraea* / HU (47) Q. petraea, Q. pubescens*
 Eurytoma setigera (8) / AT (1) (Mayr 1878) / HU (7) Q. pubescens*
-Eurytoma sp.(1) / TR (1) Q. petraea*Sycophila biguttata (93) / AT (47) (Mayr 1905) / BG (4) (Stojanova 2006, 2007a) / HU (41) Q. petraea, Q. pubescens* / RO (Andriescu 1974) / TR (1) Q. petraea*
+Eurytoma sp.(1) / TR (1) Q. petraea
+Sycophila biguttata (93) / AT (47) (Mayr 1905) / BG (4) (Stojanova 2006, 2007a) / HU (41) Q. petraea, Q. pubescens* / RO (Andriescu 1974) / TR (1) Q. petraea*
 Sycophila variegata (3) / HU (3) Q. pubescens*
 Megastigmus dorsalis (13) / AT (Mayr 1874) / HU (10) Q. pubescens* / TR (3) Q. petraea*
 Megastigmus stigmatizans (21) / AT (Mayr 1874; Laboulbène 1877) / BG (3) Q. frainetto, Q. petraea (Stojanova 2006) / HU (17) Q. pubescens (Erdös 1946) / TR (1) Q. petraea*
@@ -677,7 +679,7 @@ Hobbya stenonota (14) ES (14) Q. faginea, Q. pyrenaica (Nieves-Aldrey 1982c; Gar
 Mesopolobus amaenus (1) / TR (1) Q. infectoria*
 Mesopolobus sericeus (5) / ES (3) Q. faginea (Garrido Torres & Nieves-Aldrey 1999) / GB (2)*
 Mesopolobus xanthocerus (2) / GB (1)* / HU (1) Q. robur*
-Eupelmus spongipartus (38) / ES (36) Q. faginea, Q. robur (Nieves-Aldrey 1982a) / HU (2) Q. robur*Eupelmus urozonus (13) / ES (1) Q. faginea (Nieves-Aldrey 1982a) / GB (1)* / HU (11) Q. robur* / IT (Mantero 1906)
+Eupelmus spongipartus (38) / ES (36) Q. faginea, Q. robur (Nieves-Aldrey 1982a) / HU (2) Q. roburEupelmus urozonus (13) / ES (1) Q. faginea (Nieves-Aldrey 1982a) / GB (1)* / HU (11) Q. robur* / IT (Mantero 1906)
 Eupelmus vesicularis (1) / HU(1) Q. robur*
 Aulogymnus gallarum (20) / HU (4) Q. robur* / TR (16) Q. infectoria*
 Aulogymnus skianeuros (1) / HU (1) Q. robur* / IT (Sicily) (De Stefani 1898)

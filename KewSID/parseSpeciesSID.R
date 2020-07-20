@@ -1,30 +1,34 @@
 library(data.table)
 
 # mimic readLines
-SID <- fread(text = "/Users/mbrown/OneDrive - University of Edinburgh/web_mining/KewSID/speciesSIDAll.txt", sep = NULL)
+SID <- fread(text = "./speciesSIDAll.txt", sep = NULL)
 
 #remove blank lines
 SID <- SID[`Seed Information Database` != ""]
 
+# change to factor for next step
 SID[, `Seed Information Database` := as.factor(`Seed Information Database`)]
-
+# which lines contain new record, as we split on that
 indexes <- which(SID$`Seed Information Database` %in% "NEW RECORD")
 
+# the lengths of each of the records
 xxx <- indexes - c(0, indexes)
 xxx <- xxx[-length(xxx)]
-
+# add these to the data table
 SID[, factor := as.factor(c(rep(1:length(xxx), xxx)))]
-
+# split on the factor to isolate each record in a list
 splitSID <- split(SID, SID$factor)
-
+# change the resulting data back to character vector, otherwise there's over a million factor levels
 splitSID <- lapply(splitSID, function(x) as.character(x$`Seed Information Database`))
 
-test <- splitSID[[1]]
+# the main function which ID's the rows which contain the data of interest
+# then extracts the information and puts into a new data table, which is 
+# bound at the end. Takes a minute or so, and generates > 50,000 species records
+# I omitted the morphological data because I couldn't be bothered...
 
-applyParse <- lapply(splitSID, function(x){
+applyParse <- lapply(splitSID, function(test){
 # parse rows
 # global
-  test <- x 
 Order <- grep("^APG Order: ", test)
 Family <- grep("^APG Family: ", test)
 KFamily <- grep("^Kew Family: ", test)
@@ -53,6 +57,8 @@ SeedDisp <- grep("^Seed Dispersal$", test) + 1
 OilContent <- grep("^Average of Oil Content \\(%\\): ", test)
 # protein content
 ProteinContent <- grep("^Average of Protein Content \\(%\\):", test)
+
+## might add at some point...
 
 # seed morphological data
 # fruit data
@@ -87,6 +93,7 @@ ProteinContent <- grep("^Average of Protein Content \\(%\\):", test)
 # plant type, Max dS/m: , Photosynthetic Pathway: 
 SaltTolandPhot <- grep("^Plant Type: ", test)
 
+# turn into data table > csv
 data.table(Order = gsub("APG Order: " ,"", test[Order]),
            Family = gsub("APG Family: " ,"", test[Family]),
            KewFamily = gsub("Kew Family: " ,"", test[KFamily]),
@@ -115,4 +122,4 @@ data.table(Order = gsub("APG Order: " ,"", test[Order]),
 
 applyParse2 <- rbindlist(applyParse)
 
-applyParse2[, .(mean(as.numeric(AverageSeedWeight), na.rm = TRUE)), by = .(Family)][order(V1)][1:50]
+fwrite(applyParse2, file = "./scrapedSIDdata.csv")

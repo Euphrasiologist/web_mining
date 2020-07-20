@@ -1,6 +1,6 @@
 # Examples of mining websites for underlying data
 
-There are three examples in this repository:
+The four projects so far (20.07.20):
 
 - Gall wasp and associated parasitoid wasp dataset locked in a PDF. The software "textract" (https://github.com/deanmalmgren/textract) was used to initially parse the PDF, then endlines were clipped (manually, sadly), then an R script was used to parse the text into a data table. The citation is here:
 Askew RR, Melika G, Pujade-Villar J, Schonrogge K, Stone GN, Nieves-Aldrey JL. Catalogue of parasitoids and inquilines in cynipid oak galls in the West Palaearctic, Zootaxa (2013);3643:1-133
@@ -12,6 +12,8 @@ It is maintained by the Mayrose Lab (Plant Evolution, bioinformatics and compara
 - The plant C-value database, which can be found here:
 https://cvalues.science.kew.org/search/
 Leitch IJ, Johnston E, Pellicer J, Hidalgo O, Bennett MD. 2019. Plant DNA C-values database (release 7.1, Apr 2019)
+
+- The Kew Seed Information Database (SID), which was last updated in 2008, contains a wealth of information about ~50,000 different plant species. The entire underlying database is extracted here. Please visit and cite https://data.kew.org/sid/ if you use.
 
 ## Aims
 

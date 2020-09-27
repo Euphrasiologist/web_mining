@@ -159,10 +159,19 @@ function matchFamily(currentFamily) {
 
 var families = [...new Set(famsubfamsp.map(item => item.family))];
 
+// https://stackoverflow.com/questions/50993498/flat-is-not-a-function-whats-wrong
+Object.defineProperty(Array.prototype, 'flat', {
+  value: function(depth = 1) {
+    return this.reduce(function (flat, toFlatten) {
+      return flat.concat((Array.isArray(toFlatten) && (depth>1)) ? toFlatten.flat(depth-1) : toFlatten);
+    }, []);
+  }
+});
+
 for (let i = 0; i < families.length; i++) {
   finaldata.push({
     family: families[i],
-    species: matchFamily(families[i])
+    species: matchFamily(families[i]).flat()
   });
 }
 
@@ -174,7 +183,33 @@ for (let i = 0; i < finaldata.length; i++) {
   }
 }
 
-fs.writeFile('UKMoths.json', JSON.stringify(finaldata), function(err, result) {
+const newdata = [];
+
+  // get the last two words == genus + species
+  function lastTwoWords(words) {
+    var n = words.split(" ");
+    return n[n.length - 2] + " " + n[n.length - 1];
+  }
+
+  function commonName(words) {
+    var n = words.split(" ");
+    n[n.length - 2] = "";
+    n[n.length - 1] = "";
+    return n.join(" ").trim();
+  }
+
+  for (let d = 0; d < finaldata.length; d++) {
+    for (let i = 0; i < finaldata[d].species.length; i++) {
+      newdata.push({
+        family: finaldata[d].family,
+        species: lastTwoWords(finaldata[d].species[i] + ""),
+        common: commonName(finaldata[d].species[i] + ""),
+        type: finaldata[d].type
+      });
+    }
+  }
+
+fs.writeFile('UKMoths.json', JSON.stringify(newdata), function(err, result) {
   if(err) console.log('error', err)
 })
 

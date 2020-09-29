@@ -1,5 +1,8 @@
 library(data.table)
-
+library(taxonlookup)
+library(brranching)
+library(ape)
+setwd("~/OneDrive - University of Edinburgh/web_mining/KewSID/")
 # mimic readLines
 SID <- fread(text = "./speciesSIDAll.txt", sep = NULL)
 
@@ -123,3 +126,102 @@ data.table(Order = gsub("APG Order: " ,"", test[Order]),
 applyParse2 <- rbindlist(applyParse)
 
 fwrite(applyParse2, file = "./scrapedSIDdata.csv")
+
+applyParse2 <- fread("./scrapedSIDdata.csv")
+## OBSERVABLE VIZUALISATION
+
+taxa <- applyParse2[, .(Genus, Species)]
+taxa <- taxa[!grepl("sp\\.", Species)]
+taxa <- taxa[!grepl("spp\\.", Species)]
+
+taxa <- taxa[,.SD[sample(.N, min(1,.N))],by = Genus]
+
+taxa[, new:=do.call(paste,.SD), .SDcols=c("Genus", "Species")]
+
+taxa <- taxa$new
+
+taxa <- as.data.table(taxa)
+
+lookup_ <- lookup_table(species_list = taxa$taxa)
+taxa[, Genus := gsub(" .*", "", taxa)]
+taxa2 <- setDT(lookup_)[taxa, on = .(genus = Genus)]
+
+taxa2 <- taxa2[,.SD[sample(.N, min(1,.N))], by = family]
+
+TREE <- brranching::phylomatic(taxa = taxa2$taxa, get = 'POST')
+
+TREE$tip.label <- gsub("_", " ", TREE$tip.label)
+taxa2[, taxa := tolower(taxa)]
+
+TREE$tip.label <- taxa2[match(TREE$tip.label, taxa2$taxa)]$family
+TREE$tip.label[10] <- "Erythroxylaceae"
+
+firstup <- function(x) {
+  substr(x, 1, 1) <- toupper(substr(x, 1, 1))
+  x
+}
+TREE$node.label <- firstup(TREE$node.label)
+
+# to visualise in observable
+applyParse2[, Species := paste(Genus, Species)]
+observable <- applyParse2[!grepl("Harveya obtusifolia|Taphrospermum altaicum|ixiolirion_tataricum|Vahlia capensis|Cynomorium coccineum|Vahlia digyna|Holmgrenia hanburyi|Tetracarpaea tasmannica", Species)]
+# NOTE: 7 taxa not matched: NA/harveya/harveya_obtusifolia, NA/taphrospermum/taphrospermum_altaicum, NA/ixiolirion/ixiolirion_tataricum, cynomoriaceae/cynomorium/cynomorium_coccineum, vahliaceae/vahlia/vahlia_digyna, NA/holmgrenia/holmgrenia_hanburyi, NA/tetracarpaea/tetracarpaea_tasmannica, ];
+
+
+observable[, Family := firstup(tolower(Family))]
+
+
+Mode <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+
+observable1 <- observable[, .(AvgSeedW = mean(as.numeric(AverageSeedWeight), na.rm = TRUE),
+               AvgOilCon = mean(as.numeric(OilContent), na.rm = TRUE),
+               AvgProCon = mean(as.numeric(ProteinContent), na.rm = TRUE),
+               AvgPerGer = mean(as.numeric(PercentGermination), na.rm = TRUE)),
+               #ModStorage = Mode(StorageBehaviour),
+               #ModSeedDisp = Mode(SeedDisp)), 
+           by = .(Family)]
+
+# make sure family names match between the tree and the data
+drop_these_tips <- setdiff(TREE$tip.label, observable1$Family) # in tree but not in data - remove these
+TREEObs <- drop.tip(phy = TREE, tip = drop_these_tips)
+write.tree(phy = compute.brlen(phy = TREEObs), file = "")
+
+
+drop_these_data <- setdiff(observable1$Family, TREE$tip.label) # in data but not in tree - remove these
+observable2 <- observable1[!Family %in% drop_these_data]
+
+fwrite(observable2, file = "./observable.csv")
+observable <- fread("./observable.csv")
+
+## and dispersal data...
+observable1.1 <- observable[,.(.N), by=.(Family, SeedDisp)]
+observable1.2 <- observable1.1[SeedDisp %in% c("Water", "Wind", "Animal", "Unassisted")]
+
+drop_from_dat <- setdiff(observable1.2$Family, TREE$tip.label) # not in the tree
+observable1.3 <- observable1.2[!Family %in% drop_from_dat]
+observable1.3[, FamN := sum(N), by = .(Family)]
+observable1.3[, PropN := N/FamN]
+
+observable1.4 <- unique(dcast(data = observable1.3, formula = Family ~ SeedDisp, value.var = c("PropN"))[observable1.3[,.(Family, FamN)], on = .(Family)])
+
+TREEObs2 <- compute.brlen(phy = keep.tip(phy = TREE, unique(observable1.3$Family)))
+write.tree(phy = TREEObs2, file = "")
+
+# add orders...
+
+famOrd <- setDT(lookup_table(observable[,.(Species)]$Species))
+famOrd <- unique(famOrd[,.(Family = family, Order = order)])
+
+observable1.5 <- famOrd[observable1.4, on = .(Family)]
+fwrite(x = observable1.5, file = "./observable2.csv")
+
+## new Observable visualisation
+
+newObs <- applyParse2[,.(Family = firstup(tolower(Family)),
+               Species = paste(Genus, Species),
+               AvgSeedW = AverageSeedWeight,
+               OilContent,
+               ProteinContent)][!is.na(AvgSeedW)]

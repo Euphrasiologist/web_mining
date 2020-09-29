@@ -58,7 +58,7 @@ Megastigmus dorsalis (1) / TR (1) Q. infectoria*
 Ormyrus nitidulus (4) / TR (4) Q. infectoria*
 Cecidostiba fungosa (2) / TR (2) Q. infectoria*
 (Ichneumonidae sp.) (1) / TR (1) Q. infectoria*
-Andricus burgundus Giraud (bisexual) [see also Synophrus politus]
+Andricus burgundus Giraud (bisexual) 
 Ceroptres cerri (41) / AT (8) (Pujade-Villar & Nieves-Aldrey 1993) / HU (33) Q. cerris (Pujade-Villar, Melika et al. 2003)
 Synophrus politus / ES (Nieves-Aldrey 2001a; Pujade-Villar, Melika et al. 2003; Chust et al. 2007)
 Eurytoma brunniventris (1) / HU (1) Q. cerris*
@@ -121,8 +121,7 @@ Aulogymnus gallarum (18) / FI (16) Q. robur (Kaartinen et al.) / GB (2) Q. petra
 Aprostocetus aethiops (13) / FI (13) Q. robur (Kaartinen et al. 2010)
 Andricus callidoma (asexual)
 Ceroptres clavicornis / AD (Bellido & Pujade-Villar 1999b)
-Synergus facialis (19) / AT (Houard 1911) / DE (3) (Pfützenreiter & Weidner 1958) / ES (6) Q. lusitanica, Q.
-pyrenaica (Nieves-Aldrey & Pujade-Villar 1986; Pujade-Villar 1992d; Nieves-Aldrey 2001a) / FR (1)* / GB(9) Q. robur (Ross 1951; Manning 1956; Askew 1961f; Eady & Quinlan 1963) / NL Q. robur (Wiebes-Rijks1976, 1979) / PL (Kierych 1963, 1979), RU (Kovalev 1965) / UA (Diakontschuk 1986, 1987; Diakontschuk & Melika 1994)
+Synergus facialis (19) / AT (Houard 1911) / DE (3) (Pfützenreiter & Weidner 1958) / ES (6) Q. lusitanica, Q. pyrenaica (Nieves-Aldrey & Pujade-Villar 1986; Pujade-Villar 1992d; Nieves-Aldrey 2001a) / FR (1)* / GB (9) Q. robur (Ross 1951; Manning 1956; Askew 1961f; Eady & Quinlan 1963) / NL Q. robur (Wiebes-Rijks1976, 1979) / PL (Kierych 1963, 1979), RU (Kovalev 1965) / UA (Diakontschuk 1986, 1987; Diakontschuk & Melika 1994)
 Synergus pallipes / AT (Mayr 1872) / NL (Wiebes-Rijks 1979) / PL (Kierych 1979) / UA (Diakontschuk & Melika 1994)
 Synergus radiatus / AT (Mayr 1872) / DE (Mayr 1872; Pfützenreiter & Weidner 1958) / DK (Hoffmeyer 1925) / NL (Wiebes-Rijks 1979) / PL (Kierych 1979) / UA (Diakontschuk 1986, 1987; Diakontschuk & Melika 1994)
 Synergus thaumacerus / AT (Houard 1911)
@@ -244,7 +243,7 @@ Synergus radiatus / FR (Kieffer 1897-1901) / UA (Diakontschuk & Melika 1994)
 Synergus tibialis (1) / HU (1) Q. petraea*
 Synergus umbraculus (584) / AT (Haimhoffen 1867) / ES (100) Q. lusitanica, Q. pyrenaica (Nieves-Aldrey & Pujade-Villar 1985; Pujade-Villar 1992d) / HR Q. pubescens (Fahringer 1921) / HU (476) Q. petraea, Q. pubescens (Pujade-Villar, Melika et al. 2003) / SI Q. pubescens (Fahringer 1921) / TR (8) inf* / UA (Diakontschuk & Melika 1994)
 Eurytoma adleriae (12) / ES (3)* / GR (2)* / HR (1)* / HU (1)* / IT (2)* / SK (1)* / TR (2)*
-Eurytoma brunniventris (523) / AT (Mayr 1878) / DE (3) (Kwast 1996) / ES (89) Q. faginea, Q. lusitanica, Q. petraea, Q. pyrenaica (Gómez et al. 2006; Gómez et al. 2011) / GR (3) Q. frainetto* / HU (387) Q. petraea, Q. pubescens (Ács et al. 2002; Melika et al. 2002b) / IT (Sardinia) (1) (Pujade-Villar 2005) / LB (3)* / RO (2) Q. petraea* / TR (35) Q. infectoria*
+Eurytoma brunniventris (523) / AT (Mayr 1878) / DE (3) (Kwast 1996) / ES (89) Q. faginea, Q. lusitanica, Q. petraea, Q. pyrenaica (Gómez et al. 2006; Gómez et al. 2011) / GR (3) Q. frainetto* / HU (387) Q. petraea, Q. pubescens (Acs et al. 2002; Melika et al. 2002b) / IT (Sardinia) (1) (Pujade-Villar 2005) / LB (3)* / RO (2) Q. petraea* / TR (35) Q. infectoria*
 Eurytoma setigera (39) / HU (37) Q. petraea, Q. pubescens* / TR (2) Q. infectoria*
 Eurytoma querceticola (7) / BG (7) (Stojanova 2004)
 Sycophila biguttata (792) / AT (32) (Mayr 1905) / DE (4) (Kwast 1996) / ES (61) Q. faginea, Q. lusitanica, Q. petraea, Q. pyrenaica (Nieves-Aldrey 1983c; Pujade-Villar 1994b) / GR (17) Q. frainetto, Q. pubescens* / HU (612) Q. petraea, Q. pubescens (Erdös 1947a; Melika et al. 2002b) / IT (1) (Sardinia, Sicily) (De Stefani 1898; Pujade-Villar 2005) / RO (Andriescu 1974) / TR (65) Q. infectoria*
@@ -288,7 +287,7 @@ Synergus pallipes (15) / HU (15) Q. petraea, Q. pubescens, Q. robur (Pujade-Vill
 Synergus radiatus / IT (Sicily) (De Stefani 1898)
 Synergus umbraculus (47) / HU (46) Q. pubescens, Q. robur (Pujade-Villar, Melika et al 2003), IT(1) (De Stefani 1898, Kieffer 1897-1901)
 Eurytoma adleriae (1) / GR (1)*
-Eurytoma brunniventris (59) / BG (1) Q. cerris (Stojanova 2006) / GR (2) Q. pubescens* / HU(56) Q. pubescens (Mayr 1878; Melika et al. 2002b)
+Eurytoma brunniventris (59) / BG (1) Q. cerris (Stojanova 2006) / GR (2) Q. pubescens* / HU (56) Q. pubescens (Mayr 1878; Melika et al. 2002b)
 Sycophila biguttata (21) / GR (1) Q. pubescens* / HR (1) Q. pubescens* / HU (19) Q. pubescens (Melika et al. 2002b) / RO (Andriescu 1974)
 Megastigmus dorsalis (15) / AT (Mayr 1874) / GR (1) Q. pubescens* / HR (1) Q. pubescens* / HU (11) Q. pubescens, Q. robur (Melika et al. 2002b) / TR (2) Q. infectoria, Q. petraea*
 Megastigmus stigmatizans (1) / HU (1) (Melika et al. 2002b)
@@ -403,7 +402,7 @@ Eupelmus spongipartus / AT (Laboulbène 1877)
 Eupelmus urozonus (34) / AD (1) Q. petraea (Bellido & Pujade-Villar 1999b) / AT (Ruschka 1921) / DE (Ratzeburg 1852) / ES (3) Q. faginea, Q. robur (Nieves-Aldrey 1982a) / FI (10) Q. robur (Kaartinen et al. 2010) / FR (2)* / GB (7) Q. robur (Askew 1961d) / HU (3) Q. petraea* / RO (Andriescu 1974) / UA (8) Q. petraea, Q. robur*
 Eupelmus vesicularis (2) / ES (1) Q. pyrenaica (Nieves-Aldrey 1982a) / HU (1)*
 Aulogymnus arsames (124) / AD (1) Q. petraea (Bellido & Pujade-Villar 1999b) / ES (36) Q. faginea, Q. petraea, Q. pubescens, Q. robur (Nieves-Aldrey 1983b; Pujade-Villar 1991) / FI (12) Q. robur (Kaartinen et al. 2010) / FR (1)* / GB (50) Q. robur (Askew 1961g) / HU (5) Q. petraea* / RO (Andriescu 1974) / SI (1) Q. robur* / TR (2) Q. trojana* / UA (16) Q. robur*
-Aulogymnus gallarum (13) / ES (1) Q. lusitanica (Pujade-Villar 1991) / FI(2) (Kaartinen et al. 2010) / GB (2) Q. robur (Askew 1961g) / HU (8)*
+Aulogymnus gallarum (13) / ES (1) Q. lusitanica (Pujade-Villar 1991) / FI (2) (Kaartinen et al. 2010) / GB (2) Q. robur (Askew 1961g) / HU (8)*
 Aulogymnus skianeuros (12) / DE (Ratzeburg 1852) / HU (12) Q. robur*
 Aprostocetus aethiops (7) / HU (1) Q. petraea* / UA (6) Q. petraea, Q. robur*
 Andricus curvator (asexual)
@@ -892,8 +891,7 @@ Megastigmus stigmatizans (121) / AT (Mayr 1874; Laboulbène 1877; Ruschka & Fulm
 Torymus auratus (624) / AT (1) (Mayr 1874; Ruschka & Fulmek 1915) / BE (2)* / BG (1)* / DE (44) Q. robur Mayr 1874) / FR (125)* / GB (395) Q. robur (Marsden-Jones 1953; Askew 1965; Duffett 1969) / HU (49) Q. petraea, Q. robur (Mayr 1874; Erdös 1946) / NL (3) Q. robur (Wiebes-Rijks 1978) / RO (Andriescu 1974) / TR (4) Q. infectoria, Q. petraea*
 Torymus ?erucarum (78) / HU (78) Q. robur*
 Torymus geranii (54) / BG (Vassileva-Samnalieva 1985) / FR (1)* / GB (53) Q. robur (Askew 1961f, 1965) / NL Q. robur (Wiebes-Rijks 1978) / RO (Andriescu 1974)
-Ormyrus nitidulus (154) / AT (18) (Mayr 1904) / FR (6)* / GB (1)* / HU (129) Q. robur (Erdös 1946) / IT Q. robur
-(Mantero 1906) / RO (Andriescu 1974) / SI (Bouček 1995)
+Ormyrus nitidulus (154) / AT (18) (Mayr 1904) / FR (6)* / GB (1)* / HU (129) Q. robur (Erdös 1946) / IT Q. robur (Mantero 1906) / RO (Andriescu 1974) / SI (Bouček 1995)
 Ormyrus pomaceus (2) / BG (2) (Stojanova 2005) / MD (Talickij & Kuslickij 1990)
 Ormyrus nitidulus or O. pomaceus (7) / HU (7) Q. petraea, Q. robur*
 Caenacis lauta (92) / AT (Mayr 1903; Ruschka & Fulmek 1915) / DE (1)* / GB (1) Q. robur (Askew 1961a) / HR (2) (Fahringer 1921; Bouček 1977) / HU (61) Q. petraea, Q. robur* / IE (1) (O'Connor 2003) / RO (Andriescu 1974) / UA (26) Q. robur*

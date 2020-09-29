@@ -20,10 +20,15 @@ print("family" + ", " + "genus" + ", " + "species" + ", " + "ID" + ", " + "secti
           + ", " + "town" + ", " + "collector" + ", " + "pub" + ", " + "colTriX" + ", " + "colTriY" + ", " + "colTriQFUV" + ", " + "colTriQFB"
           + ", " + "colTriQFG" + ", " + "colHexX" + ", " + "colHexY" + ", " + "colHexExUV" + ", " + "colHexExB" + ", " + "colHexExG")
 
+# /html/body/table/tbody/tr[4]/td/table/tbody/tr[3626]
 
-for value in range(2, 5192, 2): # 5192 found by locating the last element in the html. (/html/body/table/tbody/tr[4]/td/table/tbody/tr[5192])
+for value in range(3626, 5192, 2): # 5192 found by locating the last element in the html. (/html/body/table/tbody/tr[4]/td/table/tbody/tr[5192])
     # the website, pre-searched...
     browser.get('http://reflectance.co.uk//advanceresults.php?bcolourc=Bee%20Colour&hcolourc=Human%20Colour&maincolourc=Main%20Colour&flowersectc=Flower%20Section&altitudec=Altitude&heightc=Height&tubec=tube&corollac=Corolla&pollinatorc=Pollinator&familyc=Family&genusc=Genus&speciesc=Species&countryc=Country&townc=Town/Area&eastc=GPS%20East&southc=GPS%20South&collectorc=Collector&publicationc=Publication&accessionc=accession&family=*Any%20Family*&genus=*Any%20Genus*&species=*Any%20Species*&country=*Any%20Country*&town=*Any%20Town*&bcolour=*Any%20Colour*&hcolour=*Any%20Colour*&flowersect=*Any%20Section*&pollinator=*Any%20Pollinator*&collector=*Any%20Collector*&maincolour=*Do%20not%20mind*&altitudegreat=-1&altitudeless=2801&heightgreat=-1&heightless=1001&tubegreat=-1&tubeless=61&corollagreat=-1&corollaless=161')
+    
+    # necessary to load and locate the subsequent browser elements
+    time.sleep(2)
+
     # go to the first clickable species
     temp_table_path = browser.find_element_by_xpath("/html/body/table/tbody/tr[4]/td/table/tbody/tr[" + str(value) + "]")
     temp_table_path.location_once_scrolled_into_view

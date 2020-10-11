@@ -26,7 +26,7 @@ with open("urls.txt") as urls:
         # format the rows
         for row in rows[1:]:
             rowi = row.text
-            split_rowi = re.split('(\)|idae|inae|Coleoptera|Diptera|Acari)', rowi)
+           split_rowi = re.split('(\)|idae|inae|Coleoptera|Diptera|Acari)', rowi)
             join_rowi = [ x+y for x,y in zip(split_rowi[0::2], split_rowi[1::2]) ]
             to_csv = host + ", " + ",".join(join_rowi)
             if to_csv.count(',') >= 3:

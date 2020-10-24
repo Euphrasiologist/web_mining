@@ -7,6 +7,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Aglais_urticae/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Agonopterix_ocellana/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Alopecosa_pulverulenta/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Amaurobius_similis/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Amblyteles_armatorius/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Amphipyra_tragopoginis/index.html
 https://tolqc.cog.sanger.ac.uk/molluscs/Ancylus_fluviatilis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Andrena_cineraria/index.html
@@ -16,6 +17,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Anomoia_purmunda/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Anthocharis_cardamines/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Anthophora_furcata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Apatura_iris/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Apeira_syringaria/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Aphantopus_hyperantus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Aphelocheirus_aestivalis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Aphodius_fossor/index.html
@@ -25,6 +27,7 @@ https://tolqc.cog.sanger.ac.uk/annelids/Aporrectodea_caliginosa/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Apotomis_turbidana/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Araneus_diadematus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Argynnis_aglaja/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Argyresthia_brockeella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Argyresthia_goedartella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Aricia_agestis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Aricia_artaxerxes/index.html
@@ -34,6 +37,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Athalia_rosae/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Atherix_ibis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Autographa_gamma/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Autographa_pulchrina/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Baccha_elongata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Batrachedra_praeangusta/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Bibio_marci/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Biston_betularia/index.html
@@ -43,6 +47,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Boloria_selene/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Bombus_campestris/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Bombus_hortorum/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Bombus_hypnorum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Bombus_pascuorum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Bombus_pratorum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Bombus_rupestris/index.html
@@ -52,6 +57,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Bombus_vestalis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Bombylius_discolor/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Bombylius_major/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Brachyptera_risi/index.html
+https://tolqc.cog.sanger.ac.uk/amphibians/Bufo_bufo/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Callophrys_rubi/index.html
 https://tolqc.cog.sanger.ac.uk/jellyfish/Calvadosia_cruxmelitensis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Calvia_quatuordecimguttata/index.html
@@ -61,6 +67,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Cantharis_rufa/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Cantharis_rustica/index.html
 https://tolqc.cog.sanger.ac.uk/birds/Caprimulgus_europaeus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Carcina_quercana/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Celastrina_argiolus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Centrotus_cornutus/index.html
 https://tolqc.cog.sanger.ac.uk/molluscs/Cepaea_nemoralis/index.html
 https://tolqc.cog.sanger.ac.uk/molluscs/Cerastoderma_edule/index.html
@@ -70,6 +77,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Cheilosia_soror/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Chelura_terebrans/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Chilocorus_renipustulatus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Chloromyia_formosa/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Choerades_marginatus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Chorthippus_brunneus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Chorthippus_parallelus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Chrysolina_oricalcia/index.html
@@ -79,6 +87,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Chrysotoxum_bicinctum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Chrysotoxum_verralli/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Cloeon_dipterum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Clostera_curtula/index.html
+https://tolqc.cog.sanger.ac.uk/arthropods/Clubiona_reclusa/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Coccinella_septempunctata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Coenagrion_puella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Coenonympha_pamphilus/index.html
@@ -88,6 +97,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Colostygia_pectinataria/index.html
 https://tolqc.cog.sanger.ac.uk/protists/Colpoda_steinii/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Comibaena_bajularia/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Coreus_marginatus/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Corixa_punctata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Corizus_hyoscyami/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Cosmia_trapezina/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Crambus_lathoniellus/index.html
@@ -97,6 +107,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Cyaniris_semiargus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Dasysyrphus_tricinctus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Deilephila_elpenor/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Deilephila_porcellus/index.html
+https://tolqc.cog.sanger.ac.uk/arthropods/Diaea_dorsata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Dinocras_cephalotes/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Dioctria_rufipes/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Diplectrona_felix/index.html
@@ -106,6 +117,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Dolycoris_baccarum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Drepanepteryx_phalaenoides/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Dromius_quadrimaculatus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Ecdyonurus_torrentis/index.html
+https://tolqc.cog.sanger.ac.uk/echinoderms/Echinus_esculentus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Ectemnius_continuus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Ectemnius_lituratus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Eilema_griseola/index.html
@@ -115,6 +127,7 @@ https://tolqc.cog.sanger.ac.uk/annelids/Eisenia_fetida/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Empis_tessellata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Enallagma_cyathigerum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Endotricha_flammealis/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Ennomos_fuscantaria/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Epermenia_falciformis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Ephemera_danica/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Epistrophe_eligans/index.html
@@ -124,6 +137,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Erebia_aethiops/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Erebia_epiphron/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Eristalis_arbustorum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Eristalis_pertinax/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Eristalis_tenax/index.html
 https://tolqc.cog.sanger.ac.uk/annelids/Erpobdella_octoculata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Erynnis_tages/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Ethmia_dodecea/index.html
@@ -133,6 +147,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Eudonia_lacustrata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Eupeodes_corollae/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Eupeodes_luniger/index.html
 https://tolqc.cog.sanger.ac.uk/dicots/Euphrasia_foulaensis/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Euphydryas_aurinia/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Eupithecia_centaureata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Euproctis_similis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Euthrix_potatoria/index.html
@@ -142,6 +157,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Ferdinandea_cuprea/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Forficula_auricularia/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Gastrophysa_viridula/index.html
 https://tolqc.cog.sanger.ac.uk/molluscs/Gibbula_umbilicalis/index.html
+https://tolqc.cog.sanger.ac.uk/arthropods/Glomeris_marginata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Glyphipterix_simpliciella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Glyphotaelius_pellucidus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Gonocerus_acuteangulatus/index.html
@@ -151,6 +167,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Gymnoscelis_rufifasciata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Halesus_radiatus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Hamearis_lucina/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Harmonia_axyridis/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Hedya_salicella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Helcystogramma_rufescens/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Helophilus_pendulus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Hemithea_aestivaria/index.html
@@ -160,6 +177,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Himacerus_apterus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Himacerus_mirmicoides/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Hofmannophila_pseudospretella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Hydropsyche_instabilis/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Hydropsyche_siltalai/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Hylaea_fasciaria/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Hypena_proboscidalis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Idaea_aversata/index.html
@@ -169,6 +187,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Laothoe_populi/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Lasioglossum_pauxillum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Lasiommata_megera/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Laspeyria_flexula/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Leptidea_sinapis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Limenitis_camilla/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Limnephilus_affinis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Limnephilus_marmoratus/index.html
@@ -178,6 +197,7 @@ https://tolqc.cog.sanger.ac.uk/fish/Lipophrys_pholis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Lucilia_sericata/index.html
 https://tolqc.cog.sanger.ac.uk/annelids/Lumbricus_castaneus/index.html
 https://tolqc.cog.sanger.ac.uk/annelids/Lumbricus_rubellus/index.html
+https://tolqc.cog.sanger.ac.uk/annelids/Lumbricus_terrestris/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Lycaena_phlaeas/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Lygus_pratensis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Lymantria_monacha/index.html
@@ -187,6 +207,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Lysandra_coridon/index.html
 https://tolqc.cog.sanger.ac.uk/molluscs/Macomangulus_tenuis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Malachius_bipustulatus/index.html
 https://tolqc.cog.sanger.ac.uk/fish/Malacosteus_niger/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Mamestra_brassicae/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Maniola_jurtina/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Meconema_thalassinum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Megachile_ligniseca/index.html
@@ -196,6 +217,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Melanostoma_mellinum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Melanostoma_scalare/index.html
 https://tolqc.cog.sanger.ac.uk/mammals/Meles_meles/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Melitaea_athalia/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Melitaea_cinxia/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Melolontha_melolontha/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Merodon_equestris/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Mesembrina_meridiana/index.html
@@ -205,6 +227,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Mimas_tiliae/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Myathropa_florea/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Myrmica_ruginodis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Mythimna_impura/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Nabis_ferus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Nabis_limbatus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Nabis_rugosus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Nebria_brevicollis/index.html
@@ -214,6 +237,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Nemoura_avicularis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Nephrotoma_flavescens/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Nephrotoma_flavipalpis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Noctua_fimbriata/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Noctua_pronuba/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Nola_cucullatella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Nomada_fabriciana/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/index.html
@@ -223,6 +247,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Nymphalis_polychloros/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Nysson_spinosus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Ochlodes_sylvanus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Ochropleura_plecta/index.html
+https://tolqc.cog.sanger.ac.uk/annelids/Octolasion_cyaneum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Ocypus_olens/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Odontocerum_albicorne/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Oedemera_lurida/index.html
@@ -232,6 +257,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Opisthograptis_luteolata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Opostega_salaciella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Orectochilus_villosus/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Pagurus_bernhardus/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Pandemis_cerasana/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Panorpa_germanica/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Pantilius_tunicatus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Papilio_machaon/index.html
@@ -241,6 +267,7 @@ https://tolqc.cog.sanger.ac.uk/arthropods/Pardosa_saltans/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Pentatoma_rufipes/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Phalera_bucephala/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Phasia_hemiptera/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Pheosia_gnoma/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Pheosia_tremula/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Phlogophora_meticulosa/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Pholcus_phalangioides/index.html
@@ -250,6 +277,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Pieris_napi/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Pieris_rapae/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Pisaura_mirabilis/index.html
+https://tolqc.cog.sanger.ac.uk/annelids/Piscicola_geometra/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Pisidia_longicornis/index.html
 https://tolqc.cog.sanger.ac.uk/molluscs/Pisidium_nitidum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Plagodis_dolabraria/index.html
@@ -259,6 +287,7 @@ https://tolqc.cog.sanger.ac.uk/molluscs/Planorbis_planorbis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Platycheirus_albimanus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Platycis_minutus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Plebejus_argus/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Plectrocnemia_conspersa/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Plutella_xylostella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Podabrus_alpinus/index.html
 https://tolqc.cog.sanger.ac.uk/molluscs/Polycera_quadrilineata/index.html
@@ -268,6 +297,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Prays_fraxinella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Propylea_quatuordecimpunctata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Pseudargyrotoza_conwagana/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Pterophorus_pentadactyla/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Pterostichus_madidus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Pterostoma_palpina/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Ptychoptera_contaminata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Pyrgus_malvae/index.html
@@ -277,6 +307,7 @@ https://tolqc.cog.sanger.ac.uk/molluscs/Radix_auricularia/index.html
 https://tolqc.cog.sanger.ac.uk/mammals/Rattus_norvegicus/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Recurvaria_leucatella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Rhagio_scolopaceus/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Rhagonycha_fulva/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Rhingia_campestris/index.html
 https://tolqc.cog.sanger.ac.uk/algae/Rhodella_violacea/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Rhopalus_parumpunctatus/index.html
@@ -286,6 +317,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Rivula_sericealis/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Sacculina_carcini/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Satyrium_walbum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Scaeva_pyrastri/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Schrankia_costaestrigalis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Sericostoma_personatum/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Shargacucullia_verbasci/index.html
@@ -295,6 +327,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Silo_pallipes/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Silpha_atrata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Sphaerophoria_scripta/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Spilosoma_lubricipeda/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Stauropus_fagi/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Stenodema_laevigata/index.html
 https://tolqc.cog.sanger.ac.uk/arthropods/Stigmatogaster_subterranea/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Subcoccinella_vigintiquatuorpunctata/index.html
@@ -304,6 +337,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Syritta_pipiens/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Syrphus_ribesii/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Tabanus_bromius/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Tachina_fera/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Tenthredo_livida/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Terellia_serratulae/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Tethea_ocularis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Thecla_betulae/index.html
@@ -313,6 +347,7 @@ https://tolqc.cog.sanger.ac.uk/insects/Thymelicus_lineola/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Tinea_semifulvella/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Tinea_trinotella/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Tiphia_femorata/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Tipula_paludosa/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Tipula_vernalis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Tortrix_viridana/index.html
@@ -322,6 +357,7 @@ https://tolqc.cog.sanger.ac.uk/molluscs/Trivia_monacha/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Tyria_jacobaeae/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Udea_olivalis/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Vanessa_atalanta/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Vanessa_cardui/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Vespa_crabro/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Vespula_germanica/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Vespula_vulgaris/index.html
@@ -331,3 +367,19 @@ https://tolqc.cog.sanger.ac.uk/insects/Volucella_inanis/index.html
 https://tolqc.cog.sanger.ac.uk/ctenophores/Watersipora_subatra/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Watsonalla_cultraria/index.html
 https://tolqc.cog.sanger.ac.uk/insects/Xanthogramma_pedissequum/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Xestia_xanthographa/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Xylota_sylvarum/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Yponomeuta_evonymella/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Ypsolopha_parenthesella/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Ypsolopha_sequella/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Zygaena_filipendulae/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Abrostola_tripartita/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Adalia_bipunctata/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Aelia_acuminata/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Aeshna_mixta/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Aglais_io/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Aglais_urticae/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Agonopterix_ocellana/index.html
+https://tolqc.cog.sanger.ac.uk/arthropods/Alopecosa_pulverulenta/index.html
+https://tolqc.cog.sanger.ac.uk/arthropods/Amaurobius_similis/index.html
+https://tolqc.cog.sanger.ac.uk/insects/Amblyteles_armatorius/index.html

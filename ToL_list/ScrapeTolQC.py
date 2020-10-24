@@ -22,16 +22,19 @@ lim = browser.find_element_by_xpath("/html/body/div[2]/div[4]/div[1]/div[3]/div[
 hrefs = []
 tick = 0
 
-while tick < int(lim) - 1:
+while tick < int(lim):
 
-    for tr_no in range(1,10):
+    tbody_rows = browser.execute_script("return document.getElementById('reports_table').getElementsByTagName('tr').length")
+
+    for tr_no in range(1, tbody_rows):
         href = tbody.find_element_by_xpath("//tr[" + str(tr_no) + "]/td[2]/i/a").get_attribute("href")
         sp = tbody.find_element_by_xpath("//tr[" + str(tr_no) + "]/td[2]/i/a").text
         hrefs.append(href)
         print("href " + str(tr_no) + " scraped.")
-        print("Done for page" + int(tick + 1) + ".")
+        print("Done for page " + str(tick + 1) + ".")
     
     tick += 1
+    time.sleep(1)
     browser.find_element_by_xpath("/html/body/div[2]/div[4]/div[1]/div[3]/div[2]/ul/li[9]").click()
     
  

@@ -23,7 +23,7 @@ echo $command | bash > ./ott_ids.json
 
 node get_ott_ids.js
 
-rm ./species.txt quoted_species.txt ./sorted_quoted_species.txt
+rm ./species.txt ./quoted_species.txt ./sorted_quoted_species.txt
 
 ### generate the tree ###
 
@@ -38,14 +38,14 @@ ott_ids2=$(echo $ott_ids | sed 's/,*$//g')
 
 tree_command="curl -X POST https://api.opentreeoflife.org/v3/tree_of_life/induced_subtree -H \"content-type:application/json\" -d '{\"ott_ids\":[$ott_ids2]}'"
 
-echo $tree_command | bash > newick.json
+echo $tree_command | bash > ./newick.json
 
-node get_tree.js
+node ./get_tree.js
 
 # and compute branch lengths
 
-Rscript compute_brlen.R
+Rscript ./compute_brlen.R
 
 ### remove intermediate files ###
 
-rm tree.newick newick.json ott_test.txt ott_ids.txt ott_ids.json
+rm ./tree.newick ./newick.json ./ott_test.txt ./ott_ids.txt ./ott_ids.json

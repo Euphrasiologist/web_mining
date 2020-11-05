@@ -8,4 +8,4 @@ python ./ScrapeTolQC.py
 
 python ./ScrapeTolQC_2.py
 
-echo "Done\n"
+echo "Done"

@@ -41,11 +41,3 @@ tree_command="curl -X POST https://api.opentreeoflife.org/v3/tree_of_life/induce
 echo $tree_command | bash > ./newick.json
 
 node ./get_tree.js
-
-# and compute branch lengths
-
-Rscript ./compute_brlen.R
-
-### remove intermediate files ###
-
-rm ./tree.newick ./newick.json ./ott_test.txt ./ott_ids.txt ./ott_ids.json

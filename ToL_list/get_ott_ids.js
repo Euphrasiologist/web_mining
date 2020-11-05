@@ -12,7 +12,7 @@ try {
 
 const res = data.results
                 .map(d => d.matches[0])
-                .filter(d => d !== undefined)
+                .filter(d => d !== undefined) // needed if there is an error...
                 .map(d => d.taxon)
                 .map(d => d.ott_id)
 

@@ -8,4 +8,8 @@ python ./ScrapeTolQC.py
 
 python ./ScrapeTolQC_2.py
 
+# clean the data a little bit
+
+Rscript tidy.R
+
 echo "Done"

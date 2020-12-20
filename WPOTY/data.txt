@@ -1,0 +1,1151 @@
+Date,Category,Commendation,Camera,Lens,FocalLength,ShutterSpeed,Aperture,ISO
+2020,Animals in their Environment,Adult Grand Title Winner 2020,Nikon Z7,50mm f1.8 lens,50mm,1/200sec,f6.3,ISO250
+2020,Animals in their Environment,Highly Commended,Canon EOS 5DS,100mm f2.8 lens,100mm,1/200sec,f25,ISO100
+2020,Animals in their Environment,Highly Commended,Nikon D750,300mm f4 lens,300mm,1/320sec,f10,-
+2020,Animals in their Environment,Highly Commended,Nikon D7200,18–55mm f3.5–5.6 lens , 25mm,-,f6.7,ISO800
+2020,Animals in their Environment,Highly Commended,Canon EOS 5D Mark III,16–36mm f4 lens , 16mm,1/250sec,f16,ISO1600
+2020,Animals in their Environment,Highly Commended,Nikon D7100,10–24mm f3.5–4.5 lens , 20mm,1/80sec,f9,ISO1000
+2020,Animal Portraits,Winner,Canon EOS-1D X,500mm f4 lens,500mm,1/1000sec,f7.1,ISO1250
+2020,Animal Portraits,Highly Commended,Nikon D750,70–200mm f2.8 lens , 175mm,1/1250sec,f2.8,ISO1600
+2020,Animal Portraits,Highly Commended,Canon EOS-1D X Mark II,200–400mm f4 lens,400mm,1/160sec,f4,-
+2020,Animal Portraits,Highly Commended,Canon EOS-1D X Mark II,200–400mm f4 lens , 300mm,1/1000sec,f11,-
+2020,Animal Portraits,Highly Commended,Canon EOS 5D Mark IV,500mm f4 lens,500mm,1/2000sec,f8,ISO1600
+2020,Animal Portraits,Highly Commended,Nikon Z7,24–70mm f4.5 lens , 33.5mm,1/60sec,f5.6,ISO320
+2020,Animal Portraits,Highly Commended,Canon EOS-1D X Mark II,600mm f4 lens,600mm,1/320sec,f6.3,ISO640
+2020,Animal Portraits,Highly Commended,Nikon D500,80–400mm f4.5–5.6 lens , 400mm,1/400sec,f11,ISO800
+2020,Behaviour: Amphibians and Reptiles,Winner,Sony ILCE-7M3,90mm f2.8 lens,90mm,1/100sec,f16,ISO320
+2020,Behaviour: Amphibians and Reptiles,Highly Commended,Canon EOS 6D,100mm f2.8 lens,100mm,1/100sec,f16,ISO160
+2020,Behaviour: Amphibians and Reptiles,Highly Commended,Sony A7III,100mm f2.8 lens,100mm,1/100sec,f16,ISO160
+2020,Behaviour: Amphibians and Reptiles,Highly Commended,Nikon D750,70–200mm f2.8 lens , 170mm,1/100sec,f16,-
+2020,Behaviour: Birds,Winner,Nikon D4S,600mm f4 lens,600mm,1/800sec,f6.3,ISO500
+2020,Behaviour: Birds,Highly Commended,Canon EOS 5D Mark IV,600mm f4 lens,600mm,1/400sec,f6.3,-
+2020,Behaviour: Birds,Highly Commended,Canon EOS 7D Mark II,100–400mm f4.5–5.6 lens , 400mm,1/500sec,f5.6,-
+2020,Behaviour: Invertebrates,Winner,Canon EOS 5D Mark II,100mm f2.8 lens,100mm,-,f13,ISO160
+2020,Behaviour: Invertebrates,Highly Commended,Canon EOS-1D X Mark II,16–35mm f2.8 lens , 24mm,-,f2.8,ISO1000
+2020,Behaviour: Invertebrates,Highly Commended,Canon EOS 7D Mark II,100mm f2.8 lens,100mm,1/200sec,f16,ISO400
+2020,Behaviour: Invertebrates,Highly Commended,Sony ILCE-7M3,Canon 65mm f2.8 lens,65mm,1/100sec,f16,ISO640
+2020,Behaviour: Invertebrates,Highly Commended,Sony ILCE-6500,Laowa 60mm f2.8 lens,60mm,1/125sec,f8,ISO100
+2020,Behaviour: Invertebrates,Highly Commended,Canon EOS 5D Mark IV,100mm f2.8 lens,100mm,1/200sec,f14(-1e/v),ISO400
+2020,Behaviour: Mammals,Winner,Canon EOS-1D X Mark II,800mm,800mm,1/1250sec,f5.6lens,ISO640
+2020,Behaviour: Mammals,Highly Commended,Nikon D500,500mm f4 lens,500mm,1/800sec,f5.6(+0.7e/v),-
+2020,Behaviour: Mammals,Highly Commended,Canon EOS-1D X,600mm f4 lens,600mm,1/3200sec,f4,-
+2020,Behaviour: Mammals,Highly Commended,Canon EOS 5D Mark IV,70–200mm f2.8 lens , 200mm,1/800sec,f4.5,-
+2020,Behaviour: Mammals,Highly Commended,Nikon D850,400mm f2.8 lens,400mm,1/1250,f8,ISO400
+2020,Behaviour: Mammals,Highly Commended,Nikon D4S,24–70mm f2.8 lens , 70mm,1/2000sec,f3.5,-
+2020,Plants and Fungi,Winner,Nikon D300s,Nikon 10–24mm f3.5 lens , 11mm,-,f22,ISO200
+2020,Plants and Fungi,Highly Commended,Canon EOS 5DS,180mm f3.5 lens,180mm,1/400sec,f3.5(-1e/v),ISO800
+2020,Plants and Fungi,Highly Commended,Canon 6D,100–400mm f4.5–5.6 lens,400mm,-,f8,ISO640
+2020,Plants and Fungi,Highly Commended,Nikon D850,Sigma 150mm f2.8 lens , 150mm,-,f3.5(-2.67e/v),-
+2020,Under Water,Winner,Nikon D850,60mm f2.8 lens,60mm,1/200sec,f20,ISO500
+2020,Under Water,Highly Commended,Nikon D7200,Tokina 10–17mm,17mm,1/125sec,f3.5–4.5lens,ISO250
+2020,Under Water,Highly Commended,Nikon D5,20–35mm f2.8 lens,35mm,1/250sec,f8,ISO800
+2020,Under Water,Highly Commended,Nikon D4S,17–35mm f2.8 lens,35mm,1/250sec,f11,ISO800
+2020,Under Water,Highly Commended,Nikon D850,60mm f2.8 lens,60mm,1/5sec,f20,ISO400
+2020,Under Water,Highly Commended,Nikon D850,60mm f2.8 lens,60mm,1/250sec,f20,ISO500
+2020,Urban Wildlife,Winner,Canon EOS 5D Mark IV,17mm f4 lens,17mm,1/40sec,f22,ISO1600
+2020,Urban Wildlife,Highly Commended,Nikon D300s,Sigma 150–500mm,500mm,1/100sec,f5–6.3lens,-
+2020,Urban Wildlife,Highly Commended,Nikon D850,24–70mm f2.8 lens , 62mm,1/250sec,f16,ISO640
+2020,Urban Wildlife,Highly Commended,Canon EOS 5D Mark III,50mm lens,50mm,1/100sec,f8(-2e/v),ISO800
+2020,Urban Wildlife,Highly Commended,Nikon D7000,18–105mm f3.5–5.6 lens , 18mm,1/200,f7.1,ISO800
+2020,Earth’s Environments,Winner,Canon EOS 5D Mark III,24mm f3.5 lens,24mm,-,f16,ISO320
+2020,Earth’s Environments,Highly Commended,Canon EOS 5D Mark III,100–400mm,400mm,1/640sec,f4.5–5.6lens,-
+2020,Earth’s Environments,Highly Commended,Canon EOS 5D Mark III,16–35mm f4 lens,35mm,-,f14,ISO100
+2020,Earth’s Environments,Highly Commended,Nikon D750,14–24mm f2.8 lens,24mm,1/25sec,f11,-
+2020,Wildlife Photojournalism,Winner,Canon EOS 5D Mark IV,70–200mm f2.8 lens,200mm,1/500sec,f4,-
+2020,Wildlife Photojournalism,Highly Commended,Canon EOS 5D Mark IV,15mm f2.8 lens,15mm,1/400sec,f5,-
+2020,Wildlife Photojournalism,Highly Commended,Nikon D810,80–400mm lens , 400mm,1/1600,f8,ISO400
+2020,Wildlife Photojournalism,Highly Commended,Canon EOS 5D Mark IV,24–70mm f2.8 lens , 59mm,1/500sec,f3.5,-
+2020,Wildlife Photojournalism,Highly Commended,Nikon D3,24–70mm lens,70mm,1/250sec,f2.8,-
+2020,Wildlife Photojournalism,Highly Commended,Canon EOS 5D Mark IV,35mm f1.4 lens,35mm,1/640sec,f6.3,-
+2020,Wildlife Photojournalism,Highly Commended,Canon EOS-1D X Mark II,24–105mm f4 lens , 40mm,-,f4,-
+2020,Wildlife Photojournalism,Highly Commended,Canon EOS 6D,50mm f1.8 II lens,50mm,1/90sec,f9,-
+2020,Wildlife Photojournalism,Highly Commended,Canon EOS-1D Mark IV,70–200mm f2.8 lens , 100mm,1/640sec,f5,-
+2020,Wildlife Photojournalism,Highly Commended,Canon EOS 5D Mark III,16–35mm f2.8 lens , 16mm,1/250sec,f16,-
+2020,Wildlife Photojournalism,Highly Commended,Nikon D5,24–70mm f2.8 lens , 36mm,1/125sec,f11,ISO125
+2020,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D Mark II,70–20mm lens , 145mm,1/50sec,f2.8,-
+2020,Wildlife Photojournalist Story Award,Winner,Canon EOS-1Ds Mark II,16–35mm lens , 16mm,1/10sec,f3.2,-
+2020,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16–35mm f2.8 lens , 16mm,1/250sec,f2.8,-
+2020,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16–35mm f2.8 lens,35mm,1/125sec,f2.8,-
+2020,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D Mark II,16–35mm lens , 16mm,1/125sec,f7.1,-
+2020,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D Mark II,16–35mm lens , 16mm,1/100sec,f4,-
+2020,Wildlife Photojournalist Story Award,Highly Commended,Canon EOS 5D Mark IV,24–105mm f4 lens,105mm,1/180sec,f13,-
+2020,Wildlife Photojournalist Story Award,Highly Commended,Canon EOS 5D Mark IV,24–105mm f4 lens,105mm,-,f9.5,-
+2020,Wildlife Photojournalist Story Award,Highly Commended,Canon EOS-1D X Mark II,24–105mm f4 lens,105mm,1/1000sec,f9.5,-
+2020,Wildlife Photojournalist Story Award,Highly Commended,Canon EOS 5D Mark IV,24–105mm f4 lens,105mm,1/30sec,f8,-
+2020,Wildlife Photojournalist Story Award,Highly Commended,Canon EOS-1D X Mark II,24–105mm f4 lens,105mm,1/90sec,f11,-
+2020,Wildlife Photojournalist Story Award,Highly Commended,Canon EOS 7D Mark II,24–105mm f4 lens,105mm,1/200sec,f19,-
+2020,Rising Star Portfolio Award,Winner,Canon EOS 7D Mark II,Canon 500mm f4.5 lens,500mm,1/2000sec,f7.1(+1.0),ISO800
+2020,Rising Star Portfolio Award,Winner,Canon EOS 7D Mark II,Canon 500mm f4.5 lens,500mm,1/640sec,f5.6(+1e/v),-
+2020,Rising Star Portfolio Award,Winner,Canon EOS 7D Mark II,Canon 100–400mm f4.5/5.6 lens,400mm,1/1250sec,f6.3(+1e/v),-
+2020,Rising Star Portfolio Award,Winner,Canon EOS 7D Mark II,Canon 500mm f4.5 lens,500mm,1/1000sec,f6.3(-0.3e/v),-
+2020,Rising Star Portfolio Award,Winner,Canon EOS 7D Mark II,500mm f4.5 lens,500mm,1/1250sec,f5.6(+1e/v),-
+2020,Rising Star Portfolio Award,Winner,Canon EOS 7D Mark II,500mm f4.5 lens,500mm,1/6400sec,f6.3,-
+2020,Wildlife Photographer Portfolio Award,Winner,Nikon D5200,Tamron 90mm f2.8 lens,90mm,1/160sec,f8,ISO160
+2020,Wildlife Photographer Portfolio Award,Winner,Nikon D5200,Laowa 15mm f4 lens,15mm,1/250sec,f16,ISO200
+2020,Wildlife Photographer Portfolio Award,Winner,Nikon D500,18–55mm lens (reverse-mounted),55mm,1/160sec,-,ISO200
+2020,Wildlife Photographer Portfolio Award,Winner,Nikon D500,Tamron 90mm f2.8 lens,90mm,1/250sec,f11,ISO500
+2020,Wildlife Photographer Portfolio Award,Winner,Nikon D60,Tamron 90mm lens,90mm,1/100sec,f5,-
+2020,Wildlife Photographer Portfolio Award,Winner,Nikon D5200,Tamron 90mm f2.8 lens,90mm,1/125sec,f18,ISO400
+2020,10 Years and Under,Winner,Fujifilm X-H1,XF 100–400mm f4.5–5.6 lens,400mm,1/50sec,f5.6,-
+2020,10 Years and Under,Highly Commended,Nikon D500,300mm f4 lens,300mm,1/500sec,f4,-
+2020,10 Years and Under,Highly Commended,Olympus E-M5 Mark II,40–150mm f2.8 lens,150mm,1/1250sec,f4,-
+2020,10 Years and Under,Highly Commended,Nikon D5000,Nikkor 85mm lens,85mm,1/1600sec,f6.3,-
+2020,10 Years and Under,Highly Commended,Nikon D5,500mm f4 lens,500mm,1/6400sec,f4,ISO1600
+2020,11-14 Years,Winner,Nikon D300,105mm f2.8 lens,105mm,1/250sec,f18,ISO200
+2020,11-14 Years,Highly Commended,Nikon D500,500mm f4 lens,500mm,1/1600sec,f4(-0.7e/v),-
+2020,11-14 Years,Highly Commended,Sony DSC-HX400V,24–210mm f2.8–6.3 lens,210mm,1/250sec,f5.6,-
+2020,15-17 Years,Young Grand Title Winner 2020,Nikon D4,28–300mm f3.5–5.6 lens,300mm,1/125sec,f5.6(-0.3e/v),-
+2020,15-17 Years,Highly Commended,Nikon D800,70–200mm f2.8 lens,200mm,1/1600sec,f4,-
+2020,15-17 Years,Highly Commended,Canon EOS-1D X Mark II,500mm f4 lens,500mm,1/2500sec,f9,ISO640
+2020,15-17 Years,Highly Commended,Nikon D850,300mm f4 lens,300mm,1/2000sec,f4,-
+2019,Animals in their Environment,Winner,Nikon D5,600mm f4 lens,600mm,1/1250sec,f6.3(+0.3e/v),ISO125
+2019,Animals in their Environment,Highly Commended,Nikon D800,70–300mm f4.5–5.6 lens , 300mm,1/500sec,f8,-
+2019,Animals in their Environment,Highly Commended,Nikon D3X,600mm f4 lens,600mm,1/500sec,f11(-0.7e/v),ISO160
+2019,Animals in their Environment,Highly Commended,Nikon D5,16–35mm f4 lens , 27mm,1/3sec,f6.3,ISO1250
+2019,Animals in their Environment,Highly Commended,Canon EOS 550D,Sigma 10–20mm f4–5.6 lens , 13mm,-,f9(-2e/v),ISO400
+2019,Animals in their Environment,Highly Commended,Canon EOS 5D Mark IV,24–105mm f4 lens , 97mm,1/8000sec,f4,-
+2019,Animals in their Environment,Highly Commended,Nikon D800E,24–70mm f2.8 lens , 56mm,1/40sec,f11,-
+2019,Animals in their Environment,Highly Commended,Nikon D5,24–70mm f2.8 lens , 32mm,1/200sec,f18,ISO200
+2019,Animals in their Environment,Highly Commended,Canon EOS-1D X Mark II,100–400mm f4.5–5.6 lens , 148mm,1/200sec,f8,-
+2019,Animal Portraits,Winner,Nikon D500,18–55mm lens (reverse mounted),55mm,1/160sec,-,ISO200
+2019,Animal Portraits,Highly Commended,Canon EOS-1D X Mark II,600mm f4 lens,600mm,1/1500sec,f5.6,ISO1000
+2019,Animal Portraits,Highly Commended,Sony α7R III,90mm f2.8 lens,90mm,1/160sec,f13,ISO125
+2019,Behaviour: Amphibians and Reptiles,Winner,Canon EOS 5D Mark II,17–40mm f4 lens , 20mm,1/640sec,f8(+0.7e/v),ISO800
+2019,Behaviour: Amphibians and Reptiles,Highly Commended,Sony RX10 IV,Zeiss Vario-Sonnar 8.8–220mm f2.4–4 lens,220mm,1/2000sec,f6.3,-
+2019,Behaviour: Amphibians and Reptiles,Highly Commended,Canon EOS 6D,100mm f2.8 lens,100mm,1/100sec,f16,ISO200
+2019,Behaviour: Birds,Winner,Canon EOS 5D Mark IV,11–24mm f4 lens , 11m,1/2500sec,f14(-1e/v),ISO800
+2019,Behaviour: Birds,Highly Commended,Nikon D5,600mm f4 lens,600mm,1/200sec,f4.5,ISO640
+2019,Behaviour: Birds,Highly Commended,Nikon D5,24–70mm f2.8 lens , 24mm,1/200sec,f18,ISO640
+2019,Behaviour: Birds,Highly Commended,Nikon D500,300mm f2.8 lens,300mm,1/1600sec,f8(+0.3e/v),ISO1600
+2019,Behaviour: Invertebrates,Winner,Canon EOS 7D,16–35mm f2.8 lens , 16mm,-,f22,ISO100
+2019,Behaviour: Invertebrates,Highly Commended,Sony α7R III,100mm f2.8 lens,100mm,1/160sec,f16,ISO800
+2019,Behaviour: Invertebrates,Highly Commended,Nikon D500,18–55mm lens (reverse mounted),55mm,1/125sec,-,ISO125
+2019,Behaviour: Invertebrates,Highly Commended,Canon EOS 70D,100mm f2.8 lens,100mm,1/250sec,f16,ISO400
+2019,Behaviour: Invertebrates,Highly Commended,Nikon D500,10mm f2.8 lens,10mm,-,f13,ISO800
+2019,Behaviour: Invertebrates,Highly Commended,Nikon D500,85mm f3.5 lens,85mm,1/50sec,f29(+2e/v),-
+2019,Behaviour: Invertebrates,Highly Commended,Canon EOS 7D Mark II,300mm f4 lens,300mm,1/640sec,f4,-
+2019,Behaviour: Mammals,Joint Winner,Canon EOS-1DX Mark II,600mm f4 lens,600mm,1/3000sec,f4,ISO1000
+2019,Behaviour: Mammals,Adult Grand Title Winner,Canon EOS-1D X,800mm f5.6 lens,800mm,1/2500sec,f5.6(+0.67e/v),ISO640
+2019,Behaviour: Mammals,Highly Commended,Nikon D4S,400mm f2.8 lens,400mm,1/640sec,f5,-
+2019,Behaviour: Mammals,Highly Commended,Canon EOS 7D Mark II,100–400mm f4.5–5.6 lens , 110mm,1/2500sec,f10,-
+2019,Behaviour: Mammals,Highly Commended,Nikon D750,400mm f2.8 lens,400mm,1/2000sec,f6.3(-0.7e/v),ISO640
+2019,Behaviour: Mammals,Highly Commended,Canon EOS 5D Mark IV,Tamron 150–600mm f5–6.3 G2 lens,600mm,1/2000sec,f6.3,-
+2019,Plants and Fungi,Winner,Nikon D850,70–200mm f2.8 lens , 112mm,1/4sec,f8,ISO64
+2019,Plants and Fungi,Highly Commended,Canon EOS 5D Mark III,17–40mm f4 lens , 19mm,1/80sec,f13,-
+2019,Plants and Fungi,Highly Commended,Canon EOS 5D Mark IV,Sigma 120–300mm f2.8 lens , 180mm,1/30sec,f25,-
+2019,Plants and Fungi,Highly Commended,Canon EOS 5D Mark II,100mm f2.8 lens,100mm,-,f5.6,ISO100
+2019,Plants and Fungi,Highly Commended,Sony α7R,16–35mm f4 lens , 16mm,1/40sec,f8,ISO200
+2019,Plants and Fungi,Highly Commended,Nikon D90,50mm f1.8 lens,50mm,1/640sec,f1.8,-
+2019,Under Water,Winner,Nikon D3,17–35mm f2.8 lens , 19mm,1/40sec,f14,ISO400
+2019,Under Water,Highly Commended,Nikon D800,Sigma 20 mm f1.8 lens,20 mm,1/250sec,f16,ISO50
+2019,Under Water,Highly Commended,Nikon D850,60mm f2.8 lens,60mm,-,f29,ISO160
+2019,Under Water,Highly Commended,Canon EOS 5D Mark IV,Sigma 70mm f2.8 Macro Art lens,70mm,1/200sec,f16,ISO400
+2019,Under Water,Highly Commended,Canon EOS 6D,15mm f2.8 fisheye lens,15mm,1/200sec,f7.1,ISO500
+2019,Under Water,Highly Commended,Nikon D810,60mm f2.8 lens,60mm,1/320sec,f22,ISO64
+2019,Urban Wildlife,Winner,Sony α7R III,16–35mm f4 lens , 24mm,1/20sec,f11,ISO4000
+2019,Urban Wildlife,Highly Commended,Nikon D810,70–200mm f2.8 lens , 145mm,-,f2.8(-0.7e/v),ISO800
+2019,Urban Wildlife,Highly Commended,Canon EOS 7D Mark II,16–35mm f2.8 lens , 16mm,1/200sec,f9,ISO1000
+2019,Urban Wildlife,Highly Commended,Nikon D750,50mm f1.8 lens,50mm,1/40sec,f3.5(+1e/v),ISO64
+2019,Earth’s Environments,Winner,Sony α7R III,100–400mm f4.5–5.6 lens , 196mm,1/4000sec,f5.6,-
+2019,Earth’s Environments,Highly Commended,Nikon D3S,80–200mm f2.8 lens , 155mm,1/400sec,f8,-
+2019,Earth’s Environments,Highly Commended,DJI Mavic Pro,26mm f2.2 lens,26mm,1/3200sec,f2.2,-
+2019,Earth’s Environments,Highly Commended,DJI Phantom 4 Pro,8.8mm lens,8mm,1/100sec,f4.5,-
+2019,Black and White,Winner,Canon EOS-1D X,100–400mm f5.6 lens , 200mm,1/15sec,f22(+1e/v),-
+2019,Black and White,Highly Commended,Nikon D850,28–70mm f3.5–4.5 lens , 31mm,1/60sec,f11,ISO500
+2019,Black and White,Highly Commended,Nikon D4S,105mm f2.8 lens,105mm,1/25sec,f16,ISO1600
+2019,Black and White,Highly Commended,Canon EOS 7D Mark II,100–400mm f4.5–5.6 lens , 400mm,1/500sec,f8,-
+2019,Wildlife Photojournalism,Winner,Nikon D850,Sigma 14–24mm f2.8 lens , 16mm,-,f2.8,ISO1600
+2019,Wildlife Photojournalism,Highly Commended,Nikon D800,17–35mm f2.8 lens,35mm,1/250sec,f3.2(+0.3e/v),-
+2019,Wildlife Photojournalism,Highly Commended,Panasonic Lumix DC-G9,12–60mm f2.8–4.0 lens,60mm,1/200sec,f6.3,-
+2019,Wildlife Photojournalism,Highly Commended,Nikon D3S,16mm f2.8 lens,16mm,1/400sec,f9,ISO1250
+2019,Wildlife Photojournalism,Highly Commended,DJI Phantom 4 Pro,24mm lens,24mm,1/2000sec,f4,-
+2019,Wildlife Photojournalism,Highly Commended,Canon EOS 700D,18–55mm f3.5–5.6 lens,55mm,1/1250sec,f4.5,-
+2019,Wildlife Photojournalism,Highly Commended,Canon EOS-1D X,24–105mm f4 lens , 24mm,1/500sec,f14,-
+2019,Wildlife Photojournalism,Highly Commended,Nikon D810,24–70mm f2.8 lens , 24mm,1/160sec,f2.8,-
+2019,Wildlife Photojournalism,Highly Commended,DJI Mavic Pro,26mm f2.2 lens,26mm,1/30sec,-,-
+2019,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark IV,24–70mm f2.8 lens,70mm,1/160sec,f10(-1.7e/v),-
+2019,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X Mark II,16–35mm f2.8 lens,35mm,1/20sec,f11,ISO6400
+2019,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark III,24–70mm f2.8 lens,70mm,1/125sec,f2.8,-
+2019,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark III,24–70mm f2.8 lens,70mm,1/125sec,f2.8,-
+2019,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/320sec,f5.6(-0.3e/v),-
+2019,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X Mark II,24–70mm f2.8 lens,70mm,1/60sec,f16,ISO500
+2019,Wildlife Photojournalist Story Award,Highly Commended,Nikon D7100,10–24mm f3.5–4.5 lens , 16mm,1/250sec,f9(-0.7e/v),ISO1250
+2019,Wildlife Photojournalist Story Award,Highly Commended,Nikon D810,24–70mm f2.8 lens , 34mm,1/4000,f4(-0.3e/v),-
+2019,Wildlife Photojournalist Story Award,Highly Commended,Nikon D810,24–70mm f2.8 lens , 24mm,-,f16(-0.7e/v),ISO1600
+2019,Wildlife Photojournalist Story Award,Highly Commended,Nikon D810,24–70mm f2.8 lens , 38mm,1/640sec,f5.6(-0.7e/v),-
+2019,Wildlife Photojournalist Story Award,Highly Commended,Nikon D850,24–70mm f2.8 lens , 24mm,1/125sec,f8,ISO800
+2019,Wildlife Photojournalist Story Award,Highly Commended,Nikon D7100,18–70mm f3.5–4.5 lens , 22mm,1/8sec,f8(-2e/v),ISO1250
+2019,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark IV,80–200mm f2.8 lens , 80mm,1/2000sec,f4(+0.3e/v),-
+2019,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark IV,400mm f2.8 lens,400mm,1/1600sec,f3.5(+2.0e/v),-
+2019,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark IV,400mm f2.8 lens,400mm,1/1600sec,f2.8(+1.3e/v),-
+2019,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark IV,35mm f1.4 lens,35mm,1/2500sec,f14(+0.7e/v),-
+2019,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark IV,400mm f2.8 lens,400mm,1/3200sec,f4,-
+2019,Rising Star Portfolio Award,Winner,Canon EOS 7D Mark II,400mm f2.8 lens,400mm,1/6400sec,f4.5(+0.7e/v),-
+2019,Wildlife Photographer Portfolio Award,Winner,Nikon D810,400mm f2.8 lens,400mm,1/400sec,f5.6,-
+2019,Wildlife Photographer Portfolio Award,Winner,Nikon D500,400mm f2.8 lens,400mm,1/320sec,f5.6,-
+2019,Wildlife Photographer Portfolio Award,Winner,Nikon D810,400mm f2.8 lens,400mm,1/200sec,f5.6,-
+2019,Wildlife Photographer Portfolio Award,Winner,Nikon D700,70–200mm f2.8 lens , 195mm,1/60sec,f8,-
+2019,Wildlife Photographer Portfolio Award,Winner,Nikon D700,185mm f3.5 lens,185mm,1/160sec,f5.6,-
+2019,Wildlife Photographer Portfolio Award,Winner,Nikon D810,45mm f2.8 tilt-shift lens,45mm,1/60sec,f11,ISO800
+2019,Special Award: LUMIX People’s Choice Award,Winner,Nikon D500,105mm f2.8 lens,105mm,1/125sec,f2.8,-
+2019,Special Award: LUMIX People’s Choice Award,Highly Commended,Nikon D4S,85mm f1.4 lens,85mm,1/5000sec,f1.4,-
+2019,Special Award: LUMIX People’s Choice Award,Highly Commended,Canon EOS 1D X Mark II,500mm f4 lens,500mm,1/1250sec,f13(-1e/v),-
+2019,Special Award: LUMIX People’s Choice Award,Highly Commended,Nikon D850,Nikon AF-S 200-400mm lens , f4 VRII,1/800sec,f5,-
+2019,Special Award: LUMIX People’s Choice Award,Highly Commended,Canon 5D Mark II,100-400mm f4.5/5.6 lens,400mm,1/100sec,f5.6,-
+2019,10 Years and Under,Winner,Sony DSC-HX400V,24–210mm f2.8–6.3 lens , 51mm,1/320sec,f5,-
+2019,10 Years and Under,Highly Commended,Nikon D500,300mm f4 lens,300mm,1/640sec,f6.3,-
+2019,10 Years and Under,Highly Commended,Canon EOS 550D,55–250mm f4–5.6 lens , 55mm,1/800sec,f4,-
+2019,10 Years and Under,Highly Commended,Canon EOS 700D,250mm f4–5.6 lens,250mm,1/320sec,f7.1,-
+2019,11-14 Years,Young Grand Title Winner 2019,Canon EOS 5D Mark III,100mm f2.8 lens,100mm,1/125sec,f29,ISO200
+2019,11-14 Years,Highly Commended,Nikon COOLPIX P900,1/30 sec , f2.8,-,-,ISO400
+2019,11-14 Years,Highly Commended,Canon EOS 5D Mark lll,100–400mm f4.5–5.6 lens , 400mm,1/2000sec,f8,ISO2000
+2019,11-14 Years,Highly Commended,Nikon D700,28–300mm f3.5–5.6 lens , 45mm,1/125sec,f10,-
+2019,15-17 Years,Winner,Nikon D800E,16–35mm f4 lens , 30mm,1/60sec,f8,ISO100
+2019,15-17 Years,Highly Commended,Nikon D500,200–500mm f5.6 lens , 500mm,1/500sec,f5.6(-1e/v),-
+2019,15-17 Years,Highly Commended,Nikon D7100,80–400mm f5.6 lens , 400mm,1/640sec,f5.6,-
+2018,Animals in their Environment,Winner,DJI Phantom 4 Pro Plus,8.8–24mm (35mm-form, equiv),1/200sec,f2.8–11lens,-
+2018,Animals in their Environment,Highly commended,Nikon D5,70–200mm f2.8 lens , 98mm,1/3200sec,f5,-
+2018,Animals in their Environment,Highly commended,Nikon D500,14–24mm f2.8 lens , 14mm,1/200sec,f10,ISO400
+2018,Animals in their Environment,Highly commended,Canon EOS 550D,Sigma 10–20mm f4–5.6 lens , 16mm,1/20sec,f9,ISO200
+2018,Animals in their Environment,Highly commended,Nikon D810,Tokina 10–17mm f3.5–4.5 lens , 15mm,1/125sec,f18,ISO100
+2018,Animals in their Environment,Highly commended,Canon 7D,11–22mm f3.5–4.5 lens,22mm,1/25sec,f10,ISO250
+2018,Animals in their Environment,Highly commended,Nikon D7000,Nikon 10–24mm f3.5–4.5 lens , 15mm,1/100sec,f4.5(-0.67e/v),ISO3200
+2018,Animal Portraits,Adult Grand Title Winner 2018,Nikon D810,Tamron 24–70mm f2.8 lens , 24mm,1/320sec,f8,ISO1600
+2018,Animal Portraits,Highly commended,Nikon D800,Sigma 15mm f2.8 lens,15mm,1/200sec,f11,ISO200
+2018,Animal Portraits,Highly commended,Canon EOS-1D X Mark II,600mm f4 lens,600mm,1/400sec,f4,-
+2018,Animal Portraits,Highly commended,Sony ILCE-7RM2,28mm f2.8 lens,28mm,1/800sec,f8,ISO1250
+2018,Animal Portraits,Highly commended,Canon EOS-1D X,300mm f2.8 lens,300mm,1/1600sec,f5.6(+1.3e/v),-
+2018,Behaviour: Amphibians and Reptiles,Winner,Sony a7R II,28mm f2 lens,28mm,1/60sec,f13,ISO1250
+2018,Behaviour: Amphibians and Reptiles,Highly commended,Nikon D700,150mm f2.8 lens,150mm,1/320sec,f4.5,-
+2018,Behaviour: Amphibians and Reptiles,Highly commended,Sony a7R II,28mm f2 lens,28mm,1/50sec,f9,ISO800
+2018,Behaviour: Birds,Winner,Nikon D5,16–35mm f4 lens,35mm,1/200sec,f20,ISO160
+2018,Behaviour: Birds,Highly commended,Canon EOS 7D Mark II,100–400mm f4.5–5.6 lens , 400mm,1/250sec,f5.6,-
+2018,Behaviour: Birds,Highly commended,Canon EOS 5D Mark III,300mm f2.8 lens,300mm,1/1600sec,f9,-
+2018,Behaviour: Birds,Highly commended,Nikon D5,500mm f4 lens,500mm,1/1600sec,f8(+0.3e/v),ISO1000
+2018,Behaviour: Birds,Highly commended,Canon EOS 5D Mark III,17–40mm f4 lens , 24mm,1/1000sec,f10,ISO800
+2018,Behaviour: Invertebrates,Winner,Canon EOS-1D X,600mm f4 lens,600mm,1/4000sec,f8,-
+2018,Behaviour: Invertebrates,Highly commended,Canon EOS 5D Mark III,100mm f2.8 lens,100mm,1/250sec,f16,ISO1250
+2018,Behaviour: Invertebrates,Highly commended,Nikon D810,60mm f2.8 lens,60mm,1/320sec,f10,ISO2000
+2018,Behaviour: Invertebrates,Highly commended,Canon EOS 5DS,16–35mm f4 lens , 35mm,-,f5.6,ISO1600
+2018,Behaviour: Invertebrates,Highly commended,Canon EOS 70D,100mm f2.8 lens,100mm,1/250sec,f14,ISO100
+2018,Behaviour: Mammals,Winner,Nikon D610,70–300mm f4.5–5.6 lens ,185mm,1/750sec,f5,-
+2018,Behaviour: Mammals,Highly commended,Nikon D3,28–80mm f3.3–5.6 lens , 38mm,1/40sec,f11,ISO1250
+2018,Behaviour: Mammals,Highly commended,Nikon D5,400mm f2.8 lens,400mm,1/640sec,f5.6(-0.6e/v),ISO800
+2018,Behaviour: Mammals,Highly commended,Canon EOS-1D Mark IV,500mm f4 lens,500mm,1/1000sec,f16,ISO640flashes
+2018,Behaviour: Mammals,Highly commended,Canon EOS-1D X Mark II,400mm f2.8 lens,400mm,1/2000sec,f4,-
+2018,Plants and Fungi,Winner,Canon EOS 7D,Sigma 10–20mm f4–5.6 lens , 10mm,1/100sec,f22,ISO400
+2018,Plants and Fungi,Highly commended,Nikon D4S,24–120mm f4 lens , 78mm,1/640sec,f6.3,-
+2018,Plants and Fungi,Highly commended,Nikon D810,Nikon 70–200mm f2.8 lens , 185mm,1/20sec,f10,ISO250
+2018,Plants and Fungi,Highly commended,Nikon D800,105mm f2.8 lens,105mm,-,f16,ISO100
+2018,Under Water,Winner,Nikon D4,60mm f2.8 lens,60mm,1/8sec,f16,ISO500
+2018,Under Water,Highly commended,Canon EOS 5D Mark IV,14mm f2.8 lens,14mm,1/80sec,f2.8,ISO1600
+2018,Under Water,Highly commended,Canon EOS 5D Mark IV,100mm f2.8 lens,100mm,1/200sec,f8,ISO200
+2018,Under Water,Highly commended,Nikon D500,Tokina 10–17mm f3.5–4.5 lens , 11.5mm,1/250sec,f22,ISO1000
+2018,Under Water,Highly commended,Nikon D90,Tokina 10–17mm f3.5–4.5 lens , 10mm,1/50sec,f14,ISO400
+2018,Urban Wildlife,Winner,Nikon D700,28–70mm lens , 70mm,1/50sec,f4,ISO6400
+2018,Urban Wildlife,Highly commended,Canon 5D III,16–35mm lens,35mm,1/800sec,f16,-
+2018,Urban Wildlife,Highly commended,Sony RX1Rii,35mm f2 lens,35mm,1/125sec,f3.2,-
+2018,Urban Wildlife,Highly commended,Canon EOS-1D X,100–400mm f4.5–5.6 lens , 110mm,1/25sec,f14,ISO100
+2018,Urban Wildlife,Highly commended,Panasonic Lumix DMC-FZ200,108mm lens,108mm,1/400sec,f4,-
+2018,Urban Wildlife,Highly commended,Nikon D4,24–70mm f2.8 lens,70mm,1/125sec,f4,ISO1600
+2018,Earth’s Environments,Winner,Canon EOS 5D Mark III,70–200mm f2.8 lens , 110mm,1/500sec,f11,-
+2018,Earth’s Environments,Highly commended,Canon EOS 5D Mark III,24–70mm lens , 32mm,-,f10,ISO1000
+2018,Earth’s Environments,Highly commended,Canon EOS 5D Mark IV,100–400mm f4.5–5.6 lens , 286mm,-,f16,ISO50
+2018,Earth’s Environments,Highly commended,Canon EOS 5D Mark IV,Sigma 12–24mm f4 lens , 17mm,1/5sec,f20,ISO200
+2018,Earth’s Environments,Highly commended,Canon EOS 5D Mark IV,24–105mm f4 lens , 32mm,1/5000sec,f4,-
+2018,Black and White,Winner,Canon EOS-1D X Mark II,500mm f4 lens,500mm,1/5000sec,f5.6,ISO4000
+2018,Black and White,Highly commended,Nikon D200,12–24mm f4 lens , 12mm,1/200sec,f14,-
+2018,Black and White,Highly commended,Canon EOS 6D,24–105mm f4 lens , 90mm,1/50sec,f22,ISO100
+2018,Creative Visions,Winner,DJI Phantom 4 Pro Plus,8.8–24mm (35mm-form, equiv) f2.8–11 lens,1/120sec,f4.5,-
+2018,Creative Visions,Highly commended,Canon EOS 5D Mark II,Olympus BX51 light microscope,-,1/6sec,-,-
+2018,Creative Visions,Highly commended,Canon EOS 5D Mark IV,600mm f4 lens,600mm,1/1600sec,f9,ISO1250
+2018,Creative Visions,Highly commended,Canon EOS 5DS,70–200mm f2.8 lens , 125mm,1/4sec,f14,ISO200
+2018,Wildlife Photojournalism,Winner,Nikon D810,24–70mm f2.8 lens,70mm,1/250sec,f2.8,ISO100
+2018,Wildlife Photojournalism,Highly commended,Sony a9,Canon 16–35mm f2.8 lens,35mm,-,f11,ISO500
+2018,Wildlife Photojournalism,Highly commended,Nikon F4,50mm lens,50mm,1/125sec,f5.6,-
+2018,Wildlife Photojournalism,Highly commended,Nikon D7200,Tokina 10–17mm lens,17mm,1/250sec,f11,ISO100
+2018,Wildlife Photojournalism,Highly commended,Canon EOS 7D Mark II,17–55mm f2.8 lens,55mm,1/45sec,f2.8,-
+2018,Wildlife Photojournalism,Highly commended,Canon EOS 5D Mark IV,24–70mm f2.8 lens,70mm,-,f5.6,-
+2018,Wildlife Photojournalism,Highly commended,Canon EOS 5D Mark III,70–200mm f2.8 lens , 105mm,1/125sec,f7.1,ISO500
+2018,Wildlife Photojournalism,Highly commended,Leica M240,Zeiss Distagon T* 35mm f2 lens,35mm,1/125sec,f5.6,-
+2018,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark II,400mm f2.8 lens,400mm,1/8000sec,f2.8,ISO500
+2018,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark III,400mm f2.8 lens,400mm,1/1600sec,f2.8,-
+2018,Rising Star Portfolio Award,Winner,Canon EOS-1D X Mark II,400mm f2.8 lens,400mm,1/1600sec,f3.2,-
+2018,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark IV,400mm f2.8 lens,400mm,1/2500sec,f4,-
+2018,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark IV,400mm f2.8 lens,400mm,1/400sec,f8,ISO400
+2018,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark III,500mm f4 lens,500mm,1/640sec,f4.5,-
+2018,Wildlife Photojournalist Story Award,Winner,Nikon D3300,Sigma 10–20mm lens,20mm,1/200sec,f9,ISO200
+2018,Wildlife Photojournalist Story Award,Winner,Nikon D3300,Sigma 10–20mm lens,20mm,1/200sec,f8,ISO200
+2018,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16–35mm f2.8 lens,35mm,1/125sec,f4,-
+2018,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16–35mm f2.8 lens,35mm,1/160sec,f5,-
+2018,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16–35mm,35mm,1/4000sec,f2.8lens,-
+2018,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16–35mm,35mm,f2.8lens1/5000sec,f2.8lens1/5000sec,-
+2018,Wildlife Photojournalist Story Award,Highly commended,Leica M-P,21mm f3.4 lens,21mm,1/180sec,f16,-
+2018,Wildlife Photojournalist Story Award,Highly commended,Leica M10,21mm f3.4 lens,21mm,1/45sec,f11,-
+2018,Wildlife Photojournalist Story Award,Highly commended,Canon EOS 5D Mark IV,35mm f1.4 lens,35mm,1/125sec,f10,ISO12800
+2018,Wildlife Photojournalist Story Award,Highly commended,Leica M-P,35mm f2 lens,35mm,1/125sec,f6.8,-
+2018,Wildlife Photojournalist Story Award,Highly commended,Leica M-P,35mm f2 lens,35mm,1/125sec,f9.5,-
+2018,Wildlife Photojournalist Story Award,Highly commended,Leica M10,21mm f3.4 lens,21mm,1/45sec,f5.6,ISO10000
+2018,Wildlife Photographer Portfolio Award,Winner,Nikon D810,60mm f2.8 lens,60mm,1/5sec,f32,ISO500
+2018,Wildlife Photographer Portfolio Award,Winner,Canon EOS 70D,65mm f2.8 lens,65mm,1/200sec,f7.1,ISO100
+2018,Wildlife Photographer Portfolio Award,Winner,Canon EOS 5D Mark II,65mm f2.8 lens,65mm,1/160sec,f13,ISO800
+2018,Wildlife Photographer Portfolio Award,Winner,Nikon D810,Tokina 10–17mm f3.5–4.5 lens , 16mm,1/15sec,f32,ISO800
+2018,Wildlife Photographer Portfolio Award,Winner,Canon EOS 5D Mark II,65mm f2.8 lens,65mm,1/160sec,f14,ISO640
+2018,Wildlife Photographer Portfolio Award,Winner,Canon EOS 5D Mark II,65mm f2.8 lens,65mm,1/100sec,f10,ISO640
+2018,Special Award: LUMIX People’s Choice Award,Winner,Nikon D800E,400mm f/2.8 lens,400mm,-,-,-
+2018,Special Award: LUMIX People’s Choice Award,Highly commended,Sony a7R II,Sony FE 100-400mm f4.5-5.6 GM OSS lens,400mm,1/200sec,f10,-
+2018,Special Award: LUMIX People’s Choice Award,Highly commended,Nikon D810,Nikon 24-70mm f2.8 lens , 40mm,1/250sec,f11,-
+2018,Special Award: LUMIX People’s Choice Award,Highly commended,Canon EOS 5D Mark III,70-200mm f2.8 IS II USM lens,200mm,1/500sec,f4.0,-
+2018,Special Award: LUMIX People’s Choice Award,Highly commended,Canon EOS-1DX Mark II,200-400mm lens (35mm equivalent: 197.2-394.3 mm),400mm,1/1800sec,f4.0,-
+2018,10 Years and Under,Winner,Nikon D500,500mm f4 lens,500mm,1/1600sec,f4(-0.7e/v),-
+2018,10 Years and Under,Highly commended,Nikon D810,105mm f2.8 lens,105mm,1/2500sec,f2.8,-
+2018,10 Years and Under,Highly commended,Nikon D500,300mm f4 lens,300mm,1/640sec,f5.6,-
+2018,11-14 Years,Winner,Nikon D7100,200–400mm f4 lens , 400mm,1/320sec,f4,-
+2018,11-14 Years,Highly commended,Canon EOS-1D X Mark II,100mm f2.8 lens,100mm,1/250sec,f13,ISO160
+2018,11-14 Years,Highly commended,Lumix GH3,Canon 70–200mm f2.8 lens,200mm,1/1000sec,-,-
+2018,11-14 Years,Highly commended,Nikon D700,105mm f2.8 lens,105mm,1/60sec,f20,-
+2018,15-17 Years,Young Grand Title Winner 2018,Canon EOS-1D X,500mm f4 lens,500mm,1/80sec,f4,-
+2018,15-17 Years,Highly commended,DJI Mavic Pro,4.73mm lens,73mm,1/25sec,f2.2,-
+2018,15-17 Years,Highly commended,Canon EOS 7D Mark II,100–400mm f4.5–5.6 lens , 400mm,1/30sec,f13,ISO250
+2018,15-17 Years,Highly commended,Canon EOS-1D X,500mm f4 lens,500mm,1/100sec,f4,ISO400
+2017,Animals in their Environment,Finalist,Canon EOS-1D X,800mm f5.6 lens , 800mm,1/400sec,f25(-1.7e/v),-
+2017,Animals in their Environment,Finalist,Canon EOS 5DS R,Laowa Venus 15mm lens,15mm,-,f16,ISO1250
+2017,Animals in their Environment,Finalist,Nikon D4,70–300mm f4.5–5.6 lens , 155mm,1/8sec,f11,-
+2017,Animals in their Environment,Finalist,Nikon D810,70–200mm f2.8 lens , 86mm,1/500sec,f8,-
+2017,Animals in their Environment,Finalist,Canon EOS-1D X,100–400mm f4.5–5.6 lens , 176mm,1/320sec,f6.3,-
+2017,Animal Portraits,Winner,Fujifilm X-T1,50–140mm lens , 140mm,1/75sec,f2.8(–1.3e/v),-
+2017,Animal Portraits,Finalist,Nikon D200,200–400mm f4 lens and 1.4x extender,400mm,1/80sec,f10,-
+2017,Animal Portraits,Finalist,Canon 6D,Sigma 24mm lens,24mm,-,f4andf16,ISO500
+2017,Animal Portraits,Finalist,Nikon D800E,400mm f2.8 lens,400mm,1/500sec,f13(–0.3e/v),-
+2017,Animal Portraits,Finalist,Canon 5D,24–105mm f4 lens,105mm,1/250sec,f8,-
+2017,Animal Portraits,Finalist,Nikon D300S,600mm f4 lens,600mm,1/1250sec,f5,-
+2017,Behaviour: Amphibians and Reptiles,Winner,Nikon D5,17–35mm f2.8 lens , 24mm,1/64thpowerandtungstengel,f8,ISO1600
+2017,Behaviour: Amphibians and Reptiles,Finalist,Canon EOS-1D X,70–200mm f2.8 lens , 135mm,-,f16,-
+2017,Behaviour: Amphibians and Reptiles,Finalist,Nikon D800,16–35mm f4 lens , 16mm,1/250sec,f6.3,ISO200
+2017,Behaviour: Amphibians and Reptiles,Finalist,Canon EOS 70D,8–15mm f4 lens , 15mm,-,f11,ISO250
+2017,Behaviour: Birds,Winner,Canon 7D Mark II,18–200mm f3.5 lens,200mm,1/1000sec,f9,-
+2017,Behaviour: Birds,Finalist,Canon EOS 5D Mark III,300mm f2.8 lens,300mm,-,f4,-
+2017,Behaviour: Birds,Finalist,Nikon D700,14–24mm f2.8 lens,24mm,1/400sec,f20,-
+2017,Behaviour: Birds,Finalist,Canon EOS 5D Mark II,16–40mm f2.8 lens , 16mm,1/40sec,f8,ISO640
+2017,Behaviour: Birds,Finalist,Nikon D4S,600mm f4 lens and 1.4x extender,600mm,1/640sec,f20(-1.7e/v),-
+2017,Behaviour: Invertebrates,Winner,Nikon D810,15mm f2.8 lens,15mm,1/100sec,f14,ISO400
+2017,Behaviour: Invertebrates,Finalist,Canon EOS 5D Mark II,100mm f2.8 lens,100mm,1/125sec,f13,ISO200
+2017,Behaviour: Invertebrates,Finalist,Sony A77 Mark II,100mm lens and Raynox filter,100mm,1/250sec,f13,-
+2017,Behaviour: Invertebrates,Finalist,Sony A77 Mark II,100mm lens and Raynox filter,100mm,1/250sec,f11,ISO100
+2017,Behaviour: Invertebrates,Finalist,Nikon D90,Nikkor 50mm f1.8 lens and Tamron 10–24mm f3.5–4.5 lens , 11mm,doubleexposure:1/15sec,f13and60sec,ISO1250
+2017,Behaviour: Invertebrates,Finalist,Canon EOS 7D Mark II,100mm f2.8 lens,100mm,1/250sec,f20,ISO100
+2017,Behaviour: Mammals,Winner,Canon EOS 5D Mark III,15mm f2.8 lens,15mm,1/250sec,f6.3,-
+2017,Behaviour: Mammals,Finalist,Nikon D4S,17–35mm f2.8 lens,35mm,1/640sec,f11,-
+2017,Behaviour: Mammals,Finalist,Canon EOS-1D X,100–400mm f4.5–5.6 lens,400mm,1/1600sec,f7.1,-
+2017,Behaviour: Mammals,Finalist,Canon EOS-1D Mark IV,100–400mm f4.5–5.6 lens,400mm,1/2000sec,f5.6,-
+2017,Behaviour: Mammals,Finalist,Canon EOS-1D X,500mm f4 lens,500mm,1/1250sec,f6.3,-
+2017,Behaviour: Mammals,Finalist,Nikon D5,16mm f2.8 lens,16mm,1/250sec,f4.5,-
+2017,Plants and Fungi,Winner,Canon EOS 650D,70–200mm f4 lens , 100mm,1/100sec,f5.6(-1e/v),-
+2017,Plants and Fungi,Finalist,Nikon D810,14–24mm f2.8 lens , 14mm,1/3sec,f20,-
+2017,Plants and Fungi,Finalist,Canon EOS 5D Mark III,70–200mm f2.8 lens , 125mm,1/250sec,f16,-
+2017,Plants and Fungi,Finalist,Sony Alpha ILCE-7R,Zeiss FE 16–35mm f4 lens,35mm,1/100,f8,-
+2017,Plants and Fungi,Finalist,Canon EOS 5D Mark III,Tamron 150–600mm f5–6.3 lens , 250mm,1/800sec,f5.6,-
+2017,Under Water,Winner,Nikon D810,60mm f2.8 lens,60mm,1/250sec,f22(-0.3e/v),ISO64
+2017,Under Water,Finalist,Nikon D800,16mm f2.8 lens,16mm,1/125sec,f8(-1e/v),ISO400
+2017,Under Water,Finalist,Nikon D300,Tokina 10–17mm f3.5–4.5 lens , 17mm,1/125sec,f8,ISO200
+2017,Under Water,Finalist,Canon EOS 5D Mark III,100mm f2.8 lens,100mm,1/200sec,f25,ISO320
+2017,Under Water,Finalist,Nikon D4,16mm f2.8 lens,16mm,1/250sec,f16,ISO100
+2017,Under Water,Finalist,Sony A7R II,28mm f2 lens and Nauticam WWL-1 lens,28mm,1/60sec,f7.1,ISO2000
+2017,Urban Wildlife,Finalist,Canon EOS 7D,24–105mm f4 lens,105mm,-,f4,ISO400
+2017,Urban Wildlife,Finalist,Canon 5D Mark III,500mm f4 lens,500mm,1/160sec,f29,-
+2017,Urban Wildlife,Finalist,Canon 6D,17–40mm f4 lens , 17mm,1/60sec,f10,ISO640
+2017,Urban Wildlife,Finalist,Canon EOS 5D Mark III,24mm f3.5 tilt-shift lens,24mm,1/6sec,f13,ISO250
+2017,Urban Wildlife,Finalist,Nikon D500,200–400mm f4 lens,400mm,1/2000sec,f4,-
+2017,Earth’s Environments,Winner,Nikon D4S,13mm f2.8 lens,13mm,1/30to1/60sec,f6.3(147stitchedimages),ISO3200
+2017,Earth’s Environments,Finalist,Canon EOS 5D Mark III,70–200mm f2.8 lens , 173mm,1/640sec,f11,-
+2017,Earth’s Environments,Finalist,Canon EOS 5DS R,24–105mm f4 lens , 105mm,1/1600sec,f5,-
+2017,Earth’s Environments,Finalist,Nikon D810,14–24mm f2.8 lens , 24mm,1/500sec,f8(-1e/v),-
+2017,Earth’s Environments,Finalist,Nikon D7000,18–200mm f3.5–5.6 lens , 35mm,1/1600sec,f9,-
+2017,Black and White,Winner,Canon EOS-1D X,200–400mm f4 lens , 200mm,1/640sec,f9(+0.7e/v),-
+2017,Black and White,Finalist,Nikon D4,Sigma 15mm f2.8 lens,15mm,1/200sec,f7.1,-
+2017,Black and White,Finalist,Nikon D800E,300mm f2.8 lens,300mm,1/1600sec,f2.8,ISO3200
+2017,Black and White,Finalist,Nikon D3,300mm f2.8 lens,300mm,1/320sec,f2.8,-
+2017,Black and White,Finalist,Nikon D4S,80–400mm f4.5–5.6 lens , 290mm,1/320sec,f8(+1e/v),-
+2017,Wildlife Photojournalism,Winner,Nikon D700,80–200mm f2.8 lens , 120mm,1/500sec,f3.2,-
+2017,Wildlife Photojournalism,Finalist,Canon EOS 5D Mark III,100mm f2.8 lens,100mm,1/200sec,f5.6,ISO160
+2017,Wildlife Photojournalism,Finalist,Sony A7R II,16–35mm f4 lens,35mm,1/60sec,f16,ISO320
+2017,Wildlife Photojournalism,Finalist,Canon 5D Mark II,24–105mm lens , 58mm,1/45sec,f5.6,-
+2017,Wildlife Photojournalism,Finalist,Canon EOS-1D X,85mm f1.2 lens,85mm,1/640sec,f1.4,-
+2017,Wildlife Photojournalism,Finalist,Leica S (Typ 007),30mm lens,30mm,1/250sec,f2.8,-
+2017,Wildlife Photojournalism,Finalist,Canon EOS-1D X,200–400mm f4 lens,400mm,1/1000sec,f8,-
+2017,Wildlife Photojournalist Story Award,Adult Grand Title Winner 2017,Canon EOS-1D X,28mm f2.8 lens,28mm,1/250sec,f9,-
+2017,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24mm lens,24mm,1/200sec,f3.2,-
+2017,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D,35mm f1.4 lens,35mm,1/250sec,f8,-
+2017,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,28mm f2 lens,28mm,1/125sec,f2.8,-
+2017,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,35mm f1.4 lens,35mm,1/250sec,f2.8,-
+2017,Wildlife Photojournalist Story Award,Winner,Fuji FinePix X100,35mm f2 lens,35mm,1/210sec,f4,-
+2017,Wildlife Photojournalist Story Award,Finalist,Nikon D4S,300mm f4 lens,300mm,1/320sec,f4,-
+2017,Wildlife Photojournalist Story Award,Finalist,Nikon D4S,16–35mm f4 lens,35mm,1/1000sec,f8,-
+2017,Wildlife Photojournalist Story Award,Finalist,Nikon D4S,16–35mm f4 lens , 24mm,1/200sec,f9,-
+2017,Wildlife Photojournalist Story Award,Finalist,Nikon D4S,300mm f4 lens,300mm,1/320sec,f4,-
+2017,Wildlife Photojournalist Story Award,Finalist,Nikon D4S,16–35mm f4 lens,35mm,1/160sec,f8,-
+2017,Wildlife Photojournalist Story Award,Finalist,Nikon D4S,16–35mm f4 lens,35mm,1/160sec,f6.3,-
+2017,Wildlife Photographer Portfolio Award,Winner,Nikon D2X,10.5mm f2.8 lens,5mm,1/160sec,f18,ISO200
+2017,Wildlife Photographer Portfolio Award,Winner,Nikon D3S,17–35mm f2.8 lens and gradu,ed filters,1/200sec,f10,-
+2017,Wildlife Photographer Portfolio Award,Winner,Nikon D3S,17–35mm f2.8 lens and gradu,ed filters,1/250sec,f6.3,-
+2017,Wildlife Photographer Portfolio Award,Winner,Nikon D3S,24–70mm f2.8 lens , 24mm,1/200sec,f14,-
+2017,Wildlife Photographer Portfolio Award,Winner,Nikon D3,14–24mm f2.8 lens , 14mm,1/250sec,f7.1,-
+2017,Wildlife Photographer Portfolio Award,Winner,Nikon D3S,20mm f2.8 lens,20mm,1/5sec,f20,-
+2017,Special Award: People’s Choice,Winner,Nikon D300,Nikon 17–35mm f2.8 lens , 25mm,1/100sec,f3.2,-
+2017,Special Award: People’s Choice,Finalist,Canon EOS 5D Mark III,16–35mm f4 lens,35mm,1/100sec,f6.3,-
+2017,Special Award: People’s Choice,Finalist,Nikon D4,800mm f5.6 lens,800mm,1/2500sec,f5.6,-
+2017,Special Award: People’s Choice,Finalist,Canon EOS 5DS R,600mm f4 lens,600mm,1/1250sec,f7.1(-0.67e/v),-
+2017,Special Award: People’s Choice,Finalist,Nikon D800,24-70mm f2.8 lens,70mm,1/800sec,f11,-
+2017,10 Years and Under,Winner,Nikon D90,18–70mm f3.5–4.5 lens , 18mm,1/320sec,f11(+0.7e/v),-
+2017,10 Years and Under,Finalist,Canon EOS 500D,100mm f2.8 lens,100mm,1/125sec,f11,ISO800
+2017,10 Years and Under,Finalist,Canon EOS 70D,100–400mm f4.5–5.6 lens,400mm,1/500sec,f5.6,-
+2017,10 Years and Under,Finalist,Nikon D7100,Nikkor 70–200mm f2.8 lens , 200mm,1/40sec,f2.8,-
+2017,10 Years and Under,Finalist,Nikon D810,Nikkor 300mm f2.8 lens,300mm,1/1000sec,f2.8,-
+2017,10 Years and Under,Finalist,Nikon 1 AW1,1 Nikkor 11–27.5mm f3.5–5.6 lens,5mm,1/400sec,f5.6,-
+2017,11-14 Years,Winner,Canon EOS 7D Mark II,500mm f4 lens,500mm,1/640sec,f5.6(+1.7e/v),-
+2017,11-14 Years,Finalist,Canon EOS 5D,500mm f4 Mark II lens,500mm,1/1250sec,f8(+1e/v),-
+2017,11-14 Years,Finalist,Nikon D7100,AF-S 200–500mm f5.6 lens , 500mm,1/200sec,f7.1(+0.3e/v),-
+2017,11-14 Years,Finalist,Nikon D4S,800mm f5.6 VR lens,800mm,1/200sec,f5.6,-
+2017,11-14 Years,Finalist,Canon EOS 5D Mark III,Canon 500mm f4 lens,500mm,1/250sec,f4,-
+2017,15-17 Years,Young Grand Title Winner 2017,Canon 6D,Sigma 50–500mm f4.5–6.3 lens , 500mm,1/30sec,f6.3,-
+2017,15-17 Years,Finalist,Canon EOS 5D Mark III,100mm f2.8 lens,100mm,1/25sec,f2.8,-
+2017,15-17 Years,Finalist,Canon EOS 5D Mark III,400mm f2.8 lens and 2x extender,400mm,1/2500sec,f5.6(-0.3e/v),-
+2017,15-17 Years,Finalist,Canon EOS 7D Mark II,100–400mm f4.5–5.6 lens , 400mm,1/8000sec,f6.3(-1e/v),-
+2017,15-17 Years,Finalist,Canon EOS 7D,70–200mm f2.8 lens,200mm,1/250sec,f2.8(-0.5e/v),-
+2016,Mammals,Winner,Nikon D810,800mm f5.6 lens,800mm,1/500sec,f5.6,-
+2016,Mammals,Finalist,Nikon D7100,10-24mm lens , 24mm,1/2500sec,f5.6,-
+2016,Mammals,Finalist,Canon EOS-1D X,24-70mm lens , 42mm,1/40sec,f5.6,-
+2016,Mammals,Finalist,Canon EOS 5D Mark II,17-40mm f4 lens , 17mm,1/400sec,f14,-
+2016,Mammals,Finalist,Canon EOS 5D Mark II,100-400mm f4.5-5.6 lens,400mm,1/400sec,f8(+1e/v),-
+2016,Mammals,Finalist,Canon EOS 7D Mark II,70-200mm 2.8 lens , 145mm,1/640sec,f8,-
+2016,Mammals,Finalist,Nikon D3S,200-400mm f4 lens , 240mm,1/400sec,f13,-
+2016,Birds,Winner,Nikon D810,200mm f2 lens,200mm,1/500sec,f5,-
+2016,Birds,Finalist,Canon EOS 5D Mark III,17-40mm f4 lens , 24mm,1/640sec,f5.6,-
+2016,Birds,Finalist,Nikon D4,50mm f1.4 lens,50mm,1/640sec,f13(-1e/v),-
+2016,Birds,Finalist,Nikon D200,18-70mm f3.5-f4.5 lens , 25mm and infrared filter,1/125sec,f5.6,-
+2016,Birds,Finalist,Canon 7D,100-400mm f4.5-5.6 lens , 400mm,1/1250sec,f6.3,-
+2016,Birds,Finalist,Nikon D4,20mm f2.8 lens,20mm,1/250sec,f10,ISO800
+2016,Birds,Finalist,Nikon D3S,600mm f4 lens,600mm,1/5000,f4,-
+2016,Birds,Finalist,Nikon D3S,500mm f4 lens and 1.4x extender,500mm,1/1250sec,f5.6,ISO800
+2016,Reptiles, Amphibians and Fish,Winner,Nikon D90,Tokina 10-17mm f3.5-4.5 lens , 10mm,1/60sec,f11,-
+2016,Reptiles, Amphibians and Fish,Finalist,Canon EOS 5D Mark III,Sigma 15mm f2.8 lens,15mm,1/80sec,f9,-
+2016,Reptiles, Amphibians and Fish,Finalist,Canon EOS 5D Mark III,17-40mm f4 lens , 17mm,1/125sec,f11,ISO320
+2016,Reptiles, Amphibians and Fish,Finalist,Canon EOS 5D,14mm f2.8 lens,14mm,1/20sec,f16,ISO200
+2016,Reptiles, Amphibians and Fish,Finalist,Canon EOS 5D,14mm f2.8 lens,14mm,1/13sec,f18,ISO100
+2016,Reptiles, Amphibians and Fish,Finalist,Canon EOS 5D,20mm f2.8 lens,20mm,1/320sec,f11,-
+2016,Reptiles, Amphibians and Fish,Finalist,Canon EOS 5D Mark III,17-40mm f4 lens,40mm,1/500sec,f5,-
+2016,Invertebrates,Winner,Nikon D800,Sigma 14mm f2.8 lens,14mm,-,f18,ISO50
+2016,Invertebrates,Finalist,Nikon D3S,17-35mm f2.8 lens , 20mm,-,f6.3,ISO3200
+2016,Invertebrates,Finalist,Canon EOS 5D Mark III,15mm f2.8 lens,15mm,1/200sec,f18,ISO320
+2016,Invertebrates,Finalist,Nikon D90,Sigma 17-70mm f2.8-4.5 lens , 17mm,-,f14and30sec,ISO800
+2016,Invertebrates,Finalist,Canon EOS 6D,100mm f2.8 lens,100mm,-,f8,ISO100
+2016,Invertebrates,Finalist,Olympus E-PL1,60mm lens,60mm,1/100sec,f14,ISO100
+2016,Plants,Winner,Nikon D4,200mm f4 lens,200mm,1/80sec,f10,ISO200
+2016,Plants,Finalist,Nikon D800,70-200mm f2.8 lens , 200mm and B+W polarising filter,1/125sec,f7.1,-
+2016,Plants,Finalist,Nikon D800,105mm f2.8 lens,105mm,1/100sec,f4.2,-
+2016,Plants,Finalist,Nikon D800,85mm f2.8 lens,85mm,-,f19,-
+2016,Urban Wildlife,Winner,Nikon D7000,18-105mm f3.5-5.6 lens , 21mm,1/20sec,f7.1,-
+2016,Urban Wildlife,Finalist,Canon EOS 5D Mark II,300mm f4 lens,300mm,1/125sec,f4,-
+2016,Urban Wildlife,Finalist,Canon EOS 7D,100-400mm f4.5-5.6 lens , 160mm,1/250sec,f9,ISO200
+2016,Urban Wildlife,Finalist,Nikon D800,17-35mm f2.8 lens , 17mm,1/6sec,f4.5,ISO800
+2016,Urban Wildlife,Finalist,Canon EOS 6D,70-200mm f4 lens and 1.4x extender , 208mm,-,f7.1,-
+2016,Urban Wildlife,Finalist,Canon EOS-1D X,17-40mm f4 lens , 40mm,1/2500,f7.1,ISO1600
+2016,Land,Winner,Nikon D3S,200-400mm f4 lens , 350mm,1/400sec,f8,-
+2016,Land,Finalist,Canon EOS 5D Mark III,300mm f2.8 lens,300mm,1/1250sec,f2.8,-
+2016,Land,Finalist,Nikon D300,80-200mm f2.8 lens , 200mm,1/640sec,f5.6(-1.3e/v),-
+2016,Land,Finalist,Nikon D3X,70-200mm f2.8 lens , 100mm and polarising filter,-,f16,-
+2016,Land,Finalist,Nikon D300,70-200mm f2.8 lens , 70mm,1/350sec,f4,-
+2016,Land,Finalist,Canon EOS 5D Mark III,Zeiss 21mm f2.8 lens and Lee landscape polariser,21mm,-,f11,ISO100
+2016,Under Water,Winner,Canon EOS 5D Mark III,15mm f2.8 lens,15mm,1/200sec,f9,ISO640
+2016,Under Water,Finalist,Nikon D300,Tokina 10-17mm f3.5-4.5 lens , 10mm,1/160sec,f14,ISO200
+2016,Under Water,Finalist,Canon EOS-1D X,11-24mm f4 lens , 11mm and 1.2 Lee filter,1/100sec,f5.6,-
+2016,Under Water,Finalist,Nikon D7000,Tokina 10-17mm f3.5-4.5 lens , 10mm,1/200sec,f9,ISO200
+2016,Under Water,Finalist,Canon EOS 5D Mark II,Sigma 15mm f2.8 lens,15mm,1/200sec,f7.1,ISO400
+2016,Under Water,Finalist,Canon EOS 5D Mark III,Sigma 15mm f2.8 lens,15mm,1/60sec,f14,ISO400
+2016,Details,Winner,Canon EOS 5DS R,24-70mm f4 lens , 70mm,1/2000,f5.6(+0.3e/v),-
+2016,Details,Finalist,Canon EOS 7D,100mm f2.8 lens,100mm,1/50sec,f8,-
+2016,Details,Finalist,Nikon D200,Sigma 300-800mm f5.6 lens , 800mm,1/160sec,f8,-
+2016,Details,Finalist,Canon EOS-1D X,100-400mm f4.5-5.6 lens , 400mm,1/1000sec,f7.1,-
+2016,Details,Finalist,Canon EOS-1Ds Mark III,Zeiss 35mm f2 lens,35mm,1/250sec,f7.1,-
+2016,Impressions,Winner,Nikon D7000,Tokina 10-17mm f3.5-4.5 lens , 10mm,1/8sec,f13,ISO100
+2016,Impressions,Finalist,Nikon D90,Sigma 17-70mm f2.8-4.5 lens , 32mm,1/6sec,f16,ISO640
+2016,Impressions,Finalist,Canon EOS 5D Mark III,100-400mm f4.5-5.6 lens , 140mm,1/2500sec,f6.3,-
+2016,Impressions,Finalist,Nikon D810,Helios 44 58mm f2 lens,58mm,1/250sec,f2.8,-
+2016,Impressions,Finalist,Nikon D800,500mm f4.5 lens,500mm,1/1600sec,f4.5,-
+2016,Black and White,Winner,Nikon D4,300mm f2.8 lens and 2x extender,300mm,1/160sec,f5.6,-
+2016,Black and White,Finalist,Nikon D600,Meyer Primoplan 58mm f1.9 lens,58mm,1/250sec,f1.9,-
+2016,Black and White,Finalist,Canon EOS 5D Mark II,500mm f4 lens,500mm,1/500sec,f4,-
+2016,Black and White,Finalist,Nikon D200,70-200mm f2.8 lens , 140mm,1/1000sec,f2.8,-
+2016,Black and White,Finalist,Canon EOS 5DS R,500mm f4 lens,500mm,1/1600sec,f4,-
+2016,Black and White,Finalist,Nikon D300,Tokina 10-17mm f3.5-4.5 lens,17mm,1/250sec,f8,ISO200
+2016,Wildlife Photojournalism,Winner,Canon EOS 5D Mark III,16-35mm f2.8 lens , 21mm,1/800sec,f8,-
+2016,Wildlife Photojournalism,Finalist,Nikon F4,85mm lens,85mm,1/125sec,f5.6,-
+2016,Wildlife Photojournalism,Finalist,Nikon D700,Sigma 300-800mm f5.6 lens , 600mm,1/800sec,f8,-
+2016,Wildlife Photojournalism,Finalist,Nikon D750,24-70mm f2.8 lens , 24mm,1/200sec,f14:ISO640,f14:ISO640
+2016,Wildlife Photojournalism,Finalist,Canon EOS 5D Mark III,11-24mm f4 lens , 11mm and 1.2 Lee filter,1/200sec,f6.3,-
+2016,Wildlife Photojournalism,Finalist,Canon EOS 5D Mark III,24mm f1.4 lens,24mm,1/160sec,f2.2,-
+2016,Wildlife Photojournalism,Finalist,Canon EOS-1D X,200-400mm f4 lens,400mm,1/8000sec,f5.6,-
+2016,Wildlife Photojournalism,Finalist,Canon EOS Rebel T2i,Sigma 10-20mm f4-5.6 lens , 10mm,1/60sec,f16,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Canon EOS-1D Mark IV,800mm f5.6 lens and 1.4x extender , 1120mm,1/2500sec,f8,-
+2016,Wildlife Photojournalist Story Award,Adult Grand Title Winner 2016,GoPro HERO4 Black,1/30 sec , f2.8,-,-,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Canon EOS-1D X,24-105mm f4 lens , 24mm,1/120sec,f22,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Canon EOS-1D C,200-400mm f4 lens,400mm,1/30sec,f5.6,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,DJI Phantom 3 Pro drone and DJI FC300X camera,1/640 sec , f2.8,-,-,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Canon EOS-1D X,24-105mm f4 lens , 50mm,1/1000sec,f9,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Canon EOS-1D X,24-105mm f4 lens , 24mm,1/60sec,f8,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Canon EOS 5D Mark III,24-105mm f4 lens,105mm,1/750sec,f4.5,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Sony DSC-RX 100M3,24-70mm f1.8-2.8 lens,70mm,1/640sec,f5.6,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Canon EOS 5D Mark III,16-35mm f2.8 lens , 16mm,1/8000sec,f4,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Canon EOS 5D Mark III,24-105mm f4 lens,105mm,1/1000,f4,-
+2016,Wildlife Photojournalist Story Award,Joint Winner,Leica M Typ 240,Summicron-M 35mm f2 lens,35mm,1/750sec,f16,-
+2016,Special Award: People’s Choice,Winner,Canon EOS 7D,100–400mm lens , 160mm,1/15sec,f7.1,-
+2016,Special Award: People’s Choice,Finalist,Canon 7D Mark II,Canon 500mm f4 lens , f4.5,1/1000sec,-,-
+2016,Special Award: People’s Choice,Finalist,Nikon D4s,Nikkor 800mm f5.6 lens and 1.25x extender,800mm,1/1000sec,f13(+2/3e/v),-
+2016,Special Award: People’s Choice,Finalist,Canon EOS 5D Mark III,70–200mm f2.8 lens,200mm,1/1250sec,f2.8,-
+2016,Special Award: People’s Choice,Finalist,Canon EOS 5D Mark III,200–400mm f4 lens and 1.4x extender,400mm,1/640sec,f8,-
+2016,Special Award: People’s Choice,Finalist,Nikon D810,Sigma 35mm f1.4 lens,35mm,1/80sec,f11,-
+2016,Special Award: People’s Choice,Finalist,Nikon D300s,Nikkor 80–400mm f4–5.6 lens , 400mm,1/8000sec,f11,-
+2016,10 Years and Under,Winner,Nikon 7100,200-400mm f4 lens and 1.4x extender , 500mm,1/200sec,f5.6,-
+2016,10 Years and Under,Finalist,Nikon Coolpix L840,1/60 sec , f5.4,-,-,-
+2016,10 Years and Under,Finalist,Canon EOS 500D,55-250mm f5.6 lens,250mm,1/250sec,f5.6,-
+2016,10 Years and Under,Finalist,Canon EOS 5D Mark ll,70-200mm f2.8 lens and 2x extender , 360mm,1/500sec,f5.6,-
+2016,10 Years and Under,Finalist,Nikon 7100,150-500mm f5-6.3 Sigma lens , 500mm,1/250sec,f6.3,-
+2016,11-14 Years,Winner,Canon EOS 7D,100-400mm f4.5-5.6 lens , 120mm,1/5000sec,f7.1(-1e/v),-
+2016,11-14 Years,Finalist,Canon EOS 1200D,75-300mm f5.6 lens,300mm,1/640sec,f5.6,-
+2016,11-14 Years,Finalist,Nikon 1 V3,70-300mm f4.5-5.6 lens , 215.5mm,1/400sec,f16(+0.3e/v),-
+2016,11-14 Years,Finalist,Canon EOS 7D,100-400mm f4.5-5.6 lens , 210mm,1/640sec,f6.3,-
+2016,15-17 Years,Young Grand Title Winner 2016,Canon EOS 7D Mark I,400mm f5.6 lens,400mm,1/250sec,f6.3,-
+2016,15-17 Years,Finalist,Canon EOS 60D,300mm f4 lens,300mm,1/1000sec,f7.1,-
+2016,15-17 Years,Finalist,Nikon D4,70-200mm f2.8 lens , 200mm,1/1000sec,f5.6,-
+2016,15-17 Years,Finalist,Canon EOS 5D Mark III,500mm f4 lens,500mm,1/8000sec,f4,-
+2016,15-17 Years,Finalist,Canon Powershot G9,1/30 sec , f4.8,-,-,-
+2015,Mammals,Adult Grand Title Winner 2015,Canon EOS-1D X,200-400mm f4 lens,400mm,1/1000sec,f8,-
+2015,Mammals,Finalist,Nikon D4,70-200mm f2.8 lens,200mm,1/8000sec,f5.6,-
+2015,Mammals,Finalist,Canon EOS-1D X,100-400mm f4.5-5.6 lens,400mm,1/320sec,f8,-
+2015,Mammals,Finalist,Canon EOS-1D X,16-35mm f2.8 lens , 30mm,1/160sec,f5.6,-
+2015,Mammals,Finalist,Canon EOS 7D,70-200mm f2.8 lens,200mm,1/200sec,f2.8,-
+2015,Mammals,Finalist,Canon EOS 6D,300mm f2.8 lens,300mm,1/500sec,f3.5(-2.3e/v),-
+2015,Mammals,Finalist,Nikon D4,600mm f4 lens,600mm,1/3200sec,f8,-
+2015,Birds,Winner,Canon EOS-1D X,500mm f4 lens,500mm,1/1600sec,f8(+0.33e/v),-
+2015,Birds,Finalist,Nikon D300,70-200mm f2.8 lens , 125mm,-,f11,-
+2015,Birds,Finalist,Nikon D300,70-200mm f4 lens , 200mm,1/2500sec,f5(+0.7e/v),-
+2015,Birds,Finalist,Panasonic Lumix DMC-GX7,7-14mm f4 lens , 7mm,1/500sec,f5.6,-
+2015,Birds,Finalist,Canon EOS 5D Mark III,70−200mm f4 lens , 163mm,1/800sec,f5.6,-
+2015,Amphibians and Reptiles,Winner,Canon G15,28-140mm f1.8-2.8 lens , 28mm,1/500sec,f6.3,-
+2015,Amphibians and Reptiles,Finalist,Canon EOS−1D X,100−400mm f4.5−5.6 lens , 100mm,1/2000sec,f7.1,-
+2015,Amphibians and Reptiles,Finalist,Canon 5D Mark III,Sigma 15mm f2.8 lens,15mm,-,f22,ISO1250
+2015,Amphibians and Reptiles,Finalist,Nikon D3,17-35mm f2.8 lens , 17mm,1/13sec,f22,ISO320
+2015,Amphibians and Reptiles,Finalist,Canon EOS 5D Mark II,15mm f2.8 lens,15mm,-,f22,ISO100
+2015,Invertebrates,Winner,Canon EOS 7D,100mm f2.8 lens,100mm,1/10sec,f11,-
+2015,Invertebrates,Finalist,Nikon D7100,Tamron f2.8 90mm , 00mm,1/250sec,f9(+2e/v),-
+2015,Invertebrates,Finalist,Canon EOS 70D,Sigma 180mm f3.5 lens,180mm,-,f16,ISO100
+2015,Invertebrates,Finalist,Nikon D7100,200-400mm f4 lens,400mm,1/1250sec,f5.6,-
+2015,Plants,Winner,Nikon D810,70-200mm f2.8 lens , 170mm,1/320sec,f8,-
+2015,Plants,Finalist,Canon EOS 5D Mark II,24-105mm f4 lens , 32mm,1/60sec,f14,-
+2015,Plants,Finalist,Canon EOS 20D,Tamron 28-75mm f2.8 lens , 57mm,1/40sec,f5,-
+2015,Plants,Finalist,Canon EOS-1D X,100mm f2.8 lens,100mm,1/800sec,f2.8(+1e/v),-
+2015,Under Water,Winner,Nikon D3S,14-24mm f2.8 lens , 14mm,1/250sec,f9(-1e/v),ISO800
+2015,Under Water,Finalist,Canon EOS 5D Mark II,8-15mm f4 lens , 15mm,1/100sec,f10,ISO320
+2015,Under Water,Finalist,Nikon D800,60mm f2.8 lens,60mm,1/320sec,f18,ISO200
+2015,Under Water,Finalist,Canon EOS 5D Mark III,16-35mm f2.8 lens , 16mm,1/125sec,f7.1,-
+2015,Under Water,Finalist,Nikon D3S,16mm lens,16mm,1/250sec,f18,ISO320
+2015,Land,Winner,Hasselblad H3DII-50,50mm lens,50mm,1/500sec,f3.4,-
+2015,Land,Finalist,Canon EOS 5D Mark II,400mm f5.6 lens,400mm,1/125sec,f16,-
+2015,Land,Finalist,Sony Alpha a7R,Nikon 14-24mm f2.8 lens,24mm,1/125sec,f16,-
+2015,Land,Finalist,Canon EOS 7D,12-24mm f4 lens,24mm,-,f13,-
+2015,Land,Finalist,Canon EOS 5D 17-40mm f4 lens at 25mm,10 sec , f22,-,-,-
+2015,From the Sky,Winner,Canon EOS 5D Mark III,70-200mm f4 lens , 70mm,1/1000sec,f5.6,-
+2015,From the Sky,Finalist,Canon EOS 7D Mark II,70-200mm f2.8 lens,200mm,1/8000sec,f4,-
+2015,From the Sky,Finalist,Nikon D810,70-200mm f4 lens,200mm,1/2000sec,f9,-
+2015,From the Sky,Finalist,Fujifilm X-T1,55-200mm f3.5-4.8 lens , 200mm,1/750sec,f4.8(-1e/v),-
+2015,From the Sky,Finalist,Nikon D800E,Zeiss Otus 55mm f1.4 lens,55mm,1/1250sec,f3.2,-
+2015,Urban Wildlife,Winner,Nikon D810,18-35mm lens , 32mm,-,f8,ISO1250
+2015,Urban Wildlife,Finalist,Canon EOS 5D Mark II,16-35mm f2.8 lens , 16mm,-,f7.1,ISO1250
+2015,Urban Wildlife,Finalist,Canon EOS-1D X,70-200mm f2.8 lens,200mm,-,f2.8,ISO1600
+2015,Urban Wildlife,Finalist,Canon EOS 5D Mark II,70-200 mm f4 lens , 200mm,1/50sec,f4,-
+2015,Urban Wildlife,Finalist,Nikon D800,300mm f2.8 lens,300mm,1/15sec,f22,ISO320
+2015,Details,Winner,Canon 6D,24-105mm f00 lens , 35mm,1/8sec,f8,-
+2015,Details,Finalist,Nikon D800,28-105mm f3.5-4.5 lens , 70mm,-,f25,-
+2015,Details,Finalist,Canon EOS 5D Mark II,24-105mm f4 lens , 45mm,-,f16,ISO400
+2015,Details,Finalist,Canon EOS 5D Mark III,100mm f2.8 lens,100mm,1/90sec,f19,-
+2015,Details,Finalist,Phase One 645DF,IQ180 Digital Back,-,-,f8,-
+2015,Impressions,Winner,Canon 7D,70-200mm f2.8 lens , 150mm,1/250sec,f14,ISO400
+2015,Impressions,Finalist,Canon EOS 5D Mark III,24-105mm f4 lens , 80mm,1/20sec,f22(-0.3e/v),-
+2015,Impressions,Finalist,Nikon D800,Sigma 20mm f1.8 lens,20mm,1/125sec,f22,ISO1600
+2015,Impressions,Finalist,Canon EOS 6D,100mm f2.8 lens,100mm,1/60sec,f7.1,-
+2015,Impressions,Finalist,Canon EOS 5D Mark III,100mm f2.8 lens,100mm,1/5sec,f16,-
+2015,Black and White,Winner,Canon 5D Mark III,500mm f4 lens , 500mm,1/50sec,f8,-
+2015,Black and White,Finalist,Canon 5D Mark III,24-105mm f4 lens , 60mm,1/4000sec,f4,-
+2015,Black and White,Finalist,Nikon D800,Sigma 300-800mm lens , 800mm,1/15sec,f20,-
+2015,Black and White,Finalist,Nikon F4,600mm f4 lens,600mm,-,-,-
+2015,Black and White,Finalist,Nikon D800,70-200mm f2.8 lens , 200mm,1/640sec,f8,-
+2015,Wildlife Photojournalism,Winner,Nikon F4,24 mm lens,24 mm,1/125sec,f5.6,-
+2015,Wildlife Photojournalism,Finalist,Nikon D700,16mm lens,16mm,1/1600sec,f18,-
+2015,Wildlife Photojournalism,Finalist,Canon 5D Mark III,16-35mm f2.8 lens , 16mm,1/80sec,f4.5,-
+2015,Wildlife Photojournalism,Finalist,Canon EOS 5D Mark III,24-70mm f2.8 lens , 53mm,1/250sec,f2.8,-
+2015,Wildlife Photojournalism,Finalist,Canon EOS 5D Mark III,50 mm f1.8 lens,50 mm,1/125sec,f1.8,-
+2015,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/250sec,f16,-
+2015,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/640sec,f8,-
+2015,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/160sec,f6.3,-
+2015,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/80sec,f1.8,-
+2015,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/100sec,f9,-
+2015,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/125sec,f14,-
+2015,Rising Star Portfolio Award,Winner,Canon Rebel XTI,Tokina 12-24mm f4 lens , 15mm,1/200sec,f9,ISO400
+2015,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 II lens , 16mm,1/1000sec,f7.1,-
+2015,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens , 16mm,-,f4,ISO3200
+2015,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 II lens , 22mm,1/60sec,f13,ISO1600
+2015,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark II,70-200mm f2.8 IS lens , 200mm,-,f16,-
+2015,Rising Star Portfolio Award,Winner,Canon EOS-1D Mark IV,16-35mm f2.8 lens , 16mm,1/60sec,f8,-
+2015,Wildlife Photographer Portfolio Award,Winner,Canon EOS-1D X,Samyang 14mm f2.8 lens,14mm,-,f22and,ISO640
+2015,Wildlife Photographer Portfolio Award,Winner,Canon EOS-1D X,Tamron 70-200mm f2.8 lens , 70mm,1/250sec,f3.5,ISO2000
+2015,Wildlife Photographer Portfolio Award,Winner,Canon EOS 5D Mark III,16-35 mm f2.8 lens,35 mm,1/200sec,f6.3,ISO2000,-
+2015,Wildlife Photographer Portfolio Award,Winner,Canon EOS 5D Mark III,8-15mm f4 lens , 15mm,1/160sec,f10,ISO2500
+2015,Wildlife Photographer Portfolio Award,Winner,Canon EOS 5D Mark III,8-15mm f4 lens,15mm,1/160sec,f10,ISO1000
+2015,Wildlife Photographer Portfolio Award,Winner,Canon EOS 5D Mark III,8-15mm f4 lens , 15mm,1/2500sec,f8,-
+2015,Special Award: TIMElapse,Winner,GoPro 4,f2.8 lens,-,-,PremiereProtooutput.NikonD800+16-35mmf8lens,ISO400
+2015,Special Award: TIMElapse,Finalist,Canon EOS 5D Mark II,Nikon D800,-,-,-,-
+2015,Special Award: People’s Choice,Winner,Nikon D4,300mm lens,300mm,1/1250sec,f5.6,-
+2015,Special Award: People’s Choice,Finalist,Canon EOS 70D,Sigma 120–300mm f2.8 lens,300mm,1/1600sec,f4.0,-
+2015,Special Award: People’s Choice,Finalist,Nikon D3X,70–200mm lens.,200mm,-,-,-
+2015,Special Award: People’s Choice,Finalist,Canon EOS 7D,70–200mm f2.8 lens,200mm,1/250sec,f14(+1.7e/v),-
+2015,Special Award: People’s Choice,Finalist,Nikon D7100,300mm f4 lens,300mm,1/1600sec,f5.6,-
+2015,10 Years and Under,Winner,Nikon D7100,200-400mm f4lens,400mm,1/1250sec,f5.6,-
+2015,10 Years and Under,Finalist,Nikon D7100,300mm f4 lens,300mm,1/320sec,f6.3(+1e/v),-
+2015,10 Years and Under,Finalist,Nikon D7100,300mm f4 lens,300mm,1/640sec,f7.1,-
+2015,10 Years and Under,Finalist,Nikon D7100,200-400mm f4 lens , 400mm,1/2500sec,f5,-
+2015,10 Years and Under,Finalist,Canon EOS 7D,100-400mm f4.5-5.6 lens , 380mm,1/800sec,f5.6,-
+2015,11-14 Years,Young Grand Title Winner 2015,Nikon D800,300/2,8VR2,-,1/500sec,-,-
+2015,11-14 Years,Finalist,Nikon D3,300mm f2.8 lens,300mm,1/640sec,f5.6,ISO800
+2015,11-14 Years,Finalist,Canon EOS 7D,100-400mm f4.5-5.6 lens , 190mm,1/2000sec,f8,-
+2015,11-14 Years,Finalist,Canon EOS 7D,100mm f2.8 lens , 100mm,1/30sec,f5.6(+0.6e/v),-
+2015,11-14 Years,Finalist,Canon EOS 5D Mark III,500mm f4 lens,500mm,1/640sec,f4.5,-
+2015,15-17 Years,Winner,Nikon D5100,55−300mm f4.5−5.6 lens , 300mm,1/1000sec,f6.3,-
+2015,15-17 Years,Finalist,Nikon D4,200-400mm f4 lens,400mm,1/4000sec,f7.1,-
+2015,15-17 Years,Finalist,Canon EOS 5D Mark III,17-40mm f4 lens,40mm,-,f4,ISO1600
+2015,15-17 Years,Finalist,Canon EOS 7D,300mm f2.8 lens,300mm,1/4000sec,f2.8(-1.7e/v),ISO100
+2015,15-17 Years,Finalist,Nikon D800,150mm f2.8 lens,150mm,1/60sec,f4(-1.7e/v),ISO800
+2014,Behaviour: Amphibians and Reptiles,Winner,Nikon D5000,85mm lens,85mm,1/400sec,f6.3,-
+2014,Behaviour: Amphibians and Reptiles,Finalist,Canon EOS-1Ds Mark III,100mm f2.8 lens,100mm,1/45sec,f11,-
+2014,Behaviour: Amphibians and Reptiles,Finalist,Nikon D3s,16mm f2.8 lens,16mm,-,f4,ISO3200
+2014,Behaviour: Amphibians and Reptiles,Finalist,Canon EOS 60D,8–15mm f4 lens,15mm,1/125sec,f10,ISO800
+2014,Behaviour: Amphibians and Reptiles,Finalist,Nikon D300,Sigma 150mm f2.8 lens,150mm,1/500sec,f6.3,-
+2014,Behaviour: Amphibians and Reptiles,Finalist,Nikon D800,24–70mm f2.8 lens , 70mm,1/320sec,f3.5,-
+2014,Behaviour: Invertebrates,Winner,Nikon D800,16–35mm f4 lens , 16mm,-,f5.6,ISO3200
+2014,Behaviour: Invertebrates,Finalist,Nikon D3,24–85mm f2.8–4 lens , 85mm,-,f4.5,-
+2014,Behaviour: Invertebrates,Finalist,Nikon D300s,10.5mm f2.8 lens,5mm,1/15sec,f13,ISO250
+2014,Behaviour: Invertebrates,Finalist,Nikon D7000,28–300mm f3.5–5.6 lens , 300mm,1/80sec,f11,-
+2014,Behaviour: Invertebrates,Finalist,Nikon D4,105mm f2.8 lens,105mm,1/250sec,f40,ISO200
+2014,Behaviour: Invertebrates,Finalist,Canon EOS 600D,Sigma 15mm f2.8 lens,15mm,-,f20,ISO200
+2014,Plants and Fungi,Winner,Canon EOS 5D Mark II,15mm lens,15mm,1/160sec,f14,-
+2014,Plants and Fungi,Finalist,Canon EOS 30D,10–22mm f3.5–4.5 lens , 10mm,-,f16(+0.3e/v),-
+2014,Plants and Fungi,Finalist,Canon EOS 5D Mark III,Sigma 70–200mm f2.8 lens , 70mm,1/640sec,f8,-
+2014,Plants and Fungi,Finalist,Nikon D4,28–300mm f3.5–5.6 lens , 200mm,1/200sec,f14(+0.6e/v),-
+2014,Plants and Fungi,Finalist,Nikon D3s,Tamron 90mm f2.8 lens,90mm,1/640sec,f4.5,-
+2014,Earth’s Environments,Winner,Nikon D300,Sigma 70–200mm f2.8 lens,200mm,1/541sec,f2.8,ISO200
+2014,Earth’s Environments,Finalist,Canon EOS-1D X,24mm f1.4 lens,24mm,-,f2.8,ISO1600
+2014,Earth’s Environments,Finalist,Nikon D700,Zeiss Distagon 21mm f2.8 lens,21mm,-,f16,-
+2014,Earth’s Environments,Finalist,Hasselblad H3DII-50,80mm lens,80mm,1/800sec,f4.8,-
+2014,Earth’s Environments,Finalist,Nikon D4,80–400mm f4.5–5.6 lens , 400mm,1/500sec,f9.5,-
+2014,Earth’s Environments,Finalist,Phase One P65+ & 150mm lens,ISO 200.,-,-,-,-
+2014,Earth’s Environments,Finalist,Nikon D700,35–120mm lens,120mm,-,-,-
+2014,Mammals,Winner,Canon EOS-1D Mark IV,105mm lens,105mm,-,f14,-
+2014,Mammals,Finalist,Canon EOS 5D Mark III,24mm f8 lens,24mm,1/180sec,f8,-
+2014,Mammals,Finalist,Nikon D7100,Sigma 10–20mm f3.5 lens , 10mm,-,f9(-0.7e/v),ISO800
+2014,Mammals,Finalist,Nikon D3s,80–400mm f4.5–5.6 lens , 175mm,1/1000sec,f5.6,-
+2014,Mammals,Finalist,Nikon D4,500mm lens,500mm,1/1600sec,f9,-
+2014,Mammals,Finalist,Nikon D800E,400mm f2.8 lens,400mm,1/500sec,f4,-
+2014,Mammals,Finalist,Nikon D800,70–200mm f2.8 lens , 180mm,1/125sec,f13(-0.6e/v),-
+2014,Birds,Winner,Nikon D800,Sigma 15mm f2.8 lens,15mm,-,f10,then31sec,ISO2000
+2014,Birds,Finalist,Nikon D4,16–35mm f4 lens , 17mm,1/640sec,f6.3,ISO3200
+2014,Birds,Finalist,Canon EOS 5D Mark III,400mm f5.6 lens,400mm,1/5sec,f16,-
+2014,Birds,Finalist,Nikon D7000,17–35mm f2.8 lens , 17mm,1/30sec,f6.3,ISO800
+2014,Birds,Finalist,Nikon D3s,80–400mm f4.5–5.6 lens , 400mm,-,f16,ISO200
+2014,Birds,Finalist,Canon EOS-1D Mark IV,300mm f2.8 lens,300mm,1/250sec,f16,ISO400
+2014,Under Water,Winner,Canon EOS 5D Mark II,17–40mm lens,40mm,1/100sec,f11,-
+2014,Under Water,Finalist,Canon EOS 5D,17–40mm f4 lens,40mm,1/80sec,f13,ISO200
+2014,Under Water,Finalist,Nikon D800,105mm f2.8 lens,105mm,1/320sec,f16,ISO200
+2014,Under Water,Finalist,Nikon D800E,Sigma 15mm f2.8 lens,15mm,1/160sec,f18,ISO100
+2014,Under Water,Finalist,Nikon D90,10–17mm f3.5–4.5 lens , 17mm,1/50sec,f14,ISO100
+2014,Under Water,Finalist,Nikon D300,Tokina 10–17mm f3.5–4.5 lens , 10mm,1/320sec,f16,ISO160
+2014,Under Water,Finalist,Nikon D4,17–35mm lens , 24mm,1/500sec,f11,-
+2014,Black and White,Adult Grand Title Winner 2014,Canon EOS 5D Mark III,24–70mm f2.8 lens , 32mm,1/250sec,f8,-
+2014,Black and White,Finalist,Canon EOS 7D,100mm f2.8 lens,100mm,1/250sec,f7.1,-
+2014,Black and White,Finalist,Canon EOS 5D,50mm f1.4 lens,50mm,1/1600sec,f1.4,-
+2014,Black and White,Finalist,Canon EOS 5D Mark II,300mm f4 lens,300mm,1/640sec,f4,-
+2014,Black and White,Finalist,Canon EOS-1D X,400mm f2.8 lens,400mm,1/250sec,f22,-
+2014,Black and White,Finalist,Nikon D4,14–24mm f2.8 lens , 15mm,1/90sec,f8,-
+2014,Natural Design,Winner,Canon EOS 5D Mark II,16–35mm f2.8 lens,35mm,1/8sec,f9,ISO320
+2014,Natural Design,Finalist,Canon EOS 5D Mark III,100–400mm f4.5–5.6 lens,400mm,1/6sec,f22(+1e/v),-
+2014,Natural Design,Finalist,Nikon D800,50mm f1.8 lens,50mm,1/60sec,f10,ISO400
+2014,Natural Design,Finalist,Nikon D600,70–300mm f4.5–5.6 lens , 180mm,1/3sec,f32,ISO100
+2014,Natural Design,Finalist,Canon EOS 550D,Zeiss Axioskop 40 Pol microscope,-,1/15sec,-,-
+2014,Natural Design,Finalist,Canon EOS 7D,100mm f2.8 lens,100mm,-,f8,ISO100
+2014,Natural Design,Finalist,Canon EOS 5D Mark II,Olympus BX51 microscope , x40,-,-,-
+2014,Special Award: TIMElapse,Winner,Canon EOS 5D Mark II,range of lenses (14 to 100mm),100mm,-,-,-
+2014,Special Award: TIMElapse,Finalist,Nikon D7000,28mm f2 lens,28mm,-,-,-
+2014,Special Award: TIMElapse,Finalist,Canon EOS-1D Mark III,16–35mm f2.8, 24–70mm f2.8, 70–200mm f2.8 lenses,35mm,-,-,-
+2014,World in Our Hands Award,Winner,Canon EOS 5D Mark II,17–40mm f4 lens , 38mm,1/160sec,f4,-
+2014,World in Our Hands Award,Finalist,Canon EOS Rebel T3i,10–22mm lens , 21mm,-,f6.7,ISO1600
+2014,World in Our Hands Award,Finalist,Nikon D300,Sigma 15mm lens,15mm,1/125sec,f8,-
+2014,World in Our Hands Award,Finalist,Canon EOS-1D X,24–105mm lens,105mm,1/2000sec,f6.3,-
+2014,World in Our Hands Award,Finalist,Nikon D3s,70–200mm f2.8 lens,200mm,1/800sec,f5.6,-
+2014,World in Our Hands Award,Finalist,Canon EOS 5D Mark III,16–35mm f2.8 lens,35mm,1/400sec,f10,-
+2014,World in Our Hands Award,Finalist,Canon EOS 5D Mark III,16–35mm f2.8 lens,35mm,-,f8,ISO1250
+2014,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens , 24mm,-,f16,-
+2014,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/250sec,f16,-
+2014,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/250sec,f14,-
+2014,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D X,24–70mm f2.8 lens,70mm,1/250sec,f4.6,-
+2014,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark III,24–70mm f2.8 lens,70mm,1/30sec,f22,-
+2014,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark III,24–70mm f2.8 lens,70mm,1/250sec,f4.5,-
+2014,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark III,500mm f4 lens,500mm,1/2000sec,f4.5(+2e/v),-
+2014,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark III,500mm f4 lens,500mm,1/250sec,f4(+0.6e/v),-
+2014,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark III,500mm f4 lens,500mm,1/2000sec,f4.5,-
+2014,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark III,500mm f4 lens,500mm,1/4000sec,f4,-
+2014,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark III,500mm f4 lens,500mm,1/500sec,f5(+0.3e/v),-
+2014,Rising Star Portfolio Award,Winner,Canon EOS 5D Mark III,500mm f4 lens,500mm,1/2000sec,f8(+0.6e/v),-
+2014,Wildlife Photographer Portfolio Award,Winner,Canon EOS 7D,10–22mm f3.5–4.5 lens,22mm,1/125sec,f8,-
+2014,Wildlife Photographer Portfolio Award,Winner,Canon EOS-1D Mark II,600mm f4 lens,600mm,1/180sec,f5.6,-
+2014,Wildlife Photographer Portfolio Award,Winner,Canon EOS 5D Mark II,600mm f4 lens,600mm,1/15sec,f4,-
+2014,Wildlife Photographer Portfolio Award,Winner,Canon EOS-1D Mark II,400mm f4 lens,400mm,1/750sec,f4,-
+2014,Wildlife Photographer Portfolio Award,Winner,Canon EOS 5D Mark II,400mm f4 lens,400mm,1/45sec,f4,-
+2014,Wildlife Photographer Portfolio Award,Winner,Canon EOS-1D Mark IV,600mm f4 lens,600mm,1/180sec,f5.6,-
+2014,10 Years and Under,Young Grand Title Winner 2014,Nikon D300,105mm f2.8 lens (28–300mm lens for the background),105mm,1/320sec,f10,-
+2014,10 Years and Under,Finalist,Nikon D7000,70–200mm f2.8 lens,200mm,1/1600sec,f6.3,-
+2014,10 Years and Under,Finalist,Nikon D7000,70–200mm f2.8 lens,200mm,1/1250sec,f5.6,-
+2014,10 Years and Under,Finalist,Nikon D5100,Sigma 50–150mm f2.8 lens,150mm,1/3200sec,f7.1,-
+2014,10 Years and Under,Finalist,Nikon D800,200–400mm f4 lens,400mm,1/640sec,f6.3(-0.3e/v),-
+2014,11-14 Years,Winner,Canon EOS 5D Mark III,100mm f2.8 lens,100mm,1/100sec,f18,ISO320
+2014,11-14 Years,Finalist,Canon EOS 7D,100–400mm lens , 400mm,1/30sec,f22(+0.7e/v),ISO800
+2014,11-14 Years,Finalist,Canon EOS 5D Mark II,70–200mm f2.8 lens , 200mm,1/200sec,f4,-
+2014,11-14 Years,Finalist,Canon EOS-1D Mark IV,100mm f2.8 lens,100mm,1/250sec,f4.5,-
+2014,11-14 Years,Finalist,Canon EOS-1D Mark IV,300mm f2.8 lens,300mm,1/400sec,f5.6(-0.7e/v),-
+2014,11-14 Years,Finalist,Canon EOS 550D,28–135mm f3.5–5.6 lens , 85mm,1/4sec,f5.6(-2.6e/v),-
+2014,15-17 Years,Winner,Nikon D2X,70–200mm f2.8 lens,200mm,1/500sec,f6.3,-
+2014,15-17 Years,Finalist,Nikon D700,300mm f4 lens,300mm,1/2500sec,f4,-
+2014,15-17 Years,Finalist,Canon EOS 7D,400mm f2.8 lens,400mm,1/1600sec,f4,-
+2014,15-17 Years,Finalist,Nikon D7000,35mm f1.8 lens,35mm,1/2000sec,f7.1(-0.7e/v),-
+2013,Animals in their Environment,Winner,Canon EOS 7D,10-22mm f3.5-4.5 lens,22mm,1/320sec,f4,-
+2013,Animals in their Environment,Runner-up,Nikon D4,200-400mm f4 lens,400mm,1/3200sec,f8(-0.7e/v),-
+2013,Animals in their Environment,Specially commended,Nikon D3s,80-200mm f2.8 lens,200mm,1/1000sec,f7,-
+2013,Animals in their Environment,Commended,Canon EOS-1D X,70-200mm f2 lens,200mm,1/350sec,f2.8,-
+2013,Animals in their Environment,Commended,Canon EOS 7D,28-75mm f2.8 lens,75mm,1/160sec,f2.8(-0.7e/v),-
+2013,Animals in their Environment,Commended,Nikon D800,16-35mm f4 lens,35mm,1/400sec,f11(-0.7e/v),-
+2013,Animals in their Environment,Commended,Canon EOS-1D Mark IV,24-105mm f4 lens,105mm,1/1250sec,f4(+2.3e/v),-
+2013,Animal Portraits,Adult Grand Title Winner 2013,Nikon D3s,16-35mm f4 lens,35mm,1/30sec,f22,ISO800
+2013,Animal Portraits,Joint runner-up,Nikon D3,16-35mm f4 lens,35mm,1/60sec,f16,ISO3200
+2013,Animal Portraits,Joint runner-up,Nikon D2Xs,200-400mm f4 lens,400mm,1/1250sec,f9,ISO400
+2013,Animal Portraits,Commended,Nikon D80,70-300mm f4.5-5.6 lens,300mm,1/125sec,f9(-2.3e/v),-
+2013,Animal Portraits,Commended,Canon EOS 5D Mark III,300mm f2.8 lens,300mm,1/250sec,f2.8,-
+2013,Animal Portraits,Commended,Canon EOS 5D Mark II,16-35mm f2.8 lens,35mm,1/200sec,f11,ISO640
+2013,Behaviour: Birds,Winner,Canon EOS-1D Mark IV,70-200mm f2.8 lens,200mm,1/500sec,f5.6(-1e/v),-
+2013,Behaviour: Birds,Runner-up,Canon EOS 5D Mark II,24mm f1.4 lens,24mm,1/6sec,f11,-
+2013,Behaviour: Birds,Commended,Nikon D3,600mm f4 lens,600mm,1/200sec,f18(-1.3e/v),-
+2013,Behaviour: Birds,Commended,Canon EOS 5D Mark III,300mm lens,300mm,1/3200sec,f2.8,-
+2013,Behaviour: Birds,Commended,Nikon D3X,16-35mm f4 lens,35mm,1/200sec,f22(-1e/v),ISO100
+2013,Behaviour: Birds,Commended,Canon EOS-1D Mark III,500mm f4 lens,500mm,1/800sec,f6.3(+0.7e/v),-
+2013,Behaviour: Birds,Commended,Canon EOS 7D,18-22mm f3.5 lens,22mm,1/250sec,f14,ISO100
+2013,Behaviour: Cold Blooded Animals,Winner,Nikon D7000,10-17mm Tokina fisheye lens , 17mm,1/125sec,f10,ISO100
+2013,Behaviour: Cold Blooded Animals,Runner-up,Nikon D7000,Tokina 10-17mm f3.5-4.5 lens,17mm,1/200sec,f8,ISO100
+2013,Behaviour: Cold Blooded Animals,Commended,Canon EOS 5D Mark III,300mm f2.8 lens,300mm,1/1250sec,f7.1,-
+2013,Behaviour: Cold Blooded Animals,Commended,Nikon D4,200-400mm f4 lens,400mm,1/500sec,f4,-
+2013,Behaviour: Mammals,Winner,Canon EOS-1D Mark IV,70-300mm f4.5-5.6 lens , 170mm,1/640sec,f5,-
+2013,Behaviour: Mammals,Runner-up,Nikon D700,300mm f2.8 lens,300mm,1/2000sec,f2.8,-
+2013,Behaviour: Mammals,Specially commended,Nikon D4,200-400mm f4 lens , 250mm,1/8000sec,f4,-
+2013,Behaviour: Mammals,Commended,Nikon D300s,200-400mm f4 lens,400mm,1/800sec,f4,-
+2013,Behaviour: Mammals,Commended,Nikon D4,600mm f4 lens,600mm,1/4000sec,f8(-1.7e/v),-
+2013,Botanical Realms,Winner,Three Canon EOS 1Ds Mark III,three 35mm f1.4 lenses,35mm,1/350-1/1000sec,-,-
+2013,Botanical Realms,Commended,Nikon D700,105mm f2.8 lens,105mm,1/60sec,f16,-
+2013,Botanical Realms,Commended,Canon 7D,Tokina 12-24mm f4 lens,24mm,-,f4,ISO320
+2013,Botanical Realms,Commended,Nikon D300,Meyer Gorlitz Trioplan 100mm f2.8 lens,100mm,1/1600sec,f2.8,ISO160
+2013,Botanical Realms,Commended,Canon 5D Mark II,17-40mm f4 lens,40mm,1/4sec,f20,-
+2013,Underwater Worlds,Winner,Nikon D3s,17-35mm lens , 35mm,1/250sec,f13,-
+2013,Underwater Worlds,Runner-up,Nikon D7000,Tokina 10-17mm fisheye lens,17mm,1/100sec,f11,ISO320
+2013,Underwater Worlds,Specially commended,Nikon D3s,modified wide-angle lens,-,1/250sec,f8,-
+2013,Underwater Worlds,Specially commended,Canon 5D Mark II,15mm f2.8 lens,15mm,1/60sec,f11,ISO100
+2013,Underwater Worlds,Commended,Canon EOS 5D Mark II,16-35mm f2.8 lens,35mm,1/200sec,f11,ISO640
+2013,Underwater Worlds,Commended,Nikon D300s,Tokina 10-17mm f3.5-4.5 lens,17mm,1/320sec,f20,ISO400
+2013,Underwater Worlds,Commended,Nikon D300,Tokina 10-17mm f3.5-4.5 lens , 10mm,1/60sec,f8,-
+2013,Wildscapes,Winner,Nikon D4,16-35mm f4 lens,35mm,1/40sec,f8,-
+2013,Wildscapes,Runner-up,Canon EOS 5D Mark III,14mm f2.8 II lens,14mm,-,f3.5,-
+2013,Wildscapes,Specially commended,Nikon D800,24-120mm f4 lens , 50mm,1/3sec,f16,-
+2013,Wildscapes,Commended,Canon EOS 5D Mark III,24-70mm f2.8 lens,70mm,-,f22,-
+2013,Wildscapes,Commended,Nikon D800E,70-200mm f2.8 lens,200mm,-,f22,-
+2013,Wildscapes,Commended,Canon EOS 5D Mark II,Canon TS-E 24mm f3.5 II lens,24mm,1/200sec,f11,ISO100
+2013,Urban Wildlife,Winner,Canon EOS 5D Mark III,17mm tilt/shift lens (both tilt and shift enabled),17mm,-,f11,ISO250
+2013,Urban Wildlife,Runner-up,Nikon D300,70-200mm f2.8 lens,200mm,1/1000sec,f11(-0.3e/v),-
+2013,Urban Wildlife,Commended,Nikon D700,70-200mm lens,200mm,1/100sec,f8,-
+2013,Nature in Black and White,Winner,Nikon D3s,500mm f4 lens,500mm,1/125sec,f5.6,-
+2013,Nature in Black and White,Runner-up,Nikon D4,200-400mm f4 lens,400mm,1/100sec,f4,-
+2013,Nature in Black and White,Commended,Nikon D1X,15-30mm f3.5 lens,30mm,1/90sec,f22,-
+2013,Nature in Black and White,Commended,Canon EOS-1D Mark III,600mm f4 lens,600mm,1/320sec,f16,-
+2013,Nature in Black and White,Commended,Olympus OM-D E-M5,Panasonic 8mm fisheye lens,8mm,1/250sec,f8,-
+2013,Creative Visions,Winner,Nikon D4,24-70mm f2.8 lens , 55mm,1/100sec,f11,-
+2013,Creative Visions,Runner-up,Canon EOS 5D3,8-15mm f4 lens,15mm,1/100sec,f22,-
+2013,Creative Visions,Commended,Nikon D700,70-200mm f2.8 lens,200mm,1/60sec,f2.8(-0.3e/v),-
+2013,Creative Visions,Commended,Nikon D4,24-70mm f2.8 lens,70mm,-,f8,ISO400
+2013,Creative Visions,Commended,Canon EOS 5D Mark III,500mm lens,500mm,1/3200sec,f4.5,-
+2013,Creative Visions,Commended,Canon EOS 7D,Sigma 50-500mm f4-6.3 lens,500mm,1/20sec,f32,-
+2013,Eric Hosking Portfolio Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens , 16mm,1/13sec,f8,ISO1600
+2013,Eric Hosking Portfolio Award,Winner,Canon EOS-1D Mark IV,500mm f4 lens , 700mm,1/15sec,f6.3,ISO400
+2013,Eric Hosking Portfolio Award,Winner,Canon 5D Mark II,70-200mm f2.8 lens , 115mm,-,f11,-
+2013,Eric Hosking Portfolio Award,Winner,Canon EOS-1D Mark IV,500mm f4 lens , 500mm,1/2500sec,f8,-
+2013,Eric Hosking Portfolio Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens , 16mm,-,f20,ISO100
+2013,Eric Hosking Portfolio Award,Winner,Canon EOS 5D Mark II,70-200mm f2.8 lens , 150mm,1/125sec,f7.1,-
+2013,Gerald Durrell Award for Endangered Species,Winner,Nikon D3,200-400mm lens,400mm,1/1600sec,f9,-
+2013,Gerald Durrell Award for Endangered Species,Runner-up,Nikon D2Xs,70-200mm f2.8 lens,200mm,1/60sec,f3.8,-
+2013,Gerald Durrell Award for Endangered Species,Commended,Nikon D300,80-400mm lens,400mm,1/80sec,f4.8,-
+2013,Gerald Durrell Award for Endangered Species,Commended,Nikon D7000,70-200mm f2.8 lens,200mm,1/160sec,f5(-0.3e/v),-
+2013,World in Our Hands Award,Winner,Nikon D90,Tokina 10-17mm lens , 14mm,1/80sec,f7.1,-
+2013,World in Our Hands Award,Runner-up,Nikon D3,24-70mm f2.8 lens,70mm,1/800sec,f6.3,-
+2013,World in Our Hands Award,Specially commended,Nikon D700,24-70mm lens,70mm,-,f22,-
+2013,World in Our Hands Award,Commended,Nikon D300,10.5mm f2.8 lens,5mm,1/160sec,f5,ISO400
+2013,World in Our Hands Award,Commended,Nikon D800,15mm fisheye f2.8 lens,15mm,1/320sec,f16,ISO640
+2013,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,24mm f1.4 lens , 24mm,1/250sec,f10,-
+2013,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens , 19mm,1/250sec,f5.6,-
+2013,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens , 20mm,1/60sec,f4.5,-
+2013,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens , 18mm,1/250sec,f5,-
+2013,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D Mark IV,16-35mm f2.8 lens , 16mm,1/125sec,f2.8,-
+2013,Wildlife Photojournalist Story Award,Winner,Canon EOS-1D Mark IV,35mm f1.4 lens , 35mm,-,f20,-
+2013,Wildlife Photojournalist Story Award,Runner-up,Canon EOS 5D Mark II,70-200mm f4 lens , 70mm,1/1000sec,f4.5,-
+2013,Wildlife Photojournalist Story Award,Runner-up,Canon EOS 5D Mark II,70-200mm f4 lens , 122mm,1/1000sec,f8,-
+2013,Wildlife Photojournalist Story Award,Runner-up,Canon EOS 5D Mark II,70-200mm f4 lens , 70mm,1/1000sec,f4.5,-
+2013,Wildlife Photojournalist Story Award,Runner-up,Canon EOS 5D Mark II,70-200mm f4 lens , 154mm,1/1000sec,f10,-
+2013,Wildlife Photojournalist Story Award,Runner-up,Canon EOS 5D Mark II,70-200mm f4 lens , 70mm,1/1000sec,f4,-
+2013,Wildlife Photojournalist Story Award,Runner-up,Canon EOS 5D Mark II,135mm f2 lens,135mm,1/1000sec,f9,-
+2013,10 Years and Under,Winner,Canon Powershot G12,1/2000 sec , f5 (-0.7 e/v),-,-,-
+2013,10 Years and Under,Runner-up,Canon Power Shot G12,1/500 sec , f4.5,-,-,-
+2013,10 Years and Under,Specially commended,Nikon D800E,300mm f2.8 lens,300mm,1/1600sec,f2.8(+0.7e/v),-
+2013,10 Years and Under,Specially commended,Nikon D800E,300mm f2.8 lens,300mm,1/500sec,f8,-
+2013,11-14 Years,Young Grand Title Winner 2013,Canon EOS 550D,100-400mm lens,400mm,1/400sec,f13,-
+2013,11-14 Years,Runner-up,Nikon D700,70-200mm f2.8 lens,200mm,1/20sec,f11,-
+2013,11-14 Years,Commended,Canon EOS 7D,100-400mm f4.5-5.6 lens,400mm,1/60sec,f6.3(+1e/v),-
+2013,11-14 Years,Commended,Nikon D2X,300mm f2.8 lens,300mm,1/160,f3.5(-1e/v),-
+2013,15-17 Years,Winner,Canon 40D,400mm f5.6 lens,400mm,1/125sec,-,-
+2013,15-17 Years,Runner-up,Nikon D7000,300mm f4 lens,300mm,1/4000sec,f4.5(-0.7e/v),-
+2013,15-17 Years,Specially commended,Canon EOS 7D,300mm f2.8 lens,300mm,1/8000sec,f2.8,-
+2013,15-17 Years,Commended,Nikon D7000,300mm f4 lens,300mm,1/320sec,f4(-0.3e/v),-
+2012,Animals in their Environment,Winner,Nikon D3S,14-24mm f2.8 lens,24mm,1/400sec,f11,-
+2012,Animals in their Environment,Runner-up,Nikon D3,17-55mm f2.8 lens,55mm,-,f2.8,ISO400
+2012,Animals in their Environment,Specially commended,Canon EOS-1Ds Mark III,16-35mm f2.8 lens,35mm,1/50sec,f2.8,-
+2012,Animals in their Environment,Commended,Canon EOS 30D,100-400mm f4.5-5.6 lens , 400mm,1/1250sec,f10,-
+2012,Animals in their Environment,Commended,Canon EOS-1Ds Mark III,300mm f2.8 lens,300mm,1/640sec,f6.3,-
+2012,Animals in their Environment,Commended,Nikon D3,24-70mm f2.8 lens,70mm,1/125sec,f2.8(-1.3e/v),-
+2012,Animals in their Environment,Commended,Nikon D200,80-400mm f4.5-5.6 lens , 370mm,1/1000sec,f6.3,-
+2012,Animal Portraits,Winner,Nikon D2X,80-400mm f4.5-5.6 lens,400mm,-,f8,ISO200
+2012,Animal Portraits,Runner-up,Canon EOS-1D Mark IV,500mm lens,500mm,1/1250sec,f7.1,-
+2012,Animal Portraits,Commended,Nikon D3,105mm f2.8 lens,105mm,1/200sec,f16,-
+2012,Animal Portraits,Commended,Canon EOS-1Ds Mark III,24-105mm f4 lens,105mm,1/30sec,f4,-
+2012,Animal Portraits,Commended,Nikon D3S,200-400mm f4 lens , 200mm,1/400sec,f4,-
+2012,Behaviour: Birds,Winner,Canon EOS-1D Mark IV,24-105mm f4 lens,105mm,1/2000sec,f11,-
+2012,Behaviour: Birds,Runner-up,Canon EOS 5D Mark II,8-15mm f4 lens,15mm,1/125sec,f4.5,ISO100
+2012,Behaviour: Birds,Commended,Nikon D300S,600mm f4 lens,600mm,1/2000sec,f5,-
+2012,Behaviour: Birds,Commended,Nikon D300,12-24mm lens,24mm,1/250sec,f7.1,ISO400
+2012,Behaviour: Birds,Commended,Nikon D3,600mm f4 lens,600mm,1/1000sec,f5.6,ISO400
+2012,Behaviour: Cold Blooded Animals,Winner,Canon EOS 5D Mark II,Sigma 15mm lens,15mm,1/100sec,f4,ISO400
+2012,Behaviour: Cold Blooded Animals,Commended,Canon 5D Mark II,100mm lens,100mm,1/250sec,f3.2(+0.75e/v),-
+2012,Behaviour: Mammals,Winner,Nikon D3,300mm f2.8 lens,300mm,1/1250sec,f2.8(-0.7e/v),-
+2012,Behaviour: Mammals,Runner-up,Canon EOS 50D,300mm f2.8 lens,300mm,1/10sec,f4,-
+2012,Behaviour: Mammals,Specially commended,Canon EOS-1Ds Mark III,100-400mm lens , 275mm,1/800sec,f5.6,-
+2012,Behaviour: Mammals,Commended,Nikon D7000,600mm lens,600mm,1/500sec,f8,-
+2012,Behaviour: Mammals,Commended,Nikon D3X,16-35mm f4 lens,35mm,1/200sec,f22(-1e/v),ISO100
+2012,Botanical Realms,Winner,Canon EOS-1D Mark II N,500mm f4 lens,500mm,1/80sec,f11,ISO400
+2012,Botanical Realms,Commended,Canon EOS 5D Mark II,100-400mm f4.5-5.6mm lens , 350mm,-,f22,-
+2012,Botanical Realms,Commended,Canon EOS 5D Mark II,EF 85mm f1.8 lens,85mm,-,f9.5,-
+2012,Botanical Realms,Commended,Nikon D3S,14-24mm f2.8 lens,24mm,-,f5,-
+2012,Botanical Realms,Commended,Nikon D3,80-400mm lens , 400mm,1/2000sec,f8(-1e/v),-
+2012,Botanical Realms,Commended,Canon EOS-1D Mark III,17-40mm f4 lens , 20mm,-,f16(-0.75e/v),ISO200
+2012,Underwater Worlds,Adult Grand Title Winner,Canon EOS-1D Mark IV,8-15mm f4 lens,15mm,1/1000sec,f7.1,-
+2012,Underwater Worlds,Runner-up,Canon EOS-1D Mark IV,16-35mm f2.8 lens,35mm,1/1250sec,f5,-
+2012,Underwater Worlds,Specially commended,Canon EOS 5D Mark II,15mm lens,15mm,1/160sec,f16,ISO200
+2012,Underwater Worlds,Commended,Canon EOS 5D Mark II,17-40mm f4 lens,40mm,1/100sec,f9,ISO800
+2012,Underwater Worlds,Commended,Canon EOS 7D,Tokina 10-17mm lens , 10mm,1/80sec,f11,ISO160
+2012,Underwater Worlds,Commended,Nikon D3,16mm lens,16mm,1/50sec,f5,ISO800
+2012,Wildscapes,Winner,Nikon D3,14-24mm f2.8 lens , 17mm,-,f2.8,ISO1600
+2012,Wildscapes,Runner-up,Canon EOS-1D Mark IV,135mm f2 lens,135mm,1/2000sec,f13,-
+2012,Wildscapes,Specially commended,Canon EOS 5D Mark II,Zeiss Distagon T* 21mm f2.8 lens,21mm,-,f16,ISO50
+2012,Wildscapes,Commended,Hasselblad H3DII-50,35-90mm f5.6 lens , 35mm,1/500sec,f5.6,-
+2012,Wildscapes,Commended,Canon EOS 5D Mark II,16-35mm f2.8 lens , 16mm,-,f2.8,-
+2012,Wildscapes,Commended,Nikon D7000,Sigma 10-20mm f3.5 lens , 10mm,-,f11,-
+2012,Urban Wildlife,Winner,Nikon D3S,70-200mm f2.8 lens,200mm,1/30sec,f4,-
+2012,Urban Wildlife,Runner-up,Hasselblad H3D-39,210mm lens,210mm,-,f7.1,-
+2012,Urban Wildlife,Specially commended,Canon EOS-1D Mark IV,16-35mm lens , 25mm,1/200sec,f18,-
+2012,Nature in Black and White,Winner,Canon EOS-1D Mark III,500mm f4 lens,500mm,1/640sec,f11,-
+2012,Nature in Black and White,Runner-up,Canon EOS-1D Mark III,300mm f2.8 lens,300mm,1/800sec,f9,-
+2012,Nature in Black and White,Specially commended,Canon EOS 5D Mark II infrared converted,24-105mm lens,105mm,1/250sec,f10,-
+2012,Nature in Black and White,Commended,Canon EOS-1D Mark IV,500mm f4 lens,500mm,1/30sec,f16,-
+2012,Creative Visions,Winner,Nikon D3,70-200mm f2.8 lens , 200mm,1/1600sec,f5.6,-
+2012,Creative Visions,Runner-up,Canon EOS 5D Mark II,Olympus BX51 light microscope,-,1/100sec,-,-
+2012,Creative Visions,Specially commended,Sony NEX-5,Nikon 50mm f1.4 lens,50mm,1/640sec,f1.4,-
+2012,Creative Visions,Commended,Canon EOS 5D Mark II,300mm f4 lens,300mm,1/250sec,f6.3,-
+2012,Creative Visions,Commended,Mamiya 645,80mm f4.5 Linhof Technorama lens,80mm,1/30sec,f11,-
+2012,Eric Hosking Portfolio Award,Winner,Canon EOS 5D Mark II,15mm fisheye lens,15mm,1/60sec,f7.1,-
+2012,Eric Hosking Portfolio Award,Winner,Canon EOS 5D Mark II,Sigma 15mm f2.8 fisheye lens,15mm,-,f2.8,-
+2012,Eric Hosking Portfolio Award,Winner,Canon EOS 5D Mark II,500mm f4 lens,500mm,1/250sec,f4,-
+2012,Eric Hosking Portfolio Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens,35mm,1/250sec,f9,-
+2012,Eric Hosking Portfolio Award,Winner,Canon EOS 5D Mark II,70-200mm f4 lens,200mm,-,f10,-
+2012,Eric Hosking Portfolio Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens,35mm,1/40sec,f2.8,-
+2012,Gerald Durrell Award for Endangered Species,Winner,Canon EOS-1Ds Mark II,70-200mm f2.8 lens , 75mm,1/160sec,f4,-
+2012,Gerald Durrell Award for Endangered Species,Runner-up,Canon EOS Rebel T1i,10-22mm f3.5-4.5 lens,22mm,1/200sec,f16,ISO400
+2012,Gerald Durrell Award for Endangered Species,Specially commended,Canon EOS-1D Mark IV,600mm f4 lens,600mm,1/1250sec,f4,-
+2012,Gerald Durrell Award for Endangered Species,Commended,Canon EOS 5D Mark II,16-35mm lens,35mm,1/12sec,f9,-
+2012,Gerald Durrell Award for Endangered Species,Commended,Nikon D3X,600mm lens,600mm,1/800sec,f4,-
+2012,Gerald Durrell Award for Endangered Species,Commended,Canon EOS-1D Mark IV,800mm lens,800mm,1/1600sec,f5.6,-
+2012,World in Our Hands Award,Winner,Canon EOS 5D,15mm f2.8 lens,15mm,1/100sec,f3.5,-
+2012,World in Our Hands Award,Runner-up,Mamiya 7 II,80mm f4 lens,80mm,-,f11,-
+2012,World in Our Hands Award,Specially commended,Sony DSLR-A900,24mm f2 lens,24mm,1/200sec,f11,-
+2012,World in Our Hands Award,Commended,Canon EOS 5D Mark II,16-35mm f2.8 lens,35mm,-,f4.5,-
+2012,World in Our Hands Award,Commended,Nikon D3,70-200mm f2.8 lens,200mm,1/1000sec,f11,-
+2012,World in Our Hands Award,Commended,Canon EOS-1Ds Mark II,24-105mm f4 lens,105mm,1/250sec,f9,-
+2012,World in Our Hands Award,Commended,Fujifilm FinePix S5 Pro,Nikon DX 17-55mm f2.8G lens,55mm,1/285sec,f5.6(+1.3e/v),-
+2012,World in Our Hands Award,Commended,Nikon D3,600mm f4 lens,600mm,1/2000sec,f9,ISO640
+2012,Wildlife Photojournalist Story Award,Winner,Canon EOS XTi,16mm-35mm f2.8 lens,16mm,1/160sec,f11,ISO200
+2012,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16-35mm f.2.8 lens,35mm,1/125sec,f8,-
+2012,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens,35mm,1/125sec,f8,-
+2012,Wildlife Photojournalist Story Award,Winner,Canon EOS Rebel T2i,10-22mm f3.5-4.5 lens,22mm,1/200sec,f13,ISO400
+2012,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16-35mm f2.8 lens,35mm,1/125sec,f11,-
+2012,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,16-35mm f2 lens , 24mm,1/8sec,f9,-
+2012,Wildlife Photojournalist Story Award,Runner-up,Canon-1D Mark IV,70-200mm f2.8 lens,200mm,1/250sec,f5,-
+2012,Wildlife Photojournalist Story Award,Runner-up,Canon 5D Mark II,16-35mm lens,35mm,1/10sec,f11,-
+2012,Wildlife Photojournalist Story Award,Runner-up,Canon 5D Mark II,70-200mm f2.8 lens,200mm,1/60sec,f10,-
+2012,Wildlife Photojournalist Story Award,Runner-up,Canon 5D Mark II,24mm f1.4 lens,24mm,1/250sec,f6.3,-
+2012,Wildlife Photojournalist Story Award,Runner-up,Canon 5D Mark II,24-70mm f2.8 lens,70mm,1/250sec,f5.6,-
+2012,Wildlife Photojournalist Story Award,Runner-up,Fuji FinePix X100,35mm f2 lens,35mm,1/180sec,f4,-
+2012,10 Years and Under,Winner,Nikon D300,Sigma 400mm f5.6 lens,400mm,1/250sec,f5.6,ISO800
+2012,10 Years and Under,Runner-up,Nikon D700,200-400mm f4 lens,400mm,1/4000sec,f4,ISO1000
+2012,10 Years and Under,Commended,Canon EOS 50D,70-200mm f4 lens,200mm,1/15sec,f8,-
+2012,10 Years and Under,Commended,Canon PowerShot A1100 IS,35-140mm lens,140mm,1/20sec,f2.7,-
+2012,11-14 Years,Young Grand Title Winner 2012,Nikon D90,300mm f4 lens,300mm,1/1000sec,f5.6,-
+2012,11-14 Years,Runner-up,Nikon D300,300mm f2.8 lens,300mm,1/1000sec,f4.5,-
+2012,11-14 Years,Specially commended,Canon EOS 20D,60mm macro lens,60mm,1/250sec,f5.6,-
+2012,15-17 Years,Winner,Canon EOS 450D,100mm f2.8 lens,100mm,1/250sec,f4.5,-
+2012,15-17 Years,Runner-up,Canon EOS 350D,Sigma 105mm lens,105mm,1/125sec,f5,-
+2012,15-17 Years,Specially commended,Canon EOS-1D Mark IV,70-200mm lens,200mm,1/1250sec,f5,-
+2012,15-17 Years,Commended,Nikon D3,600mm f4 lens,600mm,1/400sec,f5.6,-
+2012,15-17 Years,Commended,Nikon D300S,200-400mm f4 lens , 380mm,1/500sec,f4,-
+2012,15-17 Years,Commended,Canon EOS-1D Mark II,300mm f2.8 lens,300mm,1/4000sec,f2.8,-
+2011,Animals in their Environment,Winner,Canon EOS-1D Mark II N,300mm lens,300mm,1/6000sec,f8(+1e/v),-
+2011,Animals in their Environment,Runner-up,Nikon D700,24-70mm f2.8 lens,70mm,1/6sec,f7.1,-
+2011,Animals in their Environment,Specially commended,Canon EOS-1Ds Mark III,24-70mm f2.8 lens,70mm,1/320sec,f11,-
+2011,Animals in their Environment,Highly commended,Canon EOS-1D Mark IV,500mm f4 lens,500mm,1/800sec,f6.3,-
+2011,Animals in their Environment,Highly commended,Nikon D700,300mm f2.8 lens,300mm,1/600sec,f2.8,-
+2011,Animals in their Environment,Highly commended,Canon EOS 5D Mark II,16-35mm f2.8 lens,35mm,-,f13,-
+2011,Animals in their Environment,Highly commended,Canon EOS 5D Mark II,EF 17-40mm f4 lens,40mm,1/100sec,f5,ISO500
+2011,Animals in their Environment,Highly commended,Canon EOS 5D Mark II,EF 17-40mm f4 lens,40mm,1/80sec,f4,-
+2011,Animal Portraits,Winner,Nikon D700,70-200mm f2.8 lens,200mm,-,f18,-
+2011,Animal Portraits,Runner-up,Canon EOS 5D Mark II,17-40mm f4 lens,40mm,1/60sec,f7.1,-
+2011,Animal Portraits,Specially commended,Nikon D3,24-70mm lens,70mm,1/320sec,f16,-
+2011,Animal Portraits,Highly commended,Canon EOS-1D Mark II N,500mm f4 lens,500mm,1/200sec,f5.6,-
+2011,Animal Portraits,Highly commended,Nikon D300S,Tokina 10-17mm f3.5-4.5 lens,17mm,1/320sec,f16,ISO500
+2011,Animal Portraits,Highly commended,Nikon D300,120-400mm lens , 400mm,1/500sec,f5.6,-
+2011,Animal Portraits,Highly commended,Canon EOS-1D Mark III,600mm f4 lens,600mm,1/1600sec,f13,-
+2011,Animal Portraits,Highly commended,Nikon F90,400mm lens,400mm,1/125sec,f4,-
+2011,Behaviour: Birds,Winner,Canon EOS 50D,500mm f4 lens,500mm,1/500sec,f5(+1.7e/v),-
+2011,Behaviour: Birds,Runner-up,Canon EOS-1D Mark IV,70-200mm f2.8 lens , 115mm,1/6sec,f14,-
+2011,Behaviour: Birds,Specially commended,Canon EOS-1D Mark IV,500mm f4 lens,500mm,1/2500sec,f5.6,-
+2011,Behaviour: Birds,Highly commended,Canon EOS-1D,300mm f2.8 lens,300mm,1/45sec,f8,-
+2011,Behaviour: Birds,Highly commended,Canon EOS-1D Mark 4,500mm f4 IS lens,500mm,1/5000sec,f10(-1.7e/v),-
+2011,Behaviour: Birds,Highly commended,Nikon D700,200-400mm lens , 400mm,1/2500sec,f5.6,-
+2011,Behaviour: Birds,Highly commended,Nikon D3S,500mm f4 lens,500mm,1/3200sec,f8,-
+2011,Behaviour: Birds,Highly commended,Canon EOS 40D,500mm f4 lens,500mm,1/400sec,f6.3,-
+2011,Behaviour: Birds,Highly commended,Nikon D3S,400mm f2.8 lens,400mm,1/800sec,f5.6,-
+2011,Behaviour: Birds,Highly commended,Canon EOS-1Ds,15mm f2.8 lens,15mm,1/160sec,f18,ISO640
+2011,Behaviour: Cold Blooded Animals,Highly commended,Nikon D300,28-105mm lens,105mm,1/250sec,f16,ISO200
+2011,Behaviour: Cold Blooded Animals,Highly commended,Canon EOS 5D,Sigma 14mm f2.8 HSM lens,14mm,1/160sec,f20,ISO200
+2011,Behaviour: Cold Blooded Animals,Highly commended,Canon EOS 5D,MP-E 65mm lens,65mm,1/200sec,f10,ISO200
+2011,Behaviour: Cold Blooded Animals,Highly commended,Nikon D200,12-24mm lens , 19mm,1/100sec,f7.1,-
+2011,Behaviour: Cold Blooded Animals,Highly commended,Canon EOS 40D,100mm 2.8 lens,100mm,1/3sec,f11,ISO100
+2011,Behaviour: Mammals,Winner,Nikon D2X,10.5mm f2.8 fisheye lens,5mm,1/320sec,f12,-
+2011,Behaviour: Mammals,Runner-up,Canon EOS 5D,15mm fisheye lens,15mm,1/200sec,f9,-
+2011,Behaviour: Mammals,Highly commended,Nikon D3S,70-200mm f2.8 lens,200mm,1/3200sec,f4,-
+2011,Behaviour: Mammals,Highly commended,Nikon D3,200-400mm f4 lens,400mm,1/500sec,f4(-1.3e/v),-
+2011,Behaviour: Mammals,Highly commended,Canon EOS-1D Mark IV,70-200mm lens,200mm,1/640sec,f4(-0.3e/v),-
+2011,Behaviour: Mammals,Highly commended,Nikon D700,500mm f4 lens,500mm,1/2000sec,f8,-
+2011,Botanical Realms,Winner,Nikon D700,Meier Görlitz Trioplan 100mm f2.8 lens,100mm,1/50sec,f2.8,-
+2011,Botanical Realms,Runner-up,Nikon D300,70-200mm f2.8 lens,200mm,1/10sec,f16(-1.0e/v),-
+2011,Botanical Realms,Specially commended,Canon EOS 5D Mark II,70-200mm f2.8 lens,200mm,1/160sec,f11,-
+2011,Botanical Realms,Highly commended,Nikon D200,105mm f2.8 lens,105mm,1/250sec,f3.3,-
+2011,Botanical Realms,Highly commended,Canon EOS 5D Mark II,24-70mm f2.8 lens,70mm,1/2sec,f13(-0.3e/v),-
+2011,Underwater Worlds,Winner,Canon 1Ds II,16-35mm lens,35mm,1/160,f6.3,-
+2011,Underwater Worlds,Runner-up,Canon 1Ds III,16-35mm lens,35mm,1/250sec,f10,-
+2011,Underwater Worlds,Specially commended,Canon EOS 7D,Tokina 10-17mm lens , 13mm,1/100sec,f8,-
+2011,Underwater Worlds,Highly commended,Canon EOS 5D,16-35mm lens,35mm,1/125sec,f4,-
+2011,Underwater Worlds,Highly commended,Nikon D700,16mm f2.8 lens,16mm,1/10sec,f11,ISO640
+2011,Underwater Worlds,Highly commended,Nikon D700,16mm f2.8 lens,16mm,1/125sec,f6.3,-
+2011,Underwater Worlds,Highly commended,Canon EOS 7D,Tokina 10-17mm lens,17mm,1/250sec,f9,ISO160
+2011,Underwater Worlds,Highly commended,Canon 500D,10-22mm lens,22mm,1/64sec,f11,ISO100
+2011,Wildscapes,Winner,Nikon D3 modified with Baader IR cut filter,24mm f1.4 lens,24mm,-,f1.8,-
+2011,Wildscapes,Runner-up,Canon EOS 500D,18-55mm lens,55mm,-,f8,-
+2011,Wildscapes,Specially commended,Canon EOS 5D Mark II,400mm f5.6 lens,400mm,1/800sec,f8(-0.3e/v),-
+2011,Wildscapes,Specially commended,Nikon D3S,24-70mm f2.8 lens,70mm,-,f2.8,ISO2500
+2011,Wildscapes,Highly commended,Nikon D3,14-24mm f2.8 lens,24mm,1/5000sec,f6.3(-1.3e/v),-
+2011,Wildscapes,Highly commended,Nikon D700,500mm f4 lens,500mm,1/160sec,f7.1,-
+2011,Wildscapes,Highly commended,Canon EOS-1Ds Mark III,70-200mm f2.8 lens,200mm,1/20sec,f8,-
+2011,Wildscapes,Highly commended,Nikon D3S,14-24mm f2.8 lens , 14mm,-,f2.8,-
+2011,Urban Wildlife,Winner,Canon EOS-1D Mark IV,EF 24-105mm lens , 35mm,1/200sec,f14,-
+2011,Urban Wildlife,Runner-up,Nikon D700,70-200mm f2.8 lens,200mm,1/1000sec,f16,-
+2011,Urban Wildlife,Highly commended,Nikon D300,Sigma 120-400mm f4.5-5.6 lens,400mm,1/1250sec,f7.1,-
+2011,Urban Wildlife,Highly commended,Nikon D3S,Sigma 15mm f2.8 lens,15mm,-,f10,ISO400
+2011,Nature in Black and White,Winner,Nikon D2Xs,600mm lens,600mm,1/350sec,f8,-
+2011,Nature in Black and White,Runner-up,Nikon D90,70-300mm lens,300mm,1/500sec,f8,-
+2011,Nature in Black and White,Specially commended,Nikon D700,200-400mm lens,400mm,1/3000sec,f4,-
+2011,Nature in Black and White,Highly commended,Canon EOS 5D,300mm f2.8 lens,300mm,1/80sec,f5.6,-
+2011,Nature in Black and White,Highly commended,Nikon D3,600mm lens,600mm,1/1000sec,f7.1,-
+2011,Nature in Black and White,Highly commended,Nikon D300,12-24mm lens,24mm,1/6sec,f22,-
+2011,Nature in Black and White,Highly commended,Nikon D700,70-200mm f2.8 lens,200mm,1/60sec,f8,-
+2011,Nature in Black and White,Highly commended,Nikon D3X,200-400mm f4 lens,400mm,1/320sec,f7.1,-
+2011,Creative Visions,Winner,Nikon D700,24-70mm lens,70mm,1/320sec,f16,-
+2011,Creative Visions,Joint runner-up,Nikon D3S,600mm f4 lens,600mm,1/8sec,f13,-
+2011,Creative Visions,Joint runner-up,Nikon D3S,200-400mm f4 lens,400mm,1/2500sec,f8,-
+2011,Creative Visions,Specially commended,Canon EOS-1D Mark III,600mm f4 lens,600mm,1/1600sec,f13,-
+2011,Creative Visions,Highly commended,Pentax K10D,Tamron SP 90mm f2.8 macro lens,90mm,1/10sec,f25,-
+2011,Creative Visions,Highly commended,Nikon D3X,28-300mm f3.5-5.6 lens,300mm,-,f20,-
+2011,Creative Visions,Highly commended,Canon EOS-1D Mark IV,800mm lens,800mm,1/640sec,f6.3(+2.3e/v),-
+2011,Creative Visions,Highly commended,Nikon D3S,400mm f2.8 lens,400mm,1/250sec,f4,-
+2011,Eric Hosking Portfolio Award,Winner,Nikon D300S,Tokina 10-17mm f3.5-4.5 lens,17mm,1/160sec,f16,ISO500
+2011,Eric Hosking Portfolio Award,Winner,Nikon D700,28-300mm lens,300mm,1/4sec,f9,ISO100
+2011,Eric Hosking Portfolio Award,Winner,Nikon D700,28-300mm lens,300mm,1/30sec,f13,ISO100
+2011,Eric Hosking Portfolio Award,Winner,Nikon D700,28-300mm lens,300mm,1/160sec,f9,ISO250
+2011,Eric Hosking Portfolio Award,Winner,Nikon D700,28-300mm lens,300mm,1/1000sec,f4,-
+2011,Eric Hosking Portfolio Award,Winner,Nikon D700,28-105mm lens,105mm,1/250sec,f13,ISO200
+2011,Gerald Durrell Award for Endangered Species,Winner,Nikon D300S,500mm f4 lens,500mm,1/1600sec,f8,-
+2011,Gerald Durrell Award for Endangered Species,Runner-up,Canon EOS-1Ds Mark III,400mm f2.8 lens,400mm,1/200sec,f2.8,-
+2011,Gerald Durrell Award for Endangered Species,Highly commended,Nikon D300,300mm f2.8 lens,300mm,1/250sec,f4.8,ISO320
+2011,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,24-70mm f2.8 , 54mm,1/1000sec,f4(-0.7e/v),-
+2011,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,100-400mm lens , 350mm,1/1250sec,f6.3(-0.7e/v),-
+2011,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,35mm f1.4 lens , 35mm,1/1000sec,f5.6(-0.7e/v),-
+2011,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,100-400mm lens , 170mm,1/800sec,f5,-
+2011,Wildlife Photojournalist Story Award,Winner,Canon EOS 5D Mark II,24-70mm f2.8 lens , 51mm,1/1000sec,f2.8,-
+2011,Wildlife Photojournalist Story Award,Adult Grand Title Winner 2011,Canon EOS 5D Mark II,35mm f1.4 lens , 35mm,1/30sec,f4(-0.7e/v),-
+2011,10 Years and Under,Winner,Nikon D300,105mm f2.8 lens,105mm,1/80sec,f5.6,ISO400
+2011,10 Years and Under,Runner-up,Canon EOS 40D,300mm f4 lens,300mm,1/500sec,f7.1,ISO400
+2011,10 Years and Under,Highly commended,Nikon D300,70-200mm f2.8 lens,200mm,1/1000sec,f4,ISO400
+2011,11-14 Years,Young Grand Title Winner 2011,Canon EOS 40D,400mm f5.6 lens,400mm,1/800sec,f5.6(-1.3e/v),-
+2011,11-14 Years,Runner-up,Canon EOS 7D,300mm f2.8 lens,300mm,1/1600sec,f6.3,-
+2011,11-14 Years,Specially commended,Nikon D90,500mm f4 lens,500mm,1/350sec,f11,-
+2011,11-14 Years,Highly commended,Nikon D700,AF-S 300mm f2.8 lens,300mm,1/5000sec,f5.6,-
+2011,11-14 Years,Highly commended,Canon EOS 5D Mark II,500mm f4 lens,500mm,1/200sec,f7.1(-0.3e/v),ISO400
+2011,11-14 Years,Highly commended,Canon EOS 7D,70-200mm f2.8 lens,200mm,1/1600sec,f8,-
+2011,11-14 Years,Highly commended,Nikon D300S,300mm f2.8 VR lens,300mm,1/800sec,f9(-0.3e/v),-
+2011,15-17 Years,Winner,Nikon D5000,55-200mm f3.5-5.6 lens , 200mm,1/500sec,f5.6,-
+2011,15-17 Years,Runner-up,Sony A350,Sigma 18-125mm f3.5-5.6 lens,125mm,1/4000sec,f9,-
+2011,15-17 Years,Highly commended,Sony Alpha A200,Sigma 70-300mm f4-5.6 lens , 200mm,1/80sec,f5,-
+2011,15-17 Years,Highly commended,Canon EOS 40D,300mm f4 lens,300mm,1/1000sec,f5.6(+1.3e/v),-
+2011,15-17 Years,Highly commended,Canon EOS 400D,Sigma 70-300mm lens,300mm,1/6sec,f4,-
+2010,Animals in their Environment,Winner,Nikon D300,16-85mm f3.5-5.6 lens,85mm,1/100sec,f8,ISO200
+2010,Animals in their Environment,Runner-up,Nikon D3,24-70mm f2.8 lens,70mm,1/1000sec,f8,-
+2010,Animals in their Environment,Highly commended,Nikon D700,300mm f2.8 lens,300mm,1/2000sec,f5.6,-
+2010,Animals in their Environment,Highly commended,Nikon D300,18-70mm lens,70mm,1/100sec,f6.3,-
+2010,Animals in their Environment,Highly commended,Nikon D3,500mm f4 lens,500mm,1/640sec,f6.3,-
+2010,Animals in their Environment,Highly commended,Canon EOS 50D,10-22mm lens,22mm,1/8sec,f22,ISO100
+2010,Animal Portraits,Winner,Canon EOS 40D,10-16mm f.2.8 lens,16mm,1/250sec,f13,-
+2010,Animal Portraits,Runner-up,Canon EOS-1D Mark III,500mm lens,500mm,1/2000sec,f5.6,-
+2010,Animal Portraits,Specially commended,Canon EOS 5D Mark II,400mm f5.6 lens,400mm,1/5sec,f5.6,-
+2010,Animal Portraits,Highly commended,Nikon D3,14-24mm lens,24mm,1/200sec,f22,-
+2010,Animal Portraits,Highly commended,Nikon D3s,70-200mm f2.8 lens,200mm,1/2500sec,f4,-
+2010,Animal Portraits,Highly commended,Canon EOS 40D,100mm f2.8 lens,100mm,1/4sec,f8,-
+2010,Animal Portraits,Highly commended,Canon EOS 40D,500mm f4 lens,500mm,1/500sec,f7.1,ISO250
+2010,Behaviour: Birds,Winner,Canon EOS-1D Mark IV,500mm f4 lens,500mm,1/2500sec,f7,-
+2010,Behaviour: Birds,Runner-up,Canon EOS-1D Mark III,500mm f4 lens,500mm,1/1000sec,f5.6,-
+2010,Behaviour: Birds,Specially commended,Nikon D300,600mm f4 lens,600mm,1/800sec,f6.3(-1.7e/v),ISO200
+2010,Behaviour: Birds,Highly commended,Canon EOS 5D Mark II,17mm f2.8 lens,17mm,1/60sec,-,ISO400
+2010,Behaviour: Birds,Highly commended,Canon EOS 5D,500mm f4 lens,500mm,1/250sec,f5.6,ISO400
+2010,Behaviour: Birds,Highly commended,Canon EOS-50D,EF 400mm f5.6 lens,400mm,1/1000sec,f5.6,-
+2010,Behaviour: Cold Blooded Animals,Winner,Canon EOS-1Ds Mark II,15mm lens,15mm,1/60sec,f9,-
+2010,Behaviour: Cold Blooded Animals,Runner-up,Nikon D3X,200-400mm f4 lens,400mm,1/800sec,f4.5,-
+2010,Behaviour: Cold Blooded Animals,Highly commended,Canon 450D,MP-E 65mm lens,65mm,1/160sec,f10,-
+2010,Behaviour: Cold Blooded Animals,Highly commended,Canon EOS 5D,EF 17-40mm f4 lens,40mm,1/40sec,f13,-
+2010,Behaviour: Cold Blooded Animals,Highly commended,Nikon D300,17-55mm f2.8 lens , 17mm,1/125sec,f13,-
+2010,Behaviour: Mammals,Winner,Nikon D700,500mm f4 lens,500mm,1/4000sec,f6.7,-
+2010,Behaviour: Mammals,Runner-up,Nikon F100,600mm f5.6 lens,600mm,1/20sec,f5.6,-
+2010,Behaviour: Mammals,Highly commended,Nikon D2x,500mm lens,500mm,1/500sec,f4,-
+2010,Behaviour: Mammals,Highly commended,Nikon D700,600mm f4 lens,600mm,1/320sec,f4.5,-
+2010,Behaviour: Mammals,Highly commended,Canon EOS 40D,Tamron 28-300mm lens,300mm,1/800sec,f10,-
+2010,Behaviour: Mammals,Highly commended,Canon EOS-1D Mark III,EF 100-400mm f4.5-5.6 lens,400mm,1/13sec,f10(-1/3e/v),-
+2010,Botanical Realms,Winner,Nikon D300,105mm f2.8 lens,105mm,1/10sec,f5.6(+0.3EV),-
+2010,Botanical Realms,Runner-up,Canon EOS 5D Mark II,70-200mm lens,200mm,1/5sec,f16,-
+2010,Botanical Realms,Specially commended,Nikon D3,24-70mm lens,70mm,-,f5.6,-
+2010,Botanical Realms,Highly commended,Nikon D3,14-24mm f2.8 lens,24mm,-,f5,-
+2010,Botanical Realms,Highly commended,Nikon D300,18-200mm VR lens,200mm,1/125sec,f11,-
+2010,Botanical Realms,Highly commended,Canon EOS 5D Mark II,100mm f2.8 lens,100mm,1/30sec,f3.2,-
+2010,Botanical Realms,Highly commended,Nikon D700,14-24mm f2.8 lens,24mm,-,f2.8,-
+2010,Botanical Realms,Highly commended,Nikon D200,105mm f2.8 lens,105mm,1/5000sec,f3.3,-
+2010,Underwater Worlds,Winner,Canon EOS 5D Mark II,15mm f2.8 fisheye lens,15mm,1/400sec,f4.5,-
+2010,Underwater Worlds,Runner-up,Canon EOS 5D Mark II,EF 16-35mm f2.8 lens,35mm,1/85sec,f5.6,-
+2010,Underwater Worlds,Highly commended,Canon EOS 5D Mark II,16-35mm f2.8 lens,35mm,1/200sec,f5.6,ISO400
+2010,Underwater Worlds,Highly commended,Nikon D2x,Tokina AT-X 107 AF 10-17mm f3.5-4.5 lens,17mm,1/250sec,f5.3,ISO400
+2010,Underwater Worlds,Highly commended,Nikon D3,16mm f2.8 lens,16mm,1/125sec,f16,ISO500
+2010,Wildscapes,Winner,Nikon D3,24-70mm f2.8 lens,70mm,1/4sec,f11,-
+2010,Wildscapes,Runner-up,Canon EOS-1Ds Mark III,16-35mm f2.8 lens,35mm,-,f11,-
+2010,Wildscapes,Specially commended,Toyo Field 45 AII,Schneider 75mm f5.6 lens,75mm,-,f4.5,-
+2010,Wildscapes,Highly commended,Canon EOS-1Ds Mark III,16-35mm f2.8 II lens,35mm,-,f2.8,ISO400
+2010,Wildscapes,Highly commended,Canon 5D Mark II,500mm lens,500mm,-,f4,-
+2010,Urban Wildlife,Highly commended,Nikon D2x,16mm f2.8 lens,16mm,1/1000sec,f9,-
+2010,Urban Wildlife,Highly commended,Canon EOS-1Ds Mark III,16-35mm lens,35mm,1/20sec,f2.8,ISO1600
+2010,Urban Wildlife,Highly commended,Nikon D3,70-200mm f2.8 VR lens,200mm,1/5sec,f6.3,-
+2010,Urban Wildlife,Highly commended,Canon EOS 5D Mark II,EF 16-35mm f2.8 lens,35mm,1/160sec,f3.5,-
+2010,Nature in Black and White,Winner,Nikon D3,70-200mm f2.8 lens,200mm,1/125sec,f22,-
+2010,Nature in Black and White,Runner-up,Nikon D300,Sigma 70-200mm f2.8 lens,200mm,1/10sec,f7.1,-
+2010,Nature in Black and White,Highly commended,Canon EOS-1D Mark III,EF 300mm f2.8 lens,300mm,1/100sec,f4,-
+2010,Nature in Black and White,Highly commended,Canon EOS 7D,300mm f2.8 lens,300mm,1/2000sec,f11,-
+2010,Nature in Black and White,Highly commended,Nikon D700,400mm f2.8 lens,400mm,1/250sec,f9,-
+2010,Nature in Black and White,Highly commended,Canon EOS 1000D,18-55mm lens,55mm,1/250sec,f16,-
+2010,Nature in Black and White,Highly commended,Nikon FE2,200mm fixed lens,200mm,1/8sec,f4,-
+2010,Creative Visions,Winner,Nikon D3,70-200mm lens,200mm,1/3200sec,f4.5,-
+2010,Creative Visions,Runner-up,Nikon D700,24-70mm f2.8 lens,70mm,-,f5.6,-
+2010,Creative Visions,Specially commended,Canon EOS 5D Mark II,600mm f4 lens,600mm,1/180sec,f5.6,-
+2010,Creative Visions,Highly commended,Nikon D3,24-70mm lens,70mm,-,f3.5,-
+2010,Creative Visions,Highly commended,Nikon D300,Tamron 90mm lens,90mm,1/200sec,f5.6,-
+2010,Creative Visions,Highly commended,Nikon D3,200mm lens,200mm,1/80sec,f5.6,ISO1250
+2010,Creative Visions,Highly commended,Nikon D300,18-35mm lens,35mm,-,f29,-
+2010,Eric Hosking Portfolio Award,Winner,Nikon D700,20mm f2.8 lens,20mm,-,f2.8,-
+2010,Eric Hosking Portfolio Award,Winner,Nikon D300,Sigma 300-800mm f5.6 lens,800mm,1/4000sec,f8,-
+2010,Eric Hosking Portfolio Award,Winner,Nikon D300,Tamron 10-17mm f3.5-4.5 lens,17mm,1/250sec,f16,ISO200
+2010,Eric Hosking Portfolio Award,Winner,Nikon D700,300mm f2.8 lens,300mm,1/320sec,f2.8,ISO1600
+2010,Eric Hosking Portfolio Award,Winner,Nikon D700,300mm f2.8 lens,300mm,1/2500sec,f5,-
+2010,Eric Hosking Portfolio Award,Adult Grand Title Winner 2010,Nikon D700,105mm f2.8 lens,105mm,1/200sec,f10,-
+2010,Gerald Durrell Award for Endangered Species,Winner,Nikon D3,200-400mm lens,400mm,1/1000sec,f4,-
+2010,Gerald Durrell Award for Endangered Species,Highly commended,Canon EOS-1D Mark III,70-200mm f2.8 lens,200mm,1/2000sec,f10,-
+2010,Gerald Durrell Award for Endangered Species,Highly commended,Canon EOS 5D,70-200mm f2.8 lens,200mm,1/125sec,f11,-
+2010,Gerald Durrell Award for Endangered Species,Highly commended,Canon EOS 1D Mark III,400mm f2.8 lens,400mm,1/800sec,f4,-
+2010,Gerald Durrell Award for Endangered Species,Highly commended,Nikon D300,80-400mm lens,400mm,1/60sec,f5.6,-
+2010,Gerald Durrell Award for Endangered Species,Highly commended,Canon 5D Mark II,17-40mm f4 lens,40mm,1/200sec,f7.1,ISO200
+2010,Gerald Durrell Award for Endangered Species,Highly commended,Nikon D3,80-200mm f2.8D lens,200mm,1/1250sec,f8,-
+2010,Wildlife Photojournalist Story Award,Winner,Nikon D2x,Sigma 14mm f2.8 aspherical lens,14mm,1/60sec,f4,-
+2010,Wildlife Photojournalist Story Award,Winner,Nikon D700,17-35mm f2.8 lens,35mm,1/60sec,f4.5,-
+2010,Wildlife Photojournalist Story Award,Winner,Nikon D700,17-35mm f2.8 lens,35mm,1/80sec,f5.6,-
+2010,Wildlife Photojournalist Story Award,Winner,Nikon D700,17-35mm f2.8 lens,35mm,1/80sec,f5.6,-
+2010,Wildlife Photojournalist Story Award,Winner,Nikon D2x,17-35mm f2.8 lens,35mm,1/50sec,f3.2,-
+2010,Wildlife Photojournalist Story Award,Winner,Nikon D2x,17-35mm f2.8 lens,35mm,1/50sec,f7.1,-
+2010,Wildlife Photojournalist Story Award,Runner-up,Nikon D2X,14mm lens,14mm,1/60sec,f9,ISO250
+2010,Wildlife Photojournalist Story Award,Runner-up,Nikon D3,14-24mm lens,24mm,1/30sec,f5.6,-
+2010,Wildlife Photojournalist Story Award,Runner-up,Nikon D2X,16mm lens,16mm,1/160sec,f11,ISO320
+2010,Wildlife Photojournalist Story Award,Runner-up,Nikon D2X,12-24mm lens,24mm,1/60sec,f9,-
+2010,Wildlife Photojournalist Story Award,Runner-up,Nikon D2X,16mm lens,16mm,1/125sec,f9,ISO100
+2010,Wildlife Photojournalist Story Award,Runner-up,Nikon D2X,16mm lens,16mm,1/60sec,f8,ISO100
+2010,Wildlife Photojournalist Story Award,Specially commended,Nikon D3,50mm f1.2 lens,50mm,-,f2.8,-
+2010,Wildlife Photojournalist Story Award,Specially commended,Nikon D3,70-200mm f2.8 lens,200mm,1/1250sec,f4,-
+2010,Wildlife Photojournalist Story Award,Specially commended,Nikon D3,17-35mm f2.8 lens,35mm,1/30sec,f2.8,-
+2010,Wildlife Photojournalist Story Award,Specially commended,Nikon F5,70-200mm f2.8 lens,200mm,1/125sec,f2.8,-
+2010,Wildlife Photojournalist Story Award,Specially commended,Nikon D3,85mm f1.4 lens,85mm,1/30sec,f4,-
+2010,Wildlife Photojournalist Story Award,Specially commended,Nikon D3,17-35mm f2.8 lens,35mm,1/30sec,f2.8,-
+2010,One Earth Award,Winner,Nikon D300,Tokina Fisheye 10-17mm f3.5-4.5 DX lens,17mm,1/160sec,f14,ISO200
+2010,One Earth Award,Runner-up,Canon EOS 5D Mark II,100-400mm f4.5-5.6 lens,400mm,1/1000sec,f5.6,-
+2010,One Earth Award,Specially commended,Canon EOS 5D,16-35MM f2.8L lens. 1/125 sec , f6.7, ISO 400.,-,-,-
+2010,One Earth Award,Highly commended,Canon EOS 5D Mark II,24-105mm f4 lens,105mm,1/60sec,f5,-
+2010,One Earth Award,Highly commended,Nikon D3,14-24mm f2.8 lens,24mm,1/125sec,f14,ISO200
+2010,One Earth Award,Highly commended,Nikon D3,14-24mm f2.8 lens,24mm,1/160sec,f22(-0.3e/v),-
+2010,One Earth Award,Highly commended,Nikon D2x,16mm lens,16mm,1/125sec,f11,-
+2010,10 Years and Under,Winner,Nikon D3,70-200mm f2.8 lens , 200mm,1/500sec,f3.5,-
+2010,10 Years and Under,Runner-up,Canon 20D,18-55mm lens,55mm,1/50sec,f5.6,-
+2010,10 Years and Under,Highly commended,Nikon D300,500mm lens,500mm,1/1000sec,f5.6,ISO400
+2010,10 Years and Under,Highly commended,Canon EOS 20D,100-300mm lens,300mm,1/500sec,f19,-
+2010,10 Years and Under,Highly commended,Canon EOS 450D,70-200mm f4 lens,200mm,1/500sec,f6.3,-
+2010,11-14 Years,Winner,Nikon D70,18-35mm f3.5-4.5 lens , 35mm,1/1600sec,f4.5,-
+2010,11-14 Years,Runner-up,Canon EOS-1Ds Mark II,24-105mm lens,105mm,1/20sec,f4,-
+2010,11-14 Years,Highly commended,Nikon D60,70-300mm lens,300mm,1/100sec,f11,-
+2010,15-17 Years,Young Grand Title Winner 2010,Nikon D300,500mm f4 lens,500mm,1/500sec,f4,-
+2010,15-17 Years,Runner-up,Nikon D80,80-200mm f2.8 lens,200mm,1/30sec,f11,-
+2010,15-17 Years,Specially commended,Canon EOS 40D,18-55mm lens,55mm,-,f5.6,-
+2010,15-17 Years,Highly commended,Nikon D300,500mm f4 lens,500mm,1/400sec,f5.6,-
+2010,15-17 Years,Highly commended,Canon EOS 50D,300mm f2.8 lens,300mm,1/500sec,f8,-
+2010,15-17 Years,Highly commended,Canon EOS 40D,Tamron 200-400mm f5.6 lens,400mm,1/60sec,f8,-
